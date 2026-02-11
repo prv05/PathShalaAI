@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>PathShalaAI – Learning Page</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="app">
+
+  <!-- Sidebar -->
+  <aside class="sidebar">
+    <h2>📘 PathShalaAI</h2>
+    <ul>
+      <li>Lesson List</li>
+      <li>Progress</li>
+      <li>Bookmarks</li>
+      <li>Notes</li>
+    </ul>
+  </aside>
+
+  <!-- Main Content -->
+  <main class="content">
+
+    <!-- Dynamic Lesson Header -->
+    <div class="lesson-header">
+      <h1 id="lessonTitle">Select a topic to begin</h1>
+      <p id="lessonMeta"></p>
+    </div>
+
+    <!-- Dynamic Lesson Content -->
+    <section class="lesson-text">
+
+      <h3 id="lessonOverviewTitle"></h3>
+      <p id="lessonOverview"></p>
+
+      <h3>Step-by-Step Explanation</h3>
+      <ol id="lessonSteps"></ol>
+
+    </section>
+
+  </main>
+
+  <!-- AI Assistant -->
+  <aside class="ai-panel">
+    <h3>🤖 AI Teaching Assistance</h3>
+
+    <textarea 
+      id="questionInput" 
+      placeholder="Ask your doubt here...">
+    </textarea>
+
+    <button onclick="askDoubt()">Ask</button>
+    <button onclick="startListening()">🎤 Speak</button>
+
+    <!-- Disabled initially -->
+    <button id="listenBtn" onclick="playVoice()" disabled>
+      🔊 Listen
+    </button>
+
+    <div class="ai-answer" id="aiText">
+      AI explanation will appear here...
+    </div>
+
+  </aside>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

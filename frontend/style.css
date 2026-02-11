@@ -1,0 +1,81 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  margin: 0;
+  background: #f4f6fa;
+}
+
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+/* Sidebar */
+.sidebar {
+  width: 220px;
+  background: #1f3a8a;
+  color: white;
+  padding: 20px;
+}
+
+.sidebar h2 {
+  margin-bottom: 20px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  margin: 15px 0;
+  cursor: pointer;
+}
+
+/* Content */
+.content {
+  flex: 1;
+  padding: 30px;
+  overflow-y: auto;
+}
+
+.lesson-header h1 {
+  margin-bottom: 5px;
+}
+
+.lesson-text {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* AI Panel */
+.ai-panel {
+  width: 300px;
+  background: white;
+  padding: 20px;
+  border-left: 1px solid #ddd;
+}
+
+.ai-panel textarea {
+  width: 100%;
+  height: 80px;
+  margin-bottom: 10px;
+}
+
+.ai-panel button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.ai-answer {
+  background: #f1f5f9;
+  padding: 10px;
+  min-height: 80px;
+  margin-bottom: 10px;
+}
