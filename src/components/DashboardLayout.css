@@ -1,0 +1,94 @@
+.dashboard-layout {
+    display: flex;
+    height: 100vh;
+    background-color: var(--background);
+    overflow: hidden;
+}
+
+.dashboard-main {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    /* Allow main container to scroll, moving top bar */
+    position: relative;
+}
+
+/* Top bar styles if needed in future */
+.top-bar {
+    display: block;
+    flex-shrink: 0;
+    position: sticky;
+    top: 0;
+    z-index: 40;
+    background-color: var(--background);
+    /* Ensure it covers content */
+}
+
+/* Hide logo in Header when inside Dashboard Layout because Sidebar has it */
+.dashboard-layout .header-logo-container {
+    display: none;
+}
+
+/* Make header background transparent or match */
+.dashboard-layout .header {
+    border-bottom: none;
+    background: transparent;
+    /* Keep transparent so top-bar handles bg or remove this line? */
+    /* If top-bar has bg, header can be transparent. */
+    justify-content: flex-end;
+    /* Push items to right */
+}
+
+.content-area {
+    flex: 1;
+    overflow: visible;
+    /* Let parent handle scrolling */
+    padding: 0 1rem 1rem 1rem;
+    background-color: var(--background);
+    /* Ensure background is consistent */
+}
+
+.mobile-header {
+    display: none;
+    align-items: center;
+    padding: 1rem;
+    background: var(--card);
+    border-bottom: 1px solid var(--border);
+    gap: 1rem;
+}
+
+.sidebar-overlay {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    .dashboard-layout .header-logo-container {
+        display: none;
+        /* Still hide, mobile header shows logo */
+    }
+
+    .mobile-header {
+        display: flex;
+    }
+
+    .top-bar {
+        display: none;
+        /* Hide standard header on mobile, use sidebar/mobile header */
+    }
+
+    .sidebar-overlay {
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 40;
+    }
+
+    .content-area {
+        padding: 1rem;
+    }
+}

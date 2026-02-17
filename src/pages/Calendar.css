@@ -1,0 +1,350 @@
+.calendar-container {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding-bottom: 2rem;
+}
+
+.cal-header {
+    margin-bottom: 2rem;
+}
+
+.cal-title {
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin: -0.5rem 0 0.5rem 0;
+    color: var(--foreground);
+}
+
+.cal-subtitle {
+    color: #64748b;
+    font-size: 1rem;
+    margin: 0;
+}
+
+.cal-stats-row {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.cal-stat-card {
+    background-color: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 1rem;
+    padding: 1.25rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.cal-stat-icon-box {
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cal-stat-info h3 {
+    margin: 0;
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: var(--foreground);
+}
+
+.cal-stat-info p {
+    margin: 0;
+    font-size: 0.875rem;
+    color: #64748b;
+}
+
+/* Layout */
+.cal-layout {
+    display: grid;
+    grid-template-columns: 1fr 350px;
+    gap: 2rem;
+}
+
+/* Main Col */
+.cal-main-col {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.cal-main-card {
+    background-color: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 1rem;
+    padding: 1.5rem;
+}
+
+.cal-month-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.cal-month-title {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin: 0;
+}
+
+.cal-grid {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    /* Square aspect ratio trick if needed, or fixed height */
+    gap: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.cal-day-cell {
+    aspect-ratio: 1;
+    border-radius: 0.75rem;
+    border: 1px solid transparent;
+    /* Prepare for hover/selected */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    padding-top: 0.5rem;
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: var(--foreground);
+    position: relative;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+/* Hover Effect */
+.cal-day-cell:hover:not(.other-month) {
+    background-color: var(--background);
+    border-color: var(--border);
+}
+
+/* Selected Day State */
+.cal-day-cell.selected-day {
+    border-color: var(--primary);
+    background-color: rgba(79, 70, 229, 0.05);
+    /* Tint of primary */
+    box-shadow: 0 0 0 2px rgba(79, 70, 229, 0.2);
+}
+
+/* Today State (Visual Marker) */
+.cal-day-cell.today-marker {
+    background-color: #eff6ff;
+    color: #2563eb;
+}
+
+.cal-day-cell.other-month {
+    pointer-events: none;
+}
+
+.cal-dots {
+    display: flex;
+    gap: 3px;
+    margin-top: 4px;
+}
+
+.cal-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+}
+
+.cal-legend {
+    display: flex;
+    gap: 1.5rem;
+    font-size: 0.875rem;
+    color: #64748b;
+    justify-content: center;
+    border-top: 1px solid var(--border);
+    padding-top: 1rem;
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.legend-color {
+    width: 12px;
+    height: 12px;
+    border-radius: 4px;
+}
+
+/* Checklist */
+.checklist-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+.checklist-item {
+    display: flex;
+    gap: 1rem;
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--border);
+}
+
+.checklist-item:last-child {
+    border-bottom: none;
+}
+
+.checklist-content {
+    flex: 1;
+}
+
+.checklist-text {
+    font-weight: 500;
+    margin-bottom: 0.25rem;
+}
+
+.checklist-text.completed {
+    text-decoration: line-through;
+    color: #94a3b8;
+}
+
+.checklist-meta {
+    font-size: 0.75rem;
+    color: #64748b;
+}
+
+/* Right Panel */
+.cal-daily-panel {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+.daily-card {
+    background-color: var(--card);
+    border-radius: 1rem;
+    border: 1px solid var(--border);
+    padding: 1.5rem;
+}
+
+.daily-header {
+    font-weight: 700;
+    font-size: 1.125rem;
+    margin-bottom: 1.25rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.schedule-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    max-height: 400px;
+    overflow-y: auto;
+}
+
+.schedule-item {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+}
+
+.schedule-time {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--foreground);
+    min-width: 65px;
+}
+
+.schedule-content {
+    flex: 1;
+    background-color: var(--background);
+    padding: 0.75rem;
+    border-radius: 0.75rem;
+}
+
+.schedule-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+}
+
+.schedule-tag {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.75rem;
+    color: #64748b;
+}
+
+/* AI Widget */
+.ai-rec-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+    color: var(--primary);
+}
+
+.ai-task-list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+}
+
+.ai-task {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.75rem;
+    background-color: var(--background);
+    border-radius: 0.75rem;
+}
+
+.ai-task-left {
+    display: flex;
+    gap: 0.75rem;
+    align-items: center;
+}
+
+.ai-task-text {
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+.ai-task-sub {
+    font-size: 0.75rem;
+    color: #64748b;
+}
+
+.auto-schedule-btn {
+    width: 100%;
+}
+
+@media (max-width: 1024px) {
+    .cal-layout {
+        grid-template-columns: 1fr;
+    }
+
+    .cal-daily-panel {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+}
+
+@media (max-width: 768px) {
+    .cal-stats-row {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .cal-daily-panel {
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,0 +1,163 @@
+.subject-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+}
+
+.subject-card {
+    background-color: var(--card);
+    border: 2px solid var(--border);
+    border-radius: 1rem;
+    padding: 1.5rem;
+    cursor: pointer;
+    transition: all 0.2s;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    position: relative;
+    overflow: hidden;
+}
+
+.subject-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--primary);
+}
+
+.subject-card.selected {
+    border-color: var(--primary);
+    background-color: var(--card);
+    /* Keep card bg, maybe add subtle tint */
+    box-shadow: 0 4px 6px -1px rgba(79, 127, 255, 0.1);
+}
+
+.subject-icon-wrapper {
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 0.75rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* Colors for icons handled by inline styles or specific classes if needed, 
+     but for now using tailwind-like logic in JSX, I need to support that in CSS or manually here */
+}
+
+/* Hardcoding colors for now since I can't rely on Tailwind classes being present */
+.bg-blue-100 {
+    background-color: #dbeafe;
+}
+
+.text-blue-500 {
+    color: #3b82f6;
+}
+
+.bg-green-100 {
+    background-color: #dcfce7;
+}
+
+.text-green-500 {
+    color: #22c55e;
+}
+
+.bg-yellow-100 {
+    background-color: #fef9c3;
+}
+
+.text-yellow-500 {
+    color: #eab308;
+}
+
+.bg-pink-100 {
+    background-color: #fce7f3;
+}
+
+.text-pink-500 {
+    color: #ec4899;
+}
+
+.bg-orange-100 {
+    background-color: #ffedd5;
+}
+
+.text-orange-500 {
+    color: #f97316;
+}
+
+.bg-teal-100 {
+    background-color: #ccfbf1;
+}
+
+.text-teal-500 {
+    color: #14b8a6;
+}
+
+/* Dark mode adjustments for icon backgrounds */
+.dark .bg-blue-100 {
+    background-color: rgba(59, 130, 246, 0.2);
+}
+
+.dark .bg-green-100 {
+    background-color: rgba(34, 197, 94, 0.2);
+}
+
+.dark .bg-yellow-100 {
+    background-color: rgba(234, 179, 8, 0.2);
+}
+
+.dark .bg-pink-100 {
+    background-color: rgba(236, 72, 153, 0.2);
+}
+
+.dark .bg-orange-100 {
+    background-color: rgba(249, 115, 22, 0.2);
+}
+
+.dark .bg-teal-100 {
+    background-color: rgba(20, 184, 166, 0.2);
+}
+
+
+.subject-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.subject-name {
+    font-size: 1.125rem;
+    font-weight: 600;
+    margin: 0;
+    color: var(--foreground);
+}
+
+.subject-type {
+    font-size: 0.875rem;
+    color: #64748b;
+}
+
+.subject-check {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    width: 1.5rem;
+    height: 1.5rem;
+    background-color: var(--primary);
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.875rem;
+}
+
+@media (max-width: 768px) {
+    .subject-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 480px) {
+    .subject-grid {
+        grid-template-columns: 1fr;
+    }
+}

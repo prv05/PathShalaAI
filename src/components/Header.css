@@ -1,0 +1,75 @@
+.header {
+    height: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 1.5rem;
+    background-color: var(--card);
+    border-bottom: 1px solid var(--border);
+    position: sticky;
+    top: 0;
+    z-index: 40;
+}
+
+.header-logo-container {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+}
+
+.logo-icon-wrapper {
+    background: linear-gradient(135deg, #4F7FFF 0%, #3a66e6 100%);
+    padding: 6px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo-icon {
+    color: white;
+    width: 20px;
+    height: 20px;
+}
+
+.header-title {
+    font-size: 1.125rem;
+    font-weight: 700;
+    color: #4F7FFF;
+}
+
+.language-dropdown {
+    position: absolute;
+    top: 110%;
+    right: 0;
+    background-color: var(--card);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+    min-width: 120px;
+    overflow: hidden;
+    z-index: 50;
+}
+
+.lang-option {
+    padding: 8px 16px;
+    font-size: 14px;
+    color: var(--foreground);
+    cursor: pointer;
+    transition: background 0.2s;
+}
+
+.lang-option:hover {
+    background-color: var(--background);
+}
+
+
+
+@media (min-width: 768px) {
+
+    /* Hide header logo on desktop if sidebar is present often */
+    .header-logo-container {
+        /* display: none; */
+        /* Keep it for now based on DashboardLayout logic */
+    }
+}

@@ -1,0 +1,734 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+
+/* Page Background */
+/* Page Background */
+.ekool-login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    /* Soft pastel gradient blending from light pink/lavender to light mint/sage */
+    background: linear-gradient(135deg, #E8D5E8 0%, #F5F0F0 30%, #FFFFFF 50%, #E8F0E8 70%, #D5E8DD 100%);
+    font-family: 'Inter', sans-serif;
+    padding: 0;
+    /* Removed padding for full screen */
+}
+
+/* Main Card (Now Full Screen Container) */
+.ekool-card {
+    background-color: transparent;
+    /* Transparent background */
+    width: 100%;
+    height: 100vh;
+    /* Full viewport height */
+    max-width: none;
+    /* Remove max-width */
+    border-radius: 0;
+    /* Remove border-radius */
+    box-shadow: none;
+    /* Remove shadow */
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Header Section */
+.ekool-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+    width: 100%;
+}
+
+.ekool-brand {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #1F2937;
+    font-weight: 700;
+    font-size: 20px;
+}
+
+.ekool-logo-icon {
+    color: #1F2937;
+}
+
+.ekool-tagline {
+    font-size: 14px;
+    color: #6B7280;
+    font-weight: 400;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.ekool-controls {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.ekool-lang-pill {
+    padding: 4px 12px;
+    border-radius: 20px;
+    border: 1px solid #E5E7EB;
+    font-size: 12px;
+    font-weight: 600;
+    color: #374151;
+    cursor: pointer;
+}
+
+.ekool-menu-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 4px;
+}
+
+/* Content Grid */
+.ekool-content-grid {
+    display: grid;
+    grid-template-columns: 1.2fr 0.8fr;
+    /* 60% - 40% split roughly */
+    gap: 40px;
+    flex: 1;
+}
+
+/* Left Hero Section */
+.ekool-hero-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.ekool-hero-title {
+    font-size: 28px;
+    font-weight: 700;
+    color: #1F2937;
+    margin-bottom: 16px;
+    line-height: 1.2;
+}
+
+.ekool-learn-more-btn {
+    background-color: #F59E0B;
+    /* Golden Yellow */
+    color: #1F2937;
+    border: none;
+    border-radius: 20px;
+    padding: 8px 24px;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-bottom: 30px;
+    /* transition removed */
+}
+
+.ekool-learn-more-btn:hover {
+    background-color: #D97706;
+    /* Darker Yellow/Amber on hover */
+    transform: none !important;
+}
+
+.ekool-illustration-wrapper {
+    flex: 1;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    position: relative;
+    height: 350px;
+    /* Fixed height for positioning */
+    margin-top: 60px;
+    /* Restaur layout position after button removal */
+}
+
+.ekool-illustration-img {
+    max-width: 100%;
+    height: auto;
+    max-height: 320px;
+    object-fit: contain;
+}
+
+/* Right Login Panel */
+.ekool-login-panel {
+    background-color: rgba(255, 255, 255, 0.2);
+    /* Semi-transparent */
+    backdrop-filter: blur(10px);
+    /* Glass effect */
+    border-radius: 16px;
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+}
+
+.ekool-welcome-text {
+    font-size: 20px;
+    font-weight: 700;
+    color: #1F2937;
+    margin-bottom: 24px;
+}
+
+.ekool-tabs {
+    display: flex;
+    margin-bottom: 24px;
+    border-bottom: 1px solid #E5E7EB;
+}
+
+.ekool-tab {
+    background: none;
+    border: none;
+    padding: 8px 16px;
+    margin-right: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 500;
+    color: #9CA3AF;
+    position: relative;
+    transition: all 0.2s;
+}
+
+.ekool-tab.active {
+    color: #1F2937;
+    background-color: transparent;
+}
+
+.ekool-tab.active::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background-color: #3B82F6;
+    /* Blue */
+}
+
+/* Form Styling */
+.ekool-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.ekool-input-group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 16px;
+}
+
+.ekool-label {
+    font-size: 12px;
+    color: #4B5563;
+    /* Gray */
+    margin-bottom: 4px;
+    font-weight: 500;
+}
+
+.ekool-input {
+    background-color: #FFFFFF;
+    border: 1px solid #E5E7EB;
+    border-radius: 8px;
+    padding: 12px 16px;
+    font-size: 14px;
+    color: #1F2937;
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.ekool-input:focus {
+    border-color: #3B82F6;
+}
+
+/* Fix for Autofill Color */
+.ekool-input:-webkit-autofill,
+.ekool-input:-webkit-autofill:hover,
+.ekool-input:-webkit-autofill:focus,
+.ekool-input:-webkit-autofill:active {
+    -webkit-text-fill-color: #1F2937;
+    -webkit-box-shadow: 0 0 0 30px #FFFFFF inset !important;
+    transition: background-color 5000s ease-in-out 0s;
+}
+
+.dark .ekool-input:-webkit-autofill,
+.dark .ekool-input:-webkit-autofill:hover,
+.dark .ekool-input:-webkit-autofill:focus,
+.dark .ekool-input:-webkit-autofill:active {
+    -webkit-text-fill-color: #F9FAFB;
+    -webkit-box-shadow: 0 0 0 30px #1F2937 inset !important;
+}
+
+.ekool-forgot-link {
+    align-self: flex-end;
+    font-size: 14px;
+    color: #3B82F6;
+    text-decoration: none;
+    font-weight: 500;
+    margin-bottom: 24px;
+}
+
+.ekool-login-btn {
+    background-color: #3B82F6;
+    /* Blue */
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.ekool-login-btn:hover {
+    background-color: #2563eb;
+}
+
+.ekool-footer-link {
+    text-align: center;
+}
+
+.ekool-footer-link a {
+    font-size: 14px;
+    color: #3B82F6;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.ekool-footer-link a:hover {
+    text-decoration: underline;
+}
+
+.ekool-smart-instruction {
+    font-size: 14px;
+    color: #4B5563;
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 8px;
+}
+
+.ekool-scroll-indicator {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    color: #9CA3AF;
+    animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+        transform: translateX(-50%) translateY(0);
+    }
+
+    40% {
+        transform: translateX(-50%) translateY(-5px);
+    }
+
+    60% {
+        transform: translateX(-50%) translateY(-3px);
+    }
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+    .ekool-card {
+        width: 95%;
+        padding: 24px;
+        height: auto;
+        min-height: 80vh;
+    }
+}
+
+@media (max-width: 768px) {
+    .ekool-content-grid {
+        grid-template-columns: 1fr;
+        gap: 32px;
+    }
+
+    .ekool-tagline {
+        display: none;
+    }
+
+    .ekool-hero-section {
+        order: -1;
+        /* Ensure illustration is above on mobile as requested */
+    }
+
+    .ekool-hero-title {
+        font-size: 24px;
+    }
+}
+
+/* Animation Keyframes */
+@keyframes float {
+    0% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-10px);
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+@keyframes breathe {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.02);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+/* Group Illustration */
+.illustration-group {
+    width: 650px;
+    max-width: 100%;
+    height: auto;
+    position: absolute;
+    top: -12%;
+    /* Moved up slightly more per user request */
+    left: 10%;
+    /* Maintain horizontal position */
+    transform: none;
+    /* Remove vertical centering to align top edge */
+    bottom: auto;
+    z-index: 2;
+    /* Optional: Add a subtle float animation if desired, or keep static */
+    animation: float 6s ease-in-out infinite;
+}
+
+/* Adjusted wrapper height for larger image */
+.ekool-illustration-wrapper {
+    height: 450px;
+    /* Increased height */
+}
+
+/* Animation Keyframes - Floating Particles */
+@keyframes floatParticle {
+    0% {
+        transform: translateY(0px);
+    }
+
+    50% {
+        transform: translateY(-15px);
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+/* Floating Particles */
+.anim-particle {
+    position: absolute;
+    border-radius: 50%;
+    opacity: 0.6;
+    z-index: 1;
+}
+
+.p1 {
+    width: 20px;
+    height: 20px;
+    background-color: #FCD34D;
+    /* Yellow */
+    top: 20%;
+    left: 20%;
+    animation: floatParticle 6s ease-in-out infinite;
+}
+
+.p2 {
+    width: 15px;
+    height: 15px;
+    background-color: #60A5FA;
+    /* Blue */
+    top: 40%;
+    right: 25%;
+    animation: floatParticle 8s ease-in-out infinite 1s;
+}
+
+.p3 {
+    width: 30px;
+    height: 30px;
+    background-color: #F87171;
+    /* Red */
+    bottom: 30%;
+    left: 30%;
+    animation: floatParticle 7s ease-in-out infinite 2s;
+}
+
+/* Breathing and Floating Animation for Main Image */
+@keyframes breatheAndFloat {
+    0% {
+        transform: scale(1) translateY(0px);
+        filter: brightness(100%);
+    }
+
+    50% {
+        transform: scale(1.08) translateY(-10px);
+        filter: brightness(105%);
+    }
+
+    100% {
+        transform: scale(1) translateY(0px);
+        filter: brightness(100%);
+    }
+}
+
+.ekool-illustration-img {
+    animation: breatheAndFloat 4s ease-in-out infinite;
+    transform-origin: bottom center;
+}
+
+/* --- New Controls Styling --- */
+
+.ekool-icon-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 50%;
+    color: #4B5563;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.ekool-icon-btn:hover {
+    background-color: #F3F4F6;
+    color: #1F2937;
+}
+
+.ekool-lang-container {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.ekool-lang-pill {
+    padding: 6px 12px;
+    border-radius: 20px;
+    border: 1px solid #E5E7EB;
+    font-size: 13px;
+    font-weight: 600;
+    color: #374151;
+    cursor: pointer;
+    background-color: transparent;
+    display: flex;
+    align-items: center;
+    transition: all 0.2s;
+}
+
+.ekool-lang-pill:hover {
+    background-color: #F9FAFB;
+    border-color: #D1D5DB;
+}
+
+.ekool-lang-dropdown {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    margin-top: 8px;
+    background-color: white;
+    border: 1px solid #E5E7EB;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+    padding: 4px;
+    z-index: 50;
+    min-width: 100px;
+    animation: fadeIn 0.1s ease-out;
+}
+
+.ekool-lang-option {
+    padding: 8px 12px;
+    font-size: 13px;
+    color: #374151;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.1s;
+}
+
+.ekool-lang-option:hover {
+    background-color: #F3F4F6;
+    color: #111827;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-5px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* --- Dark Mode Overrides --- */
+.dark .ekool-login-container {
+    background: linear-gradient(135deg, #111827 0%, #1F2937 50%, #111827 100%);
+}
+
+.dark .ekool-card {
+    background-color: transparent;
+    box-shadow: none;
+}
+
+.dark .ekool-brand,
+.dark .ekool-logo-icon {
+    color: #F9FAFB;
+}
+
+.dark .ekool-tagline {
+    color: #9CA3AF;
+}
+
+.dark .ekool-hero-title {
+    color: #F9FAFB;
+}
+
+.dark .ekool-login-panel {
+    background-color: rgba(31, 41, 55, 0.4);
+    /* Semi-transparent dark */
+    border-color: rgba(255, 255, 255, 0.1);
+}
+
+.dark .ekool-welcome-text {
+    color: #F9FAFB;
+}
+
+.dark .ekool-tab {
+    color: #9CA3AF;
+}
+
+.dark .ekool-tab.active {
+    color: #F9FAFB;
+}
+
+.dark .ekool-label {
+    color: #D1D5DB;
+}
+
+
+
+
+.dark .ekool-input {
+    background-color: #1F2937;
+    /* Very dark blue/gray */
+    border-color: #374151;
+    color: #F9FAFB;
+}
+
+.dark .ekool-input::placeholder {
+    color: #9CA3AF;
+}
+
+/* Autofill fix for dark mode */
+.dark .ekool-input:-webkit-autofill,
+.dark .ekool-input:-webkit-autofill:hover,
+.dark .ekool-input:-webkit-autofill:focus,
+.dark .ekool-input:-webkit-autofill:active {
+    -webkit-text-fill-color: #F9FAFB;
+    -webkit-box-shadow: 0 0 0 30px #1F2937 inset !important;
+    transition: background-color 5000s ease-in-out 0s;
+}
+
+.dark .ekool-icon-btn {
+    color: #D1D5DB;
+}
+
+.dark .ekool-icon-btn:hover {
+    background-color: #374151;
+    color: #F9FAFB;
+}
+
+.dark .ekool-lang-pill {
+    border-color: #4B5563;
+    color: #D1D5DB;
+}
+
+.dark .ekool-lang-pill:hover {
+    background-color: #374151;
+    border-color: #6B7280;
+}
+
+.dark .ekool-lang-dropdown {
+    background-color: #1F2937;
+    border-color: #374151;
+}
+
+.dark .ekool-lang-option {
+    color: #D1D5DB;
+}
+
+.dark .ekool-lang-option:hover {
+    background-color: #374151;
+    color: #F9FAFB;
+}
+
+/* User Type Toggle */
+.ekool-user-toggle {
+    display: flex;
+    background-color: #F3F4F6;
+    padding: 4px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.ekool-toggle-btn {
+    flex: 1;
+    border: none;
+    background: none;
+    padding: 8px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 500;
+    color: #6B7280;
+    cursor: pointer;
+    transition: all 0.2s;
+}
+
+.ekool-toggle-btn.active {
+    background-color: #FFFFFF;
+    color: #1F2937;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Dark mode toggle overrides */
+.dark .ekool-user-toggle {
+    background-color: #374151;
+}
+
+.dark .ekool-toggle-btn {
+    color: #9CA3AF;
+}
+
+.dark .ekool-toggle-btn.active {
+    background-color: #1F2937;
+    color: #F9FAFB;
+}
