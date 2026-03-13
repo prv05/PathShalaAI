@@ -1,0 +1,17 @@
+Example 11.10
+An electric iron consumes energy at a rate of 840 W when heating is
+at the maximum rate and 360 W when the heating is at the minimum.
+The voltage is 220 V. What are the current and the resistance in each
+case?
+Solution
+From Eq. (11.19), we know that the power input is
+P = V I
+Thus the current I = P/V
+(a) When heating is at the maximum rate,
+I = 840 W/220 V = 3.82 A;
+and the resistance of the electric iron is
+R = V/I = 220 V/3.82 A = 57.60 Ω.
+(b) When heating is at the minimum rate,
+I = 360 W/220 V = 1.64 A;
+and the resistance of the electric iron is
+R = V/I = 220 V/1.64 A = 134.15 Ω.

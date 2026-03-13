@@ -1,0 +1,19 @@
+Extracting Metals Low in the Activity Series
+
+Metals low in the activity series are very unreactive. The oxides of these 
+metals can be reduced to metals by heating alone.
+
+For example, cinnabar (HgS) is an ore of mercury. When it is heated in air, 
+it is first converted into mercuric oxide (HgO). Mercuric oxide is then 
+reduced to mercury on further heating.
+
+2HgS(s) + 3O2(g) --Heat--> 2HgO(s) + 2SO2(g)
+
+2HgO(s) --Heat--> 2Hg(l) + O2(g)
+
+Similarly, copper which is found as Cu2S in nature can be obtained 
+from its ore by just heating in air.
+
+2Cu2S(s) + 3O2(g) --Heat--> 2Cu2O(s) + 2SO2(g)
+
+2Cu2O(s) + Cu2S(s) --Heat--> 6Cu(s) + SO2(g)

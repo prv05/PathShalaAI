@@ -1,0 +1,42 @@
+Mirror Formula and Magnification
+
+In a spherical mirror, the distance of the
+object from its pole is called the object
+distance (u). The distance of the image from
+the pole of the mirror is called the image
+distance (v). You already know that the
+distance of the principal focus from the pole
+is called the focal length (f). There is a
+relationship between these three quantities
+given by the mirror formula which is
+expressed as
+1/v+ 1/u= 1/f   (9.1)
+This formula is valid in all situations for all
+spherical mirrors for all positions of the
+object. You must use the New Cartesian Sign
+Convention while substituting numerical
+values for u, v, f, and R in the mirror formula
+for solving problems.
+
+Magnification
+Magnification produced by a spherical mirror gives the relative extent to
+which the image of an object is magnified with respect to the object size.
+It is expressed as the ratio of the height of the image to the height of the
+object. It is usually represented by the letter m.
+If h is the height of the object and h′ is the height of the image, then
+the magnification m produced by a spherical mirror is given by
+m =Height of the image (h′)/
+Height of the object (h)
+
+m =h′/h     (9.2)
+The magnification m is also related to the object distance (u) and
+image distance (v). It can be expressed as:
+Magnification (m) =h′/h = -v/u
+
+(9.3)
+You may note that the height of the object is taken to be positive as
+the object is usually placed above the principal axis. The height of the
+image should be taken as positive for virtual images. However, it is to be
+taken as negative for real images. A negative sign in the value of the
+magnification indicates that the image is real. A positive sign in the value
+of the magnification indicates that the image is virtual.

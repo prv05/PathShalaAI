@@ -1,0 +1,14 @@
+RESISTANCE OF A SYSTEM OF RESISTORS
+
+In preceding sections, we learnt about some simple electric circuits. We
+have noticed how the current through a conductor depends upon its
+resistance and the potential difference across its ends. In various electrical
+gadgets, we often use resistors in various combinations. We now therefore
+intend to see how Ohm’s law can be applied to combinations of resistors.
+There are two methods of joining the resistors together. Figure 11.6
+shows an electric circuit in which three resistors having resistances R1,
+R2 and R3,respectively, are joined end to end. Here the resistors are said
+to be connected in series.
+Figure 11.7 shows a combination of resistors in which three resistors
+are connected together between points X and Y. Here, the resistors are
+said to be connected in parallel.

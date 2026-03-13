@@ -1,0 +1,43 @@
+{
+  "class": "10",
+  "subject": "Science",
+  "lesson_name": "Electricity",
+  "chapter_id": "ch11",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity_11_2",
+      "Activity_11_3",
+      "Activity_11_4",
+      "Activity_11_5",
+      "Activity_11_6",
+      "Example_11_1",
+      "Example_11_2",
+      "Example_11_3",
+      "Example_11_4",
+      "Example_11_5",
+      "Example_11_6",
+      "Example_11_7",
+      "Example_11_8",
+      "Example_11_9",
+      "Example_11_10",
+      "Example_11_11",
+      "Example_11_12",
+      "Example_11_13"
+    ],
+    "Concepts": [
+      "Circuit_Diagram",
+      "Electric_Current_and_Circuit",
+      "Electric_Potential_and_Potential_Difference",
+      "Electric_Power",
+      "Factors_of_Resistance",
+      "Heating_Effect_of_Electric_Current",
+      "Ohms_Law",
+      "Overview",
+      "Practical_Applications_of_Heating_Effects",
+      "Resistance_of_a_System_of_Resistors",
+      "Resistors_in_Parallel",
+      "Resistors_in_Series"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+Activity 11.6
+n Make a parallel combination, XY, of three
+resistors having resistances R1, R2, and R3,
+respectively. Connect it with a battery, a
+plug key and an ammeter, as shown in
+Fig. 11.10. Also connect a voltmeter in
+parallel with the combination of resistors.
+n Plug the key and note the ammeter reading.
+Let the current be I. Also take the voltmeter
+reading. It gives the potential difference V,
+across the combination. The potential
+difference across each resistor is also V. This
+can be checked by connecting the voltmeter
+across each individual resistor (see
+Fig. 11.11).
+n Take out the plug from the key. Remove the ammeter and voltmeter from the circuit.
+Insert the ammeter in series with the resistor R1
+, as shown in Fig. 11.11. Note the ammeter
+reading, I1.
+
+n Similarly, measure the currents through R2 and R3.
+Let these be I2 and I3, respectively.
+What is the relationship between I, I1, I2 and I3?

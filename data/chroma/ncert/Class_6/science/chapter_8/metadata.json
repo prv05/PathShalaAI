@@ -1,0 +1,19 @@
+{
+  "class": "6",
+  "subject": "Science",
+  "lesson_name": "A Journey through States of Water",    
+  "chapter_id": "ch08",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activities"
+    ],
+    "Concepts": [
+      "8_1_Introduction",
+      "8_2_Three_States_of_Water",
+      "8_3_Evaporation_and_Condensation",
+      "8_4_Clouds_and_Rain",
+      "8_5_Water_Cycle"
+    ]
+  }
+}

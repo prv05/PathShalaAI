@@ -1,0 +1,37 @@
+{
+  "class": "10",
+  "subject": "Science",
+  "lesson_name": "Acids, Bases and Salts",
+  "chapter_id": "ch2",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity_2_1",
+      "Activity_2_2",
+      "Activity_2_3",
+      "Activity_2_4",
+      "Activity_2_5",
+      "Activity_2_6",
+      "Activity_2_7",
+      "Activity_2_8",
+      "Activity_2_9",
+      "Activity_2_10",
+      "Activity_2_11",
+      "Activity_2_12",
+      "Activity_2_13",
+      "Activity_2_14",
+      "Activity_2_15"
+    ],
+    "Concepts": [
+      "Are_the_Crystals_of_Salts_really_Dry",
+      "Chemicals_from_Common_Salt",
+      "Do_you_know",
+      "How_Strong_are_acid_and_base_solution",
+      "Importance_of_pH_in_Everyday_Life",
+      "More_about_Salts",
+      "Overview",
+      "Reaction_of_a_Non_metallic_Oxide_with_Base",
+      "What_do_all_acids_and_all_bases_have_in_common"
+    ]
+  }
+}

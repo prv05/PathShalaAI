@@ -1,0 +1,35 @@
+ FACTORS ON WHICH THE RESISTANCE OF A
+CONDUCTOR DEPENDS
+
+It is observed that the ammeter reading decreases to one-half when
+the length of the wire is doubled. The ammeter reading is increased when
+a thicker wire of the same material and of the same length is used in the
+circuit. A change in ammeter reading is observed when a wire of different
+material of the same length and the same area of cross-section is used.
+On applying Ohm’s law [Eqs. (11.5) – (11.7)], we observe that the
+resistance of the conductor depends (i) on its length, (ii) on its area of
+cross-section, and (iii) on the nature of its material. Precise measurements
+have shown that resistance of a uniform metallic conductor is directly
+proportional to its length (l) and inversely proportional to the area of
+cross-section (A). That is,
+R ∝ l (11.8)
+and R ∝ 1/A (11.9)
+Combining Eqs. (11.8) and (11.9) we get
+R ∝l/A
+or, R = ρ*l/A
+(11.10)
+where ρ (rho) is a constant of proportionality and is called the electrical
+resistivity of the material of the conductor. The SI unit of resistivity is
+Ω m. It is a characteristic property of the material. The metals and alloys
+have very low resistivity in the range of 10–8 Ω m to 10–6 Ω m. They are
+good conductors of electricity. Insulators like rubber and glass have
+resistivity of the order of 1012 to 1017 Ω m. Both the resistance and
+resistivity of a material vary with temperature.
+Table 11.2 reveals that the resistivity of an alloy is generally higher
+than that of its constituent metals. Alloys do not oxidise (burn) readily
+at high temperatures. For this reason, they are commonly used in
+electrical heating devices, like electric iron, toasters etc. Tungsten is used
+almost exclusively for filaments of electric bulbs, whereas copper and
+aluminium are generally used for electrical transmission lines.
+
+

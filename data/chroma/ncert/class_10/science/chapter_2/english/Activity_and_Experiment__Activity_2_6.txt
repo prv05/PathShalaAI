@@ -1,0 +1,23 @@
+Activity 2.6
+n Take about 2 mL of dilute NaOH solution in a test tube and add
+two drops of phenolphthalein solution.
+n What is the colour of the solution?
+n Add dilute HCl solution to the above solution drop by drop.
+n Is there any colour change for the reaction mixture?
+n Why did the colour of phenolphthalein change after the addition
+of an acid?
+n Now add a few drops of NaOH to the above mixture.
+n Does the pink colour of phenolphthalein reappear?
+n Why do you think this has happened?
+
+
+In the above Activity, we have observed that the effect of a base is 
+nullified by an acid and vice-versa. The reaction taking place is written as –
+
+NaOH(aq) + HCl(aq) → NaCl(aq) + H2O(l)
+
+The reaction between an acid and a base to give a salt and water is 
+known as a neutralisation reaction. In general, a neutralisation reaction 
+can be written as –
+
+Base + Acid → Salt + Water

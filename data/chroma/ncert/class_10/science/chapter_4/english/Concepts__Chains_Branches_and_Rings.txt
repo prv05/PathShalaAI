@@ -1,0 +1,28 @@
+Chains, Branches and Rings
+In the earlier section, we mentioned the carbon compounds methane,
+ethane and propane, containing respectively 1, 2 and 3 carbon atoms.
+Such ‘chains’ of carbon atoms can contain many more carbon atoms.
+The names and structures of six of these are given in Table 4.2.
+
+But, let us take another look at butane. If we make the carbon
+‘skeleton’ with four carbon atoms, we see that two different possible
+‘skeletons’ are –
+
+We see that both these structures have the same formula C4H10. Such
+compounds with identical molecular formula but different structures
+are called structural isomers.
+In addition to straight and branched carbon chains, some compounds
+have carbon atoms arranged in the form of a ring. For example, cyclohexane
+has the formula C6H12 and the following structure –
+
+Can you draw the electron dot structure for cyclohexane? Straight
+chain, branched chain and cyclic carbon compounds, all may be saturated
+or unsaturated. For example, benzene, C6H6
+, has the following structure –
+
+All these carbon compounds which contain only carbon and
+hydrogen are called hydrocarbons. Among these, the saturated
+hydrocarbons are called alkanes. The unsaturated hydrocarbons which
+contain one or more double bonds are called alkenes. Those containing
+one or more triple bonds are called alkynes.
+

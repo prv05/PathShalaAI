@@ -1,0 +1,48 @@
+Why the Sexual Mode of Reproduction?
+The creation of two new cells from one involves copying of the DNA as
+well as of the cellular apparatus. The DNA copying mechanism, as we
+have noted, cannot be absolutely accurate, and the resultant errors are
+a source of variations in populations of organisms. Every individual
+organism cannot be protected by variations, but in a population,
+variations are useful for ensuring the survival of the species. It would
+therefore make sense if organisms came up with reproductive modes
+that allowed more and more variation to be generated.
+While DNA-copying mechanisms are not absolutely accurate, they
+are precise enough to make the generation of variation a fairly slow
+process. If the DNA copying mechanisms were to be less accurate, many
+of the resultant DNA copies would not be able to work with the cellular
+apparatus, and would die. So how can the process of making variants
+be speeded up? Each new variation is made in a DNA copy that already
+has variations accumulated from previous generations. Thus, two
+different individuals in a population would have quite different patterns
+of accumulated variations. Since all of these variations are in living
+individuals, it is assured that they do not have any really bad effects.
+Combining variations from two or more individuals would thus create
+new combinations of variants. Each combination would be novel, since
+it would involve two different individuals. The sexual mode of reproduction incorporates such a process of combining DNA from two
+different individuals during reproduction.
+But this creates a major difficulty. If each new generation is to be the
+combination of the DNA copies from two pre-existing individuals, then
+each new generation will end up having twice the amount of DNA that
+the previous generation had. This is likely to mess up the control of the
+cellular apparatus by the DNA. How many ways can we think of for
+solving this difficulty?
+We have seen earlier that as organisms become more complex, the
+specialisation of tissue increases. One solution that many multi-cellular
+organisms have found for the problem mentioned above is to have special
+lineages of cells in specialised organs in which only half the number of
+chromosomes and half the amount of DNA as compared to the nonreproductive body cells. This is achieved by a process of cell division
+called meiosis. Thus, when these germ-cells from two individuals combine
+during sexual reproduction to form a new individual, it results in reestablishment of the number of chromosomes and the DNA content in
+the new generation.
+If the zygote is to grow and develop into an organism which has
+highly specialised tissues and organs, then it has to have sufficient stores
+of energy for doing this. In very simple organisms, it is seen that the two
+germ-cells are not very different from one another, or may even be similar.
+But as the body designs become more complex, the germ-cells also
+specialise. One germ-cell is large and contains the food-stores while the
+other is smaller and likely to be motile. Conventionally, the motile germcell is called the male gamete and the germ-cell containing the stored
+food is called the female gamete. We shall see in the next few sections
+how the need to create these two different types of gametes give rise to
+differences in the male and female reproductive organs and, in some
+cases, differences in the bodies of the male and female organisms.

@@ -1,0 +1,32 @@
+Activity 2.8
+n Take solutions of glucose, alcohol,
+hydrochloric acid, sulphuric acid, etc.
+n Fix two nails on a cork, and place the cork in
+a 100 mL beaker.
+n Connect the nails to the two terminals of a
+6 volt battery through a bulb and a switch, as
+shown in Fig. 2.3.
+n Now pour some dilute HCl in the beaker and
+switch on the current.
+n Repeat with dilute sulphuric acid.
+n What do you observe?
+n Repeat the experiment separately with
+glucose and alcohol solutions. What do you
+observe now?
+n Does the bulb glow in all cases?
+
+
+The bulb will start glowing in the case of acids, as shown in Fig. 2.3. 
+But you will observe that glucose and alcohol solutions do not conduct 
+electricity. Glowing of the bulb indicates that there is a flow of electric 
+current through the solution. The electric current is carried through the 
+acidic solution by ions.
+
+Acids contain H+ ion as cation and anion such as Cl– in HCl, NO3– in HNO3, 
+SO4^2– in H2SO4, CH3COO– in CH3COOH. Since the cation present in 
+acids is H+, this suggests that acids produce hydrogen ions, H+(aq), in 
+solution, which are responsible for their acidic properties.
+
+Repeat the same Activity using alkalis such as sodium hydroxide, calcium 
+hydroxide, etc. What can you conclude from the results of this Activity?
+

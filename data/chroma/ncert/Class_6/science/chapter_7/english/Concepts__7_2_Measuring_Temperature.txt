@@ -1,0 +1,8 @@
+7.2 Measuring Temperature
+Have you seen a thermometer?. Recall that when you or someone else in your family had fever, the temperature was measured by a thermometer. The thermometer that measures our body temperature is called a clinical thermometer.
+7.2 Measuring Temperature
+Have you seen a thermometer?. Recall that when you or someone else in your family had fever, the temperature was measured by a thermometer. The thermometer that measures our body temperature is called a clinical thermometer.
+The normal temperature of the human body is 37°C. It is important to note that the temperature of every person may not be exactly 37°C; it could be slightly higher or slightly lower. Actually, what we call normal temperature is the average body temperature of a large number of healthy persons.
+
+7.2.2 Laboratory Thermometer
+How do we measure the temperature of other objects?. For this purpose, there are other thermometers. One such thermometer is known as the laboratory thermometer. The range of a laboratory thermometer is generally from –10°C to 110°C

@@ -1,0 +1,116 @@
+Chemicals from Common Salt
+By now you have learnt that the salt formed
+by the combination of hydrochloric acid and
+sodium hydroxide solution is called sodium
+chloride. This is the salt that you use in food.
+You must have observed in the above Activity
+that it is a neutral salt.
+Seawater contains many salts dissolved
+in it. Sodium chloride is separated from these
+salts. Deposits of solid salt are also found in
+several parts of the world. These large crystals
+are often brown due to impurities. This is
+called rock salt. Beds of rock salt were formed
+when seas of bygone ages dried up. Rock salt
+is mined like coal.
+You must have heard about Mahatma Gandhi’s Dandi March. Did
+you know that sodium chloride was such an important symbol in our
+struggle for freedom?
+
+Common salt — A raw material for chemicals
+The common salt thus obtained is an important raw material for various
+materials of daily use, such as sodium hydroxide, baking soda, washing
+soda, bleaching powder and many more. Let us see how one substance
+is used for making all these different substances.
+Sodium hydroxide
+When electricity is passed through an aqueous solution of sodium
+chloride (called brine), it decomposes to form sodium hydroxide. The
+process is called the chlor-alkali process because of the products formed–
+chlor for chlorine and alkali for sodium hydroxide.
+2NaCl(aq) + 2H2O(l)--->>NaOH(aq) + Cl2
+(g) + H2
+(g)
+Chlorine gas is given off at the anode, and hydrogen gas at the cathode.
+Sodium hydroxide solution is formed near the cathode. The three
+products produced in this process are all useful. Figure 2.8 shows the
+different uses of these products.
+
+Bleaching powder
+You have already come to know that chlorine is produced during the
+electrolysis of aqueous sodium chloride (brine). This chlorine gas is used
+for the manufacture of bleaching powder. Bleaching powder is produced
+by the action of chlorine on dry slaked lime [Ca(OH)2
+]. Bleaching powder
+is represented as Ca(ClO)2
+, though the actual composition is quite
+complex.
+2Ca(OH)2 + 2Cl2 → Ca(ClO)2 + CaCl2 + 2H2O
+
+Bleaching powder is used –
+(i) for bleaching cotton and linen in the textile industry, for bleaching
+wood pulp in paper factories and for bleaching washed clothes
+in laundry;
+(ii) as an oxidising agent in many chemical industries; and
+(iii) to make drinking water free from germs.
+Baking soda
+The baking soda is commonly used in the kitchen for making tasty crispy
+pakoras, etc. Sometimes it is added for faster cooking. The chemical
+name of the compound is sodium hydrogencarbonate (NaHCO3
+). It is
+produced using sodium chloride as one of the raw materials.
+NaCl + H2O + CO2 + NH3 → NH4Cl + NaHCO3
+(Ammonium chloride)      (Sodium hydrogencarbonate)
+
+Did you check the pH of sodium hydrogencarbonate in Activity 2.14? 
+Can you correlate why it can be used to neutralise an acid? It is a mild 
+non-corrosive basic salt. The following reaction takes place when it is 
+heated during cooking –
+
+2NaHCO3 --Heat--> Na2CO3 + H2O + CO2
+(Sodium hydrogencarbonate)      (Sodium carbonate)
+
+Sodium hydrogencarbonate has various uses in the household.
+
+Uses of Baking Soda:
+
+(i) For making baking powder, which is a mixture of baking soda 
+(sodium hydrogencarbonate) and a mild edible acid such as tartaric acid. 
+When baking powder is heated or mixed in water, the following reaction 
+takes place –
+
+NaHCO3 + H+ → CO2 + H2O + Sodium salt of acid
+(From any acid)
+
+Carbon dioxide produced during the reaction causes bread or cake 
+to rise, making them soft and spongy.
+
+(ii) Sodium hydrogencarbonate is also an ingredient in antacids. 
+Being alkaline, it neutralises excess acid in the stomach and provides relief.
+
+(iii) It is also used in soda-acid fire extinguishers.
+
+Washing Soda:
+
+Another chemical that can be obtained from sodium chloride is 
+Na2CO3·10H2O (washing soda). Sodium carbonate can be obtained 
+by heating baking soda; recrystallisation of sodium carbonate gives 
+washing soda. It is also a basic salt.
+
+Na2CO3 + 10H2O → Na2CO3·10H2O
+(Sodium carbonate)      (Washing soda)
+
+What does 10H2O signify? Does it make Na2CO3
+ wet? We will address
+this question in the next section.
+Sodium carbonate and sodium hydrogencarbonate are useful
+chemicals for many industrial processes as well.
+Uses of washing soda
+(i) Sodium carbonate (washing soda) is used in glass, soap and
+paper industries.
+(ii) It is used in the manufacture of sodium compounds such as borax.
+(iii) Sodium carbonate can be used as a cleaning agent for domestic
+purposes.
+(iv) It is used for removing permanent hardness of water.
+
+
+

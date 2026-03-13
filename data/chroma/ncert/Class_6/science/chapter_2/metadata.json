@@ -1,0 +1,19 @@
+{
+  "class": "6",
+  "subject": "Science",
+  "lesson_name": "Diversity_in_the_Living_World",
+  "chapter_id": "ch02",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activities"
+    ],
+    "Concepts": [
+      "2_1_Diversity_in_Plants_and_Animals",
+      "2_2_How_to_Group_Plants_and_Animals",
+      "2_3_Plants_and_Animals_in_Different_Environments",
+      "2_4_Adaptations_and_Habitats",
+      "2_5_Conservation_and_Success_Stories"
+    ]
+  }
+}

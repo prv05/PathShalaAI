@@ -1,0 +1,4 @@
+Topic: 4.4 Finding Directions
+A freely suspended bar magnet always comes to rest in a particular direction, which is the North-South direction. The end of the magnet that points towards the North is called its North seeking pole or the North pole. The other end that points towards the South is called the South seeking pole or the South pole. This property of magnets was used by travellers for centuries to find directions.
+
+A device based on this property is the magnetic compass. It consists of a small needle which is a magnet and can rotate freely on a pivot. The needle always points in the North-South direction when it comes to rest.

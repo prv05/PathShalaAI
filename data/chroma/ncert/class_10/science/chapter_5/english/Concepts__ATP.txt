@@ -1,0 +1,11 @@
+ATP
+ATP is the energy currency for most cellular processes. The energy released during
+the process of respiration is used to make an ATP molecule from ADP and inorganic
+phosphate.
+Endothermic processes in the cell then use this ATP to drive the reactions. When the
+terminal phosphate linkage in ATP is broken using water, the energy equivalent to
+30.5 kJ/mol is released.
+Think of how a battery can provide energy for many different kinds of uses. It can be
+used to obtain mechanical energy, light energy, electrical energy and so on. Similarly,
+ATP can be used in the cells for the contraction of muscles, protein synthesis,
+conduction of nervous impulses and many other activities.

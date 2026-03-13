@@ -1,0 +1,82 @@
+Food Chains and Webs
+
+In Activity 13.4 we have formed a series of organisms feeding
+on one another. This series or organisms taking part at
+various biotic levels form a food chain (Fig. 13.1).
+Each step or level of the food chain forms a trophic level.
+The autotrophs or the producers are at the first trophic level.
+They fix up the solar energy and make it available for
+heterotrophs or the consumers. The herbivores or the primary
+consumers come at the second, small carnivores or the
+secondary consumers at the third and larger carnivores or
+the tertiary consumers form the fourth trophic level (Fig. 13.2).
+We know that the food we eat acts as a fuel to provide us
+energy to do work. Thus the interactions among various
+components of the environment involves flow of energy from
+one component of the system to another. As we have studied,
+the autotrophs capture the energy present in sunlight and
+convert it into chemical energy. This energy supports all the
+activities of the living world. From autotrophs, the energy goes
+to the heterotrophs and decomposers. However, as we saw in
+the previous Chapter on ‘Sources of Energy’, when one form
+of energy is changed to another, some energy is lost to the
+environment in forms which cannot be used again. The flow
+of energy between various components of the environment
+has been extensively studied and it has been found that –
+n The green plants in a terrestrial ecosystem capture about
+1% of the energy of sunlight that falls on their leaves and convert it
+into food energy.
+n When green plants are eaten by primary consumers, a great deal
+of energy is lost as heat to the environment, some amount goes
+into digestion and in doing work and the rest goes towards growth
+and reproduction. An average of 10% of the food eaten is turned
+into its own body and made available for the next level of
+consumers.
+n Therefore, 10% can be taken as the average value for the amount
+of organic matter that is present at each step and reaches the next
+level of consumers.
+n Since so little energy is available for the next level of consumers,
+food chains generally consist of only three or four steps. The loss
+of energy at each step is so great that very little usable energy
+remains after four trophic levels.
+n There are generally a greater number of individuals at the lower
+trophic levels of an ecosystem, the greatest number is of the
+producers.
+n The length and complexity of food chains vary greatly. Each organism
+is generally eaten by two or more other kinds of organisms which in
+turn are eaten by several other organisms. So instead of a straight
+line food chain, the relationship can be shown as a series of branching
+lines called a food web (Fig. 13.3).
+
+From the energy flow diagram (Fig. 13.4),
+two things become clear. Firstly, the flow of
+energy is unidirectional. The energy that is
+captured by the autotrophs does not revert
+back to the solar input and the energy which
+passes to the herbivores does not come back
+to autotrophs. As it moves progressively
+through the various trophic levels it is no
+longer available to the previous level.
+Secondly, the energy available at each trophic
+level gets diminished progressively due to loss
+of energy at each level.
+Another interesting aspect of food chain
+is how unknowingly some harmful
+chemicals enter our bodies through the food
+chain. You have read in Class IX how water
+gets polluted. One of the reasons is the use of
+several pesticides and other chemicals to
+protect our crops from diseases and pests.
+These chemicals are either washed down into
+the soil or into the water bodies. From the
+soil, these are absorbed by the plants along
+with water and minerals, and from the water
+bodies these are taken up by aquatic plants and animals. This is one of the ways in which they enter the food chain.
+As these chemicals are not degradable, these get accumulated
+progressively at each trophic level. As human beings occupy the top
+level in any food chain, the maximum concentration of these chemicals
+get accumulated in our bodies. This phenomenon is known as biological
+magnification. This is the reason why our food grains such as wheat
+and rice, vegetables and fruits, and even meat, contain varying amounts
+of pesticide residues. They cannot always be removed by washing or
+other means.

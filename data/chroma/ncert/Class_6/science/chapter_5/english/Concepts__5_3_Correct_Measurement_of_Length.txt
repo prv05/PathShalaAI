@@ -1,0 +1,10 @@
+Topic: 5.3 Correct Measurement of Length
+In our daily life we use various types of measuring devices. We use a metre scale for measuring length. A tailor uses a tape, whereas a cloth merchant uses a metre rod. For measuring the length of an object, you must choose a suitable device. You cannot measure the girth of a tree or the size of your chest using a metre scale, for instance. A measuring tape is more suitable for this. For small measurements, such as the length of your pencil, you can use a 15 cm scale from your geometry box.
+
+In taking measurement of a length, we need to take care of the following:
+
+Place the scale in contact with the object along its length as shown in Fig. 5.7.
+
+In some scales, the ends may be broken. You may not be able to see the zero mark clearly. In such cases, you should avoid taking measurements from the zero mark of the scale. You can use any other full mark of the scale, say, 1.0 cm (Fig. 5.8). Then you must subtract the reading of this mark from the reading at the other end.
+
+Correct position of the eye is also important for taking measurement. Your eye must be exactly in front of the point where the measurement is to be taken as shown in Fig. 5.9. Position 'B' is the correct position of the eye. Note that from position 'B', the reading is 5 cm. From positions 'A' and 'C', the readings may be different.

@@ -1,0 +1,34 @@
+Practical Applications of Heating Effect of
+Electric Current
+
+The generation of heat in a conductor is an inevitable consequence of
+electric current. In many cases, it is undesirable as it converts useful
+electrical energy into heat. In electric circuits, the unavoidable heating
+can increase the temperature of the components and alter their properties.
+However, heating effect of electric current has many useful applications.
+The electric laundry iron, electric toaster, electric oven, electric kettle
+and electric heater are some of the familiar devices based on Joule’s
+heating.
+The electric heating is also used to produce light, as in an electric
+bulb. Here, the filament must retain as much of the heat generated as is
+possible, so that it gets very hot and emits light. It must not melt at such
+high temperature. A strong metal with high melting point such as
+tungsten (melting point 3380°C) is used for making bulb filaments. The
+filament should be thermally isolated as much as possible, using
+insulating support, etc. The bulbs are usually filled with chemically
+inactive nitrogen and argon gases to prolong the life of filament. Most of
+the power consumed by the filament appears as heat, but a small part
+of it is in the form of light radiated.
+Another common application of Joule’s heating is the fuse used in
+electric circuits. It protects circuits and appliances by stopping the flow
+of any unduly high electric current. The fuse is placed in series with
+the device. It consists of a piece of wire made of a metal or an alloy of
+appropriate melting point, for example aluminium, copper, iron, lead
+etc. If a current larger than the specified value flows through the circuit,
+the temperature of the fuse wire increases. This melts the fuse wire and
+breaks the circuit. The fuse wire is usually encased in a cartridge of
+porcelain or similar material with metal ends. The fuses used for domestic
+purposes are rated as 1 A, 2 A, 3 A, 5 A, 10 A, etc. For an electric iron
+which consumes 1 kW electric power when operated at 220 V, a current
+of (1000/220) A, that is, 4.54 A will flow in the circuit. In this case, a 5 A
+fuse must be used.

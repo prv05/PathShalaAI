@@ -1,0 +1,44 @@
+ Resistors in Series
+
+What happens to the value of current when a number of resistors are
+connected in series in a circuit? What would be their equivalent
+resistance? Let us try to understand these with the help of the following
+activities.
+
+
+You will observe that the value of the current in the ammeter is the
+same, independent of its position in the electric circuit. It means that in
+a series combination of resistors the current is the same in every part of
+the circuit or the same current through each resistor.
+
+
+
+You will observe that the potential difference V is equal to the sum of
+potential differences V1, V2, and V3. That is the total potential difference
+across a combination of resistors in series is equal to the sum of potential
+difference across the individual resistors. That is,
+V = V1 + V2 + V3
+
+In the electric circuit shown in Fig. 11.8, let I be the current through
+the circuit. The current through each resistor is also I. It is possible to
+replace the three resistors joined in series by an equivalent single resistor
+of resistance R, such that the potential difference V across it, and the
+current I through the circuit remains the same. Applying the Ohm’s law
+to the entire circuit, we have
+V = I R
+On applying Ohm’s law to the three resistors separately, we further
+have
+V1= I R1   [11.13(a)]
+V2= I R2   [11.13(b)]
+and V3= I R3  [11.13(c)]
+From Eq. (11.11),
+I R = I R1+ I R2+ I R3
+or
+Rs= R1+R2+ R3   (11.14)
+We can conclude that when several resistors are joined in series, the
+resistance of the combination Rs
+ equals the sum of their individual
+resistances, R1, R2, R3, and is thus greater than any individual resistance.
+
+
+

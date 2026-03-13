@@ -1,0 +1,37 @@
+Example 11.7
+An electric lamp, whose resistance is 20 Ω, and a conductor of 4 Ω
+resistance are connected to a 6 V battery (Fig. 11.9). Calculate (a) the
+total resistance of the circuit, (b) the current through the circuit, and (c)
+the potential difference across the electric lamp and conductor.
+Solution
+The resistance of electric lamp, R1= 20 Ω,
+The resistance of the conductor connected in series, R2= 4 Ω.
+Then the total resistance in the circuit
+R = R1+ R2
+Rs= 20 Ω + 4 Ω = 24 Ω.
+The total potential difference across the two terminals of the battery
+V = 6 V.
+Now by Ohm’s law, the current through the circuit is given by
+I = V/Rs
+= 6 V/24 Ω
+= 0.25 A.
+
+Applying Ohm’s law to the electric lamp and conductor separately,
+we get potential difference across the electric lamp,
+V1
+= 20 Ω × 0.25 A
+= 5 V;
+and,
+that across the conductor, V2
+ = 4 Ω × 0.25 A
+ = 1 V.
+Suppose that we like to replace the series combination of electric
+lamp and conductor by a single and equivalent resistor. Its resistance
+must be such that a potential difference of 6 V across the battery
+terminals will cause a current of 0.25 A in the circuit. The resistance
+R of this equivalent resistor would be
+R = V/I
+= 6 V/ 0.25 A
+= 24 Ω.
+This is the total resistance of the series circuit; it is equal to the sum
+of the two resistances.

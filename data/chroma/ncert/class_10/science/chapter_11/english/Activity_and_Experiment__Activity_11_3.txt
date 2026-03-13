@@ -1,0 +1,16 @@
+Activity 11.3
+n Complete an electric circuit consisting of a cell, an ammeter, a nichrome wire of length l
+[say, marked (1)] and a plug key, as shown in Fig. 11.5
+n Now, plug the key. Note the current in the ammeter.
+n Replace the nichrome wire by another nichrome wire of same thickness but twice the
+length, that is 2l [marked (2) in the Fig. 11.5].
+n Note the ammeter reading.
+n Now replace the wire by a thicker nichrome wire, of the same length l [marked (3)]. A
+thicker wire has a larger cross-sectional area. Again note down the current through the
+circuit.
+n Instead of taking a nichrome wire, connect a copper wire [marked (4) in Fig. 11.5] in the
+circuit. Let the wire be of the same length and same area of cross-section as that of the
+first nichrome wire [marked (1)]. Note the value of the current.
+n Notice the difference in the current in all cases.
+n Does the current depend on the length of the conductor?
+n Does the current depend on the area of cross-section of the wire used?

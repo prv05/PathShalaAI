@@ -1,0 +1,13 @@
+Many optical instruments consist of a number of lenses. They are combined to increase
+the magnification and sharpness of the image. The net power (P ) of the lenses placed
+in contact is given by the algebraic sum of the individual powers P1, P2, P3, … as
+P = P1+ P2+ P3+ …
+The use of powers, instead of focal lengths, for lenses is quite convenient for opticians.
+During eye-testing, an optician puts several different combinations of corrective lenses
+of known power, in contact, inside the testing spectacles’ frame. The optician calculates
+the power of the lens required by simple algebraic addition. For example, a combination
+of two lenses of power + 2.0 D and + 0.25 D is equivalent to a single lens of power + 2.25 D.
+The simple additive property of the powers of lenses can be used to design lens systems
+to minimise certain defects in images produced by a single lens. Such a lens system,
+consisting of several lenses, in contact, is commonly used in the design of lenses of
+camera, microscopes and telescopes.

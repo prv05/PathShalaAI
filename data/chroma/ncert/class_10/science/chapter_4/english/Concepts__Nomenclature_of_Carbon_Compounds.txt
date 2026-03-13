@@ -1,0 +1,24 @@
+Nomenclature of Carbon Compounds
+
+The names of compounds in a homologous series are based on the name
+of the basic carbon chain modified by a “prefix” “phrase before” or “suffix”
+“phrase after” indicating the nature of the functional group. For example,
+the names of the alcohols taken in Activity 4.2 are methanol, ethanol,
+propanol and butanol.
+Naming a carbon compound can be done by the following method –
+(i) Identify the number of carbon atoms in the compound. A compound
+having three carbon atoms would have the name propane.
+(ii) In case a functional group is present, it is indicated in the
+name of the compound with either a prefix or a suffix (as given
+in Table 4.4).
+(iii) If the name of the functional group is to be given as a suffix, and the
+suffix of the functional group begins with a vowel a, e, i, o, u, then
+the name of the carbon chain is modified by deleting the final ‘e’ and
+adding the appropriate suffix. For example, a three-carbon chain
+with a ketone group would be named in the following manner –
+Propane – ‘e’ = propan + ‘one’ = propanone.
+(iv) If the carbon chain is unsaturated, then the final ‘ane’ in the name
+of the carbon chain is substituted by ‘ene’ or ‘yne’ as given in
+Table 4.4. For example, a three-carbon chain with a double bond
+would be called propene and if it has a triple bond, it would be
+called propyne.

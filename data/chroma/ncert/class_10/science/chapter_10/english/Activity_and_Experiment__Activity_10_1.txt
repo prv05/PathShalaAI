@@ -1,0 +1,23 @@
+Activity 10.1
+
+n Fix a sheet of white paper on a drawing board using drawing pins.
+n Place a glass prism on it in such a way that it rests on its triangular
+base. Trace the outline of the prism using a pencil.
+n Draw a straight line PE inclined to one of the refracting surfaces,
+say AB, of the prism.
+n Fix two pins, say at points P and Q, on the line PE as shown in
+Fig. 10.4.
+n Look for the images of the pins, fixed at P and Q, through the
+other face AC.
+n Fix two more pins, at points R and S, such that the pins at R and
+S and the images of the pins at P and Q lie on the same straight
+line.
+n Remove the pins and the glass prism.
+n The line PE meets the boundary of the prism at point E
+(see Fig. 10.4). Similarly, join and produce the points R and S. Let
+these lines meet the boundary of the prism at E and F, respectively.
+Join E and F.
+n Draw perpendiculars to the refracting surfaces AB and AC of the
+prism at points E and F, respectively.
+n Mark the angle of incidence (∠i), the angle of refraction (∠r) and
+the angle of emergence (∠e) as shown in Fig. 10.4.

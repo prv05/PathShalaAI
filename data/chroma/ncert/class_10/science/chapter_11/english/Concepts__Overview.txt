@@ -1,0 +1,9 @@
+Overview
+
+Electricity has an important place in modern society. It is a controllable
+and convenient form of energy for a variety of uses in homes, schools,
+hospitals, industries and so on. What constitutes electricity? How does
+it flow in an electric circuit? What are the factors that control or regulate
+the current through an electric circuit? In this Chapter, we shall attempt
+to answer such questions. We shall also discuss the heating effect of
+electric current and its applications.

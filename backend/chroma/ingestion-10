@@ -1,0 +1,108 @@
+import json
+import sys
+from pathlib import Path
+import chromadb
+from chromadb.config import Settings
+from chromadb.utils import embedding_functions
+
+# Fix encoding for Windows console to support emojis
+if sys.platform == "win32":
+    sys.stdout.reconfigure(encoding='utf-8')
+    sys.stderr.reconfigure(encoding='utf-8')
+
+# ---------------------------
+# BASE PATH
+# ---------------------------
+
+BASE = Path("data/chroma/ncert/class_6/science")
+
+# ---------------------------
+# CHROMA SETUP
+# ---------------------------
+
+embedding_function = embedding_functions.SentenceTransformerEmbeddingFunction(
+    model_name="sentence-transformers/all-MiniLM-L6-v2"
+)
+
+client = chromadb.Client(
+    Settings(
+        persist_directory="chroma/data",
+        anonymized_telemetry=False
+    )
+)
+
+COLLECTION_NAME = "ncert_class10_science"
+
+collection = client.get_or_create_collection(
+    name=COLLECTION_NAME,
+    embedding_function=embedding_function
+)
+
+# ---------------------------
+# INGESTION
+# ---------------------------
+
+MIN_ACTIVITY_WORDS = 15
+MIN_DEFAULT_WORDS = 20
+MAX_WORDS = 1500
+
+index = 1
+total_chunks = 0
+
+for chapter in sorted(BASE.iterdir()):
+
+    if not chapter.is_dir():
+        continue
+
+    print(f"\n📘 Processing {chapter.name}")
+
+    metadata_file = chapter / "metadata.json"
+    text_dir = chapter / "english"
+
+    metadata_master = json.loads(metadata_file.read_text(encoding="utf-8"))
+
+    for file in text_dir.glob("*.txt"):
+
+        text = file.read_text(encoding="utf-8").strip()
+        wc = len(text.split())
+
+        topic, subtopic = file.stem.split("__")
+
+        # Word count rule
+        if topic == "Activity_and_Experiment":
+            if wc < MIN_ACTIVITY_WORDS or wc > MAX_WORDS:
+                raise ValueError(f"Invalid word count in {file.name}: {wc}")
+        else:
+            if wc < MIN_DEFAULT_WORDS or wc > MAX_WORDS:
+                raise ValueError(f"Invalid word count in {file.name}: {wc}")
+
+        # Handle both "chapter" and "lesson_name" keys
+        chapter_name = metadata_master.get("chapter") or metadata_master.get("lesson_name")
+
+        metadata = {
+            "class": metadata_master["class"],
+            "subject": metadata_master["subject"],
+            "chapter": chapter_name,
+            "chapter_id": metadata_master["chapter_id"],
+            "topic": topic,
+            "subtopic": subtopic,
+            "language": metadata_master["language"],
+            "source": "NCERT"
+        }
+
+        doc_id = f"10_science_{metadata_master['chapter_id']}_{topic}_{subtopic}_{index}"
+
+        collection.add(
+            documents=[text],
+            metadatas=[metadata],
+            ids=[doc_id]
+        )
+
+        index += 1
+        total_chunks += 1
+
+# Data is automatically persisted with persist_directory setting
+
+print("\n--------------------------------")
+print(f"✅ Class 10 Science ingestion completed")
+print(f"📦 Total chunks ingested: {total_chunks}")

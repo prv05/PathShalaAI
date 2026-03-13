@@ -1,0 +1,90 @@
+ Balanced Chemical Equations
+Recall the law of conservation of mass that you studied in Class IX; mass
+can neither be created nor destroyed in a chemical reaction. That is, the
+total mass of the elements present in the products of a chemical reaction
+has to be equal to the total mass of the elements present in the reactants.
+In other words, the number of atoms of each element remains the
+same, before and after a chemical reaction. Hence, we need to balance a
+skeletal chemical equation. Is the chemical Eq. (1.2) balanced? Let us
+learn about balancing a chemical equation step by step.
+The word-equation for Activity 1.3 may be represented as –
+Zinc + Sulphuric acid → Zinc sulphate + Hydrogen
+The above word-equation may be represented by the following
+chemical equation –
+Zn + H2SO4 → ZnSO4+ H2(1.3)
+
+As the number of atoms of each element is the same on both sides of
+the arrow, Eq. (1.3) is a balanced chemical equation.
+Let us try to balance the following chemical equation –
+Fe + H2O → Fe3O4+ H2
+
+Step I: To balance a chemical equation, first draw boxes around each
+formula. Do not change anything inside the boxes while balancing the
+equation.
+Fe + H2O → Fe3O4
+ + H2
+(1.5)
+Step II: List the number of atoms of different elements present in the
+unbalanced equation (1.5).
+Step III: It is often convenient to start balancing with the compound
+that contains the maximum number of atoms. It may be a reactant or a
+product. In that compound, select the element which has the maximum
+number of atoms. Using these criteria, we select Fe3O4
+ and the element
+oxygen in it. There are four oxygen atoms on the RHS and only one on
+the LHS.
+To balance the oxygen atoms –
+To equalise the number of atoms, it must be remembered that we
+cannot alter the formulae of the compounds or elements involved in the
+reactions. For example, to balance oxygen atoms we can put coefficient
+‘4’ as 4 H2O and not H2O4
+ or (H2O)4
+. Now the partly balanced equation
+becomes –
+Fe + 4 H2O → Fe3O4
+ + H2
+Step IV: Fe and H atoms are still not balanced. Pick any of these elements
+to proceed further. Let us balance hydrogen atoms in the partly balanced
+equation.
+To equalise the number of H atoms, make the number of molecules
+of hydrogen as four on the RHS.
+
+The equation would be –
+ Fe + 4 H2O → Fe3O4+ 4 H2
+
+Step V: Examine the above equation and pick up the third element
+which is not balanced. You find that only one element is left to be
+balanced, that is, iron.
+
+To equalise Fe, we take three atoms of Fe on the LHS.
+3 Fe + 4 H2O → Fe3O4
+ + 4 H2
+(1.8)
+Step VI: Finally, to check the correctness of the balanced equation, we
+count atoms of each element on both sides of the equation.
+3Fe + 4H2O → Fe3O4 + 4H2
+The numbers of atoms of elements on both sides of Eq. (1.9) are
+equal. This equation is now balanced. This method of balancing chemical
+equations is called hit-and-trial method as we make trials to balance
+the equation by using the smallest whole number coefficient.
+Step VII: Writing Symbols of Physical States Carefully examine
+the above balanced Eq. (1.9). Does this equation tell us anything about
+the physical state of each reactant and product? No information has
+been given in this equation about their physical states.
+To make a chemical equation more informative, the physical states
+of the reactants and products are mentioned along with their chemical
+formulae. The gaseous, liquid, aqueous and solid states of reactants
+and products are represented by the notations (g), (l), (aq) and (s),
+respectively. The word aqueous (aq) is written if the reactant or product
+is present as a solution in water.
+The balanced Eq. (1.9) becomes
+3Fe(s) + 4H2O(g) → Fe3O4(s) + 4H2(g)      (1.10)
+Note that the symbol (g) is used with H2O to indicate that in this
+reaction water is used in the form of steam.
+Usually physical states are not included in a chemical equation unless
+it is necessary to specify them.
+Sometimes the reaction conditions, such as temperature, pressure,
+catalyst, etc., for the reaction are indicated above and/or below the arrow
+1) CO(g) + 2H2(g)  --340 atm-->  CH3OH(l)
+
+2) 6CO2(aq) + 12H2O(l)  --Sunlight / Chlorophyll-->  C6H12O6(aq) + 6O2(aq) + 6H2O(l)

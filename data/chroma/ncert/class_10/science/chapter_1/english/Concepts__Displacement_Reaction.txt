@@ -1,0 +1,25 @@
+Displacement Reaction
+
+Why does the iron nail become brownish in colour and the blue colour 
+of copper sulphate solution fades?
+
+The following chemical reaction takes place in this Activity–
+
+Fe(s) + CuSO4(aq) → FeSO4(aq) + Cu(s)      (1.24)
+(Copper sulphate)      (Iron sulphate)
+
+In this reaction, iron has displaced or removed another element, 
+copper, from copper sulphate solution. This reaction is known as 
+displacement reaction.
+
+Other examples of displacement reactions are:
+
+Zn(s) + CuSO4(aq) → ZnSO4(aq) + Cu(s)      (1.25)
+(Copper sulphate)      (Zinc sulphate)
+
+Pb(s) + CuCl2(aq) → PbCl2(aq) + Cu(s)      (1.26)
+(Copper chloride)      (Lead chloride)
+
+Zinc and lead are more reactive elements than copper. 
+They displace copper from its compounds.
+

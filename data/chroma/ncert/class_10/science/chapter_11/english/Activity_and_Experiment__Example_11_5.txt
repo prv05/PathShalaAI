@@ -1,0 +1,17 @@
+Example 11.5
+Resistance of a metal wire of length 1 m is 26 Ω at 20°C. If the
+diameter of the wire is 0.3 mm, what will be the resistivity of the
+metal at that temperature? Using Table 11.2, predict the material
+of the wire.
+Solution
+We are given the resistance R of the wire = 26 Ω, the diameter
+d = 0.3 mm = 3 × 10-4 m, and the length l of the wire = 1 m.
+Therefore, from Eq. (11.10), the resistivity of the given metallic wire is
+ρ = (RA/l) = (Rπd2/4l )
+Substitution of values in this gives
+ρ = 1.84 × 10–6 Ω m
+The resistivity of the metal at 20°C is 1.84 × 10–6 Ω m. From
+Table 11.2, we see that this is the resistivity of manganese.
+
+
+

@@ -1,0 +1,10 @@
+The ability of a medium to refract light is also expressed in terms of its optical density.
+Optical density has a definite connotation. It is not the same as mass density. We have
+been using the terms ‘rarer medium’ and ‘denser medium’ in this Chapter. It actually
+means ‘optically rarer medium’ and ‘optically denser medium’, respectively. When can
+we say that a medium is optically denser than the other? In comparing two media, the
+one with the larger refractive index is optically denser medium than the other. The other
+medium of lower refractive index is optically rarer. The speed of light is higher in a rarer
+medium than a denser medium. Thus, a ray of light travelling from a rarer medium to a
+denser medium slows down and bends towards the normal. When it travels from a
+denser medium to a rarer medium, it speeds up and bends away from the normal.

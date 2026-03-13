@@ -1,0 +1,46 @@
+How do Metal Carbonates and Metal
+Hydrogencarbonates React with Acids?
+
+Activity 2.5
+n Take two test tubes, label them as A
+and B.
+n Take about 0.5 g of sodium carbonate
+(Na2CO3
+) in test tube A and about
+0.5 g of sodium hydrogencarbonate
+(NaHCO3
+) in test tube B.
+n Add about 2 mL of dilute HCl to both
+the test tubes.
+n What do you observe?
+n Pass the gas produced in each case
+through lime water (calcium
+hydroxide solution) as shown in
+Fig. 2.2 and record your observations.
+
+The reactions occurring in the above Activity are written as –
+
+Test tube A:
+Na2CO3(s) + 2HCl(aq) → 2NaCl(aq) + H2O(l) + CO2(g)
+
+Test tube B:
+NaHCO3(s) + HCl(aq) → NaCl(aq) + H2O(l) + CO2(g)
+
+On passing the carbon dioxide gas evolved through lime water:
+
+Ca(OH)2(aq) + CO2(g) → CaCO3(s) + H2O(l)
+(Lime water)      (White precipitate)
+
+On passing excess carbon dioxide, the following reaction takes place:
+
+CaCO3(s) + H2O(l) + CO2(g) → Ca(HCO3)2(aq)
+(Soluble in water)
+
+Limestone, chalk and marble are different forms of calcium carbonate. 
+All metal carbonates and hydrogencarbonates react with acids to give a 
+corresponding salt, carbon dioxide and water.
+
+Thus, the reaction can be summarised as –
+
+Metal carbonate / Metal hydrogencarbonate + Acid → 
+Salt + Carbon dioxide + Water

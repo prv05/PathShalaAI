@@ -1,0 +1,38 @@
+What happens when Metals react with Water?
+
+Metals react with water and produce a metal oxide and hydrogen gas. 
+Metal oxides that are soluble in water dissolve in it to further form 
+metal hydroxide. But all metals do not react with water.
+
+Metal + Water → Metal oxide + Hydrogen
+
+Metal oxide + Water → Metal hydroxide
+
+Metals like potassium and sodium react violently with cold water. 
+In case of sodium and potassium, the reaction is so violent and 
+exothermic that the evolved hydrogen immediately catches fire.
+
+2K(s) + 2H2O(l) → 2KOH(aq) + H2(g) + heat energy
+
+2Na(s) + 2H2O(l) → 2NaOH(aq) + H2(g) + heat energy
+
+The reaction of calcium with water is less violent. The heat evolved 
+is not sufficient for the hydrogen to catch fire.
+
+Ca(s) + 2H2O(l) → Ca(OH)2(aq) + H2(g)
+
+Calcium starts floating because the bubbles of hydrogen gas formed 
+stick to the surface of the metal.
+
+Magnesium does not react with cold water. It reacts with hot water 
+to form magnesium hydroxide and hydrogen. It also starts floating 
+due to the bubbles of hydrogen gas sticking to its surface.
+
+Metals like aluminium, iron and zinc do not react either with cold or 
+hot water. But they react with steam to form the metal oxide and hydrogen.
+
+2Al(s) + 3H2O(g) → Al2O3(s) + 3H2(g)
+
+3Fe(s) + 4H2O(g) → Fe3O4(s) + 4H2(g)
+
+Metals such as lead, copper, silver and gold do not react with water at all.

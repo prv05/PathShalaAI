@@ -1,0 +1,13 @@
+MORE ABOUT SALTS
+In the previous sections we have seen the formation of salts during
+various reactions. Let us understand more about their preparation,
+properties and uses.
+
+ pH of Salts
+
+Salts of a strong acid and a strong base
+are neutral with pH value of 7. On the other
+hand, salts of a strong acid and weak base
+are acidic with pH value less than 7 and those
+of a strong base and weak acid are basic in
+nature, with pH value more than 7.

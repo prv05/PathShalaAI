@@ -1,0 +1,40 @@
+{
+  "class": "10",
+  "subject": "Science",
+  "lesson_name": "Life Processes",
+  "chapter_id": "ch5",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity_5_1",
+      "Activity_5_2",
+      "Activity_5_3",
+      "Activity_5_4",
+      "Activity_5_5",
+      "Activity_5_6",
+      "Activity_5_7",
+      "Activity_5_8"
+    ],
+    "Concepts": [
+      "Artificial_kidney",
+      "ATP",
+      "Autotrophic_Nutrition",
+      "Blood_pressure",
+      "Dental_caries",
+      "Do_You_Know",
+      "Excretion_in_Human_beings",
+      "Excretion_in_Plants",
+      "Heterotrophic_Nutrition",
+      "How_do_Organisms_obtain_their_Nutrition",
+      "Nutrition",
+      "Nutrition_in_Human_Beings",
+      "Overview",
+      "Respiration",
+      "Think_it_over",
+      "Transport_of_food_and_other",
+      "Transportation_in_Human_beings",
+      "Transportation_in_Plants",
+      "What_are_life_processes"
+    ]
+  }
+}

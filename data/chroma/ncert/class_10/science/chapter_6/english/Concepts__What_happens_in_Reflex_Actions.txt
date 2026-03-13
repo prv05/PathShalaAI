@@ -1,0 +1,48 @@
+What happens in Reflex Actions?
+‘Reflex’ is a word we use very commonly when we talk about some sudden
+action in response to something in the environment. We say ‘I jumped
+out of the way of the bus reflexly’, or ‘I pulled my hand back from the
+flame reflexly’, or ‘I was so hungry my mouth started watering reflexly’.
+What exactly do we mean? A common idea in all such examples is that
+we do something without thinking about it, or without feeling in control
+of our reactions. Yet these are situations where we are responding with
+some action to changes in our environment. How is control and
+coordination achieved in such situations?
+Let us consider this further. Take one of our examples. Touching a
+flame is an urgent and dangerous situation for us, or in fact, for any
+animal! How would we respond to this? One seemingly simple way is to
+think consciously about the pain and the possibility of getting burnt,
+and therefore move our hand. An important question then is, how long
+will it take us to think all this? The answer depends on how we think. If
+nerve impulses are sent around the way we have talked about earlier,
+then thinking is also likely to involve the creation of such impulses.
+Thinking is a complex activity, so it is bound to involve a complicated
+interaction of many nerve impulses from many neurons.
+If this is the case, it is no surprise that the thinking tissue in our
+body consists of dense networks of intricately arranged neurons. It sits
+in the forward end of the skull, and receives signals from all over the
+body which it thinks about before responding to them. Obviously, in
+order to receive these signals, this thinking part of the brain in the skull
+must be connected to nerves coming from various parts of the body.
+Similarly, if this part of the brain is to instruct muscles to move, nerves
+must carry this signal back to different parts of the body. If all of this is
+to be done when we touch a hot object, it may take enough time for us to
+get burnt!
+How does the design of the body solve this problem? Rather than
+having to think about the sensation of heat, if the nerves that detect heat
+were to be connected to the nerves that move muscles in a simpler way,
+the process of detecting the signal or the input and responding to it by
+an output action might be completed quickly. Such a connection is
+commonly called a reflex arc (Fig. 6.2). Where should such reflex arc
+connections be made between the input nerve and the output nerve?
+The best place, of course, would be at the point where they first meet
+each other. Nerves from all over the body meet in a bundle in the spinal
+cord on their way to the brain. Reflex arcs are formed in this spinal cord
+itself, although the information input also goes on to reach the brain.
+Of course, reflex arcs have evolved in animals because the thinking
+process of the brain is not fast enough. In fact many animals have very
+little or none of the complex neuron network needed for thinking. So it is
+quite likely that reflex arcs have evolved as efficient ways of functioning
+in the absence of true thought processes. However, even after complex
+neuron networks have come into existence, reflex arcs continue to be
+more efficient for quick responses

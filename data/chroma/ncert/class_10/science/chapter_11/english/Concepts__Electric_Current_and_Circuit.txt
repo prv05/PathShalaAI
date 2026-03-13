@@ -1,0 +1,57 @@
+ ELECTRIC CURRENT AND CIRCUIT
+
+We are familiar with air current and water current. We know that flowing
+water constitute water current in rivers. Similarly, if the electric charge
+flows through a conductor (for example, through a metallic wire), we
+say that there is an electric current in the conductor. In a torch, we
+know that the cells (or a battery, when placed in proper order) provide
+flow of charges or an electric current through the torch bulb to glow. We
+have also seen that the torch gives light only when its switch is on. What
+does a switch do? A switch makes a conducting link between the cell and
+the bulb. A continuous and closed path of an electric current is called an
+electric circuit. Now, if the circuit is broken anywhere (or the switch of the
+torch is turned off), the current stops flowing and the bulb does not glow.
+How do we express electric current? Electric current is expressed by
+the amount of charge flowing through a particular area in unit time. In
+other words, it is the rate of flow of electric charges. In circuits using
+metallic wires, electrons constitute the flow of charges. However, electrons
+were not known at the time when the phenomenon of electricity was first
+observed. So, electric current was considered to be the flow of positive
+charges and the direction of flow of positive charges was taken to be the
+direction of electric current. Conventionally, in an electric circuit the
+direction of electric current is taken as opposite to the direction of the
+flow of electrons, which are negative charges.
+
+If a net charge Q, flows across any cross-section of a conductor in
+time t, then the current I, through the cross-section is
+
+I=Q/t
+
+The SI unit of electric charge is coulomb (C), which is equivalent to
+the charge contained in nearly 6 × 1018 electrons. (We know that an
+electron possesses a negative charge of 1.6 × 10–19 C.) The electric
+current is expressed by a unit called ampere (A), named after the
+French scientist, Andre-Marie Ampere (1775–1836). One ampere is
+constituted by the flow of one coulomb of charge per second, that is,
+1 A = 1 C/1 s. Small quantities of current are expressed in milliampere
+(1 mA = 10–3 A) or in microampere (1 µA = 10–6 A).
+An instrument called ammeter measures electric
+current in a circuit. It is always connected in series
+in a circuit through which the current is to be
+measured. Figure 11.1 shows the schematic
+diagram of a typical electric circuit comprising a
+cell, an electric bulb, an ammeter and a plug key.
+Note that the electric current flows in the circuit
+from the positive terminal of the cell to the negative
+terminal of the cell through the bulb and ammeter.
+
+Example 11.1
+A current of 0.5 A is drawn by a filament of an electric bulb for 10
+minutes. Find the amount of electric charge that flows through the
+circuit.
+Solution
+We are given, I = 0.5 A; t = 10 min = 600 s.
+From Eq. (11.1), we have
+Q = It
+= 0.5 A × 600 s
+= 300 C

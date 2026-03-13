@@ -1,0 +1,21 @@
+{
+  "class": "6",
+  "subject": "Science",
+  "lesson_name": "Exploring_Magnets",
+  "chapter_id": "ch04",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity"
+    ],
+    "Concepts": [
+      "4_1_Introduction_to_Magnets",
+      "4_2_Magnetic_and_Non_magnetic_Matter",
+      "4_3_Poles_of_a_Magnet",
+      "4_4_Finding_Directions",
+      "4_5_Attraction_and_Repulsion",
+      "4_6_Make_Your_Own_Magnet",
+      "4_7_Care_of_Magnets"
+    ]
+  }
+}

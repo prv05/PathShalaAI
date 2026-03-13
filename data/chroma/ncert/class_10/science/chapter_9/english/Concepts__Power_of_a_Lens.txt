@@ -1,0 +1,21 @@
+Power of a Lens
+You have already learnt that the ability of a lens to converge or diverge
+light rays depends on its focal length. For example, a convex lens of
+short focal length bends the light rays through large angles, by focussing
+them closer to the optical centre. Similarly, concave lens of very short
+focal length causes higher divergence than the one with longer focal
+length. The degree of convergence or divergence of light rays achieved
+by a lens is expressed in terms of its power. The power of a lens is defined
+as the reciprocal of its focal length. It is represented by the letter P. The
+power P of a lens of focal length f is given by
+P=1/f
+
+The SI unit of power of a lens is ‘dioptre’. It is denoted by the letter D.
+If f is expressed in metres, then, power is expressed in dioptres. Thus,
+1 dioptre is the power of a lens whose focal length is 1 metre. 1D = 1m–1.
+You may note that the power of a convex lens is positive and that of a
+concave lens is negative.
+Opticians prescribe corrective lenses indicating their powers. Let us
+say the lens prescribed has power equal to + 2.0 D. This means the lens
+prescribed is convex. The focal length of the lens is + 0.50 m. Similarly,
+a lens of power – 2.5 D has a focal length of – 0.40 m. The lens is concave

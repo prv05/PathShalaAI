@@ -1,0 +1,48 @@
+ATMOSPHERIC REFRACTION
+You might have observed the apparent random wavering or
+flickering of objects seen through a turbulent stream of hot air
+rising above a fire or a radiator. The air just above the fire becomes
+hotter than the air further up. The hotter air is lighter (less dense)
+than the cooler air above it, and has a refractive index slightly
+less than that of the cooler air. Since the physical conditions of
+the refracting medium (air) are not stationary, the apparent
+position of the object, as seen through the hot air, fluctuates.
+This wavering is thus an effect of atmospheric refraction (refraction
+of light by the earth’s atmosphere) on a small scale in our local
+environment. The twinkling of stars is a similar phenomenon on
+a much larger scale. Let us see how we can explain it.
+
+Twinkling of stars
+The twinkling of a star is due to atmospheric refraction of starlight. The
+starlight, on entering the earth’s atmosphere, undergoes refraction
+continuously before it reaches the earth. The atmospheric refraction
+occurs in a medium of gradually changing refractive index. Since the
+atmosphere bends starlight towards the normal, the apparent position
+of the star is slightly different from its actual position. The star appears
+slightly higher (above) than its actual position when viewed near the
+horizon (Fig. 10.9). Further, this apparent position of the star is not
+stationary, but keeps on changing slightly, since the physical conditions
+of the earth’s atmosphere are not stationary, as was the case in the
+previous paragraph. Since the stars are very distant, they approximate
+point-sized sources of light. As the path of rays of light coming from
+the star goes on varying slightly, the apparent position of the star
+fluctuates and the amount of starlight entering the eye flickers – the
+star sometimes appears brighter, and at some other time, fainter, which
+is the twinkling effect.
+Why don’t the planets twinkle? The planets are much
+closer to the earth, and are thus seen as extended sources.
+If we consider a planet as a collection of a large number
+of point-sized sources of light, the total variation in the
+amount of light entering our eye from all the individual
+point-sized sources will average out to zero, thereby
+nullifying the twinkling effect.
+Advance sunrise and delayed sunset
+The Sun is visible to us about 2 minutes before the actual
+sunrise, and about 2 minutes after the actual sunset
+because of atmospheric refraction. By actual sunrise, we
+mean the actual crossing of the horizon by the Sun. Fig.
+10.10 shows the actual and apparent positions of the
+Sun with respect to the horizon. The time difference
+between actual sunset and the apparent sunset is about
+2 minutes. The apparent flattening of the Sun’s disc at
+sunrise and sunset is also due to the same phenomenon.

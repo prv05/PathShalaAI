@@ -1,0 +1,21 @@
+{
+  "class": "10",
+  "subject": "Science",
+  "lesson_name": "Heredity and Evolution",
+  "chapter_id": "ch8",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity_8_1"
+    ],
+    "Concepts": [
+      "Accumulation_of_Variation",
+      "Gregor_Johann_Mendel",
+      "Heredity",
+      "How_do_these_Traits_get_Expressed",
+      "Overview",
+      "Rules_for_the_Inheritance_of_Traits",
+      "Sex_Determination"
+    ]
+  }
+}

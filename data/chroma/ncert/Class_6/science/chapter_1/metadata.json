@@ -1,0 +1,15 @@
+{
+  "class": "6",
+  "subject": "Science",
+  "lesson_name": "The Wonderful World of Science",
+  "chapter_id": "ch01",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [],
+    "Concepts": [
+      "How_can_we_try_to_find_answers",
+      "What_is_Science",
+      "What_will_we_explore"
+    ]
+  }
+}

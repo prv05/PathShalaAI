@@ -1,0 +1,21 @@
+Activity 12.7
+
+n Take a small aluminium rod AB (of about 5 cm). Using
+two connecting wires suspend it horizontally from a
+stand, as shown in Fig. 12.12.
+n Place a strong horse-shoe magnet in such a way that
+the rod lies between the two poles with the magnetic
+field directed upwards. For this put the north pole of
+the magnet vertically below and south pole vertically
+above the aluminium rod (Fig. 12.12).
+n Connect the aluminium rod in series with a battery,
+a key and a rheostat.
+n Now pass a current through the aluminium rod from
+end B to end A.
+n What do you observe? It is observed that the rod is
+displaced towards the left. You will notice that the rod
+gets displaced.
+n Reverse the direction of current flowing through the
+rod and observe the direction of its displacement. It is
+now towards the right.
+Why does the rod get displaced?

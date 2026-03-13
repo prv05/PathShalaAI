@@ -1,0 +1,47 @@
+ HOW DO METALS AND NON-METALS REA ALS REACT?
+In the above activities, you saw the reactions of metals with a number of
+reagents. Why do metals react in this manner? Let us recall what we
+learnt about the electronic configuration of elements in Class IX. We
+learnt that noble gases, which have a completely filled valence shell, show
+little chemical activity. We, therefore, explain the reactivity of elements
+as a tendency to attain a completely filled valence shell.
+Let us have a look at the electronic configuration of noble gases and
+some metals and non-metals.
+We can see from Table 3.3 that a sodium atom has one electron in its
+outermost shell. If it loses the electron from its M shell then its L shell
+now becomes the outermost shell and that has a stable octet. The nucleus
+of this atom still has 11 protons but the number of electrons has
+become 10, so there is a net positive charge giving us a sodium cation
+Na+
+. On the other hand chlorine has seven electrons in its outermost shell
+and it requires one more electron to complete its octet. If sodium and chlorine
+were to react, the electron lost by sodium could be taken up by chlorine.
+After gaining an electron, the chlorine atom gets a unit negative charge,
+because its nucleus has 17 protons and there are 18 electrons in its K, L
+and M shells. This gives us a chloride anion C1–
+. So both these elements
+can have a give-and-take relation between them as follows (Fig. 3.5).
+
+Na (2,8,1) → Na+ (2,8) + e–
+(Sodium cation)
+
+Cl (2,8,7) + e– → Cl– (2,8,8)
+(Chloride anion)
+
+
+Sodium and chloride ions, being oppositely charged, attract each
+other and are held by strong electrostatic forces of attraction to exist as
+sodium chloride (NaCl). It should be noted that sodium chloride does
+not exist as molecules but aggregates of oppositely charged ions.
+Let us see the formation of one more ionic compound, magnesium
+chloride (Fig. 3.6).
+Mg (2,8,2) → Mg2+ (2,8) + 2e–
+(Magnesium cation)
+
+Cl (2,8,7) + e– → Cl– (2,8,8)
+(Chloride anion)
+
+The compounds formed in this manner by the transfer of electrons
+from a metal to a non-metal are known as ionic compounds or
+electrovalent compounds. Can you name the cation and anion present
+in MgCl2?

@@ -1,0 +1,67 @@
+import json
+from pathlib import Path
+
+BASE = Path("data/chroma/ncert")
+
+error_found = False
+
+# classes to check
+classes = ["class_6", "class_10"]
+
+for cls in classes:
+    science_path = BASE / cls / "science"
+
+    if not science_path.exists():
+        print(f"[ERROR] Missing folder: {science_path}")
+        continue
+
+    for chapter in sorted(science_path.iterdir()):
+
+        if not chapter.is_dir():
+            continue
+
+        print(f"\nChecking {cls} / {chapter.name}")
+
+        metadata_file = chapter / "metadata.json"
+        english_folder = chapter / "english"
+
+        # check metadata exists
+        if not metadata_file.exists():
+            print("[ERROR] metadata.json missing")
+            error_found = True
+            continue
+
+        # check english folder exists
+        if not english_folder.exists():
+            print("[ERROR] english folder missing")
+            error_found = True
+            continue
+
+        metadata = json.loads(metadata_file.read_text(encoding="utf-8"))
+
+        topics = metadata.get("topics", {})
+
+        for file in english_folder.glob("*.txt"):
+
+            if "__" not in file.stem:
+                print(f"[ERROR] Invalid filename format: {file.name}")
+                error_found = True
+                continue
+
+            topic, subtopic = file.stem.split("__")
+
+            if topic not in topics:
+                print(f"[ERROR] Topic not in metadata: {topic}")
+                error_found = True
+                continue
+
+            if subtopic not in topics[topic]:
+                print(f"[ERROR] Subtopic not in metadata: {subtopic}")
+                error_found = True
+
+print("\n----------------------------------")
+
+if error_found:
+    print("[FAILED] Metadata validation FAILED")
+else:
+    print("[OK] ALL METADATA VALIDATION PASSED")

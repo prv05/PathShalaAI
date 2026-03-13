@@ -1,0 +1,60 @@
+Properties of Ethanoic Acid
+Ethanoic acid is commonly called acetic acid and
+belongs to a group of acids called carboxylic
+acids. 5-8% solution of acetic acid in water is
+called vinegar and is used widely as a preservative
+in pickles. The melting point of pure ethanoic acid
+is 290 K and hence it often freezes during winter
+in cold climates. This gave rise to its name glacial
+acetic acid.
+The group of organic compounds called
+carboxylic acids are obviously characterised by
+their acidic nature. However, unlike mineral acids
+like HCl, which are completely ionised, carboxylic 
+acids are weak acids.
+
+
+Reactions of Ethanoic Acid:
+
+(i) Esterification Reaction:
+
+Esters are most commonly formed by the reaction of an acid and an alcohol.
+
+Ethanoic acid reacts with absolute ethanol in the presence of an acid catalyst 
+(concentrated H2SO4) to give an ester.
+
+CH3COOH + CH3CH2OH  --(Conc. H2SO4)-->  CH3COOCH2CH3 + H2O
+
+(Ethanoic acid)   (Ethanol)              (Ester)
+
+Generally, esters are sweet-smelling substances. These are used in making 
+perfumes and as flavouring agents.
+
+On treating the ester with sodium hydroxide (an alkali), it is converted back 
+to alcohol and the sodium salt of the carboxylic acid. This reaction is known 
+as saponification because it is used in the preparation of soap.
+
+CH3COOCH2CH3 + NaOH  →  CH3COONa + CH3CH2OH
+
+Soaps are sodium or potassium salts of long chain carboxylic acid.
+CH3COOC2H5 + NaOH  →  C2H5OH + CH3COONa
+(Ester)               (Ethanol)  (Sodium ethanoate)
+
+(ii) Reaction with a Base:
+
+Like mineral acids, ethanoic acid reacts with a base such as sodium 
+hydroxide to give a salt (sodium ethanoate, commonly called sodium acetate) 
+and water.
+
+NaOH + CH3COOH  →  CH3COONa + H2O
+
+(iii) Reaction with Carbonates and Hydrogencarbonates:
+
+Ethanoic acid reacts with carbonates and hydrogencarbonates to give 
+a salt, carbon dioxide, and water. The salt produced is sodium acetate.
+
+2CH3COOH + Na2CO3  →  2CH3COONa + H2O + CO2
+
+CH3COOH + NaHCO3  →  CH3COONa + H2O + CO2
+
+

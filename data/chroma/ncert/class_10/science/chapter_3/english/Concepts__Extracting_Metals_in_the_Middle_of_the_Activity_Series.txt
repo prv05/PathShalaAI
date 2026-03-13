@@ -1,0 +1,49 @@
+Extracting Metals in the Middle of the Activity Series
+
+The metals in the middle of the activity series such as iron, zinc, lead,
+copper, are moderately reactive. These are usually present as sulphides
+or carbonates in nature. It is easier to obtain a metal from its oxide, as
+compared to its sulphides and carbonates. Therefore, prior to reduction,
+the metal sulphides and carbonates must be converted into metal
+oxides. The sulphide ores are converted into oxides by heating strongly
+in the presence of excess air. This process is known as roasting. The
+carbonate ores are changed into oxides by heating strongly in limited
+air. This process is known as calcination. The chemical reaction that
+takes place during roasting and calcination of zinc ores can be shown
+as follows –
+Roasting:
+2ZnS(s) + 3O2(g) --Heat--> 2ZnO(s) + 2SO2(g)
+
+Calcination:
+ZnCO3(s) --Heat--> ZnO(s) + CO2(g)
+
+The metal oxides are then reduced to the corresponding metals by 
+using suitable reducing agents such as carbon. For example, when zinc 
+oxide is heated with carbon, it is reduced to metallic zinc.
+
+ZnO(s) + C(s) → Zn(s) + CO(g)
+
+You are already familiar with the process of oxidation and reduction
+explained in the first Chapter. Obtaining metals from their compounds
+is also a reduction process.
+Besides using carbon (coke) to reduce metal oxides to metals,
+sometimes displacement reactions can also be used. The highly reactive
+metals such as sodium, calcium, aluminium, etc., are used as reducing
+agents because they can displace metals of lower reactivity from their
+compounds. For example, when manganese dioxide is heated with
+aluminium powder, the following reaction takes place –
+3MnO2(s) + 4Al(s) → 3Mn(l) + 2Al2O3(s) + Heat
+
+Can you identify the substances that are getting oxidised
+and reduced?
+These displacement reactions are highly exothermic. The
+amount of heat evolved is so large that the metals are produced
+in the molten state. In fact, the reaction of iron(III) oxide (Fe2O3
+)
+with aluminium is used to join railway tracks or cracked
+machine parts. This reaction is known as the thermit reaction.
+
+Fe2O3(s) + 2Al(s) → 2Fe(l) + Al2O3(s) + Heat
+
+
+

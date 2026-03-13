@@ -1,0 +1,59 @@
+What happens when Metals are burnt in Air?
+You have seen in Activity 3.8 that magnesium burns in air with a dazzling
+white flame.
+
+Almost all metals combine with oxygen to form metal oxides.
+
+Metal + Oxygen → Metal oxide
+
+For example, when copper is heated in air, it combines with oxygen 
+to form copper(II) oxide, a black oxide.
+
+2Cu + O2 → 2CuO
+(Copper)      (Copper(II) oxide)
+
+Similarly, aluminium forms aluminium oxide.
+
+4Al + 3O2 → 2Al2O3
+(Aluminium)      (Aluminium oxide)
+
+Recall from Chapter 2 how copper oxide reacts with hydrochloric acid. 
+We have learnt that metal oxides are basic in nature. But some metal 
+oxides, such as aluminium oxide and zinc oxide, show both acidic as 
+well as basic behaviour. Such metal oxides which react with both acids 
+as well as bases to produce salts and water are known as amphoteric oxides.
+
+Aluminium oxide reacts in the following manner with acids and bases –
+
+Al2O3 + 6HCl → 2AlCl3 + 3H2O
+
+Al2O3 + 2NaOH → 2NaAlO2 + H2O
+(Sodium aluminate)
+
+Most metal oxides are insoluble in water, but some of these dissolve 
+in water to form alkalis. Sodium oxide and potassium oxide dissolve in 
+water to produce alkalis as follows –
+
+Na2O(s) + H2O(l) → 2NaOH(aq)
+
+K2O(s) + H2O(l) → 2KOH(aq)
+
+We have observed in Activity 3.9 that all metals do not react with
+oxygen at the same rate. Different metals show different reactivities
+towards oxygen. Metals such as potassium and sodium react so
+vigorously that they catch fire if kept in the open. Hence, to protect them
+and to prevent accidental fires, they are kept immersed in kerosene oil.
+At ordinary temperature, the surfaces of metals such as magnesium,
+aluminium, zinc, lead, etc., are covered with a thin layer of oxide. The
+protective oxide layer prevents the metal from further oxidation. Iron
+does not burn on heating but iron filings burn vigorously when sprinkled
+in the flame of the burner. Copper does not burn, but the hot metal is
+coated with a black coloured layer of copper(II) oxide. Silver and gold do
+not react with oxygen even at high temperatures.
+
+After performing Activity 3.9, you must have observed that sodium
+is the most reactive of the samples of metals taken here. The reaction of
+magnesium is less vigorous implying that it is not as reactive as sodium.
+But burning in oxygen does not help us to decide about the reactivity of
+zinc, iron, copper or lead. Let us see some more reactions to arrive at a
+conclusion about the order of reactivity of these metals.

@@ -1,0 +1,17 @@
+Refining of Metals
+
+The metals produced by various reduction processes
+described above are not very pure. They contain
+impurities, which must be removed to obtain pure metals.
+The most widely used method for refining impure metals
+is electrolytic refining.
+Electrolytic Refining: Many metals, such as copper, zinc,
+tin, nickel, silver, gold, etc., are refined electrolytically. In
+this process, the impure metal is made the anode and a
+thin strip of pure metal is made the cathode. A solution of
+the metal salt is used as an electrolyte. The apparatus is
+set up as shown in Fig. 3.12. On passing the current
+through the electrolyte, the pure metal from the anode
+dissolves into the electrolyte. An equivalent amount of pure metal from the electrolyte is deposited on the cathode. The soluble
+impurities go into the solution, whereas, the insoluble impurities settle
+down at the bottom of the anode and are known as anode mud.

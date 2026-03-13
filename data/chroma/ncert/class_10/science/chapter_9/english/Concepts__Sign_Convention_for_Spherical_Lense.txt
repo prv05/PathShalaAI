@@ -1,0 +1,7 @@
+ Sign Convention for Spherical Lenses
+For lenses, we follow sign convention, similar to the one used for spherical
+mirrors. We apply the rules for signs of distances, except that all
+measurements are taken from the optical centre of the lens. According
+to the convention, the focal length of a convex lens is positive and that of
+a concave lens is negative. You must take care to apply appropriate
+signs for the values of u, v, f, object height h and image height h′.

@@ -1,0 +1,35 @@
+{
+  "class": "10",
+  "subject": "Science",
+  "chapter": "Chemical Reactions and Equations",
+  "chapter_id": "ch1",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity_1_1",
+      "Activity_1_2",
+      "Activity_1_3",
+      "Activity_1_4",
+      "Activity_1_5",
+      "Activity_1_6",
+      "Activity_1_7",
+      "Activity_1_8",
+      "Activity_1_9",
+      "Activity_1_10",
+      "Activity_1_11"
+    ],
+    "Concepts": [
+      "Overview",
+      "Chemical_Equations",
+      "Writing_a_Chemical_Equation",
+      "Balanced_Chemical_Equations",
+      "Combination_Reaction",
+      "Decomposition_Reaction",
+      "Displacement_Reaction",
+      "Double_Displacement_Reaction",
+      "Oxidation_and_Reduction",
+      "Corrosion",
+      "Rancidity"
+    ]
+  }
+}

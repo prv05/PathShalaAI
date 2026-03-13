@@ -1,0 +1,12 @@
+Example 11.2
+How much work is done in moving a charge of 2 C across two points
+having a potential difference 12 V?
+Solution
+The amount of charge Q, that flows between two points at potential
+difference V (= 12 V) is 2 C. Thus, the amount of work W, done in
+moving the charge [from Eq. (11.2)] is
+Reprint 2025-26
+174 Science
+W = VQ
+= 12 V × 2 C
+= 24 J.

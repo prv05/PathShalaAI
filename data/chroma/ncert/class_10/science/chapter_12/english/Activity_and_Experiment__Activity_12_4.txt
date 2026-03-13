@@ -1,0 +1,22 @@
+Activity 12.4
+
+MAGNETIC FIELD DUE TO A CURRENT-CARRYING ARRYING
+CONDUCTOR
+In Activity 12.1, we have seen that an electric current through a
+metallic conductor produces a magnetic field around it. In order to
+find the direction of the field produced let us repeat the activity in the
+following way –
+
+ Take a long straight copper wire, two or three cells of 1.5 V each, and a plug key. Connect
+all of them in series as shown in Fig. 12.5 (a).
+ Place the straight wire parallel to and over a compass needle.
+ Plug the key in the circuit.
+ Observe the direction of deflection of the north pole of the needle. If the current flows from
+north to south, as shown in Fig. 12.5 (a), the north pole of the compass needle would move
+towards the east.
+ Replace the cell connections in the circuit as shown in Fig. 12.5 (b). This would result in
+the change of the direction of current through the copper wire, that is, from south to
+north.
+ Observe the change in the direction of deflection of the needle. You will see that now the
+needle moves in opposite direction, that is, towards the west [Fig. 12.5 (b)]. It means that
+the direction of magnetic field produced by the electric current is also reversed.

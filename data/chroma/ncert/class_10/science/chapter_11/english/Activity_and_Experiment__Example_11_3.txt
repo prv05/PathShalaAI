@@ -1,0 +1,12 @@
+Example 11.3
+(a) How much current will an electric bulb draw from a 220 V source,
+if the resistance of the bulb filament is 1200 Ω? (b) How much
+current will an electric heater coil draw from a 220 V source, if
+the resistance of the heater coil is 100 Ω?
+Solution
+(a) We are given V = 220 V; R = 1200 Ω.
+From Eq. (12.6), we have the current I = 220 V/1200 Ω = 0.18 A.
+(b) We are given, V = 220 V, R = 100 Ω.
+From Eq. (11.6), we have the current I = 220 V/100 Ω = 2.2 A.
+Note the difference of current drawn by an electric bulb and electric
+heater from the same 220 V source!

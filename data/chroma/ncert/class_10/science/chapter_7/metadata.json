@@ -1,0 +1,39 @@
+{
+  "class": "10",
+  "subject": "Science",
+  "lesson_name": "How do Organisms Reproduce",
+  "chapter_id": "ch7",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity_7_1",
+      "Activity_7_2",
+      "Activity_7_3",
+      "Activity_7_4",
+      "Activity_7_5",
+      "Activity_7_6",
+      "Activity_7_7"
+    ],
+    "Concepts": [
+      "Budding",
+      "D0_prganisms_create_exqact_copies_of_themselves",
+      "Female_Reproductive_System",
+      "Fission",
+      "Fragmentation",
+      "Male_Reproductive_System",
+      "Modes_of_Reproduction",
+      "Overview",
+      "Regeneration",
+      "Reproduction_in_Human_Beings",
+      "Reproductive_Health",
+      "Sexual_reproduction",
+      "Sexual_Reproduction_in_Flowering",
+      "Spore_Formation",
+      "The_Importance_of_Variation",
+      "Tissue_culture",
+      "Vegetative_Propagation",
+      "What_happens_when_the_Egg_is_not_Fertilised",
+      "Why_the_Sexual_Mode_of_Reproduction"
+    ]
+  }
+}

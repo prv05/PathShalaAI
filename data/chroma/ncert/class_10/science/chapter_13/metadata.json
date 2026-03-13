@@ -1,0 +1,29 @@
+{
+  "class": "10",
+  "subject": "Science",
+  "lesson_name": "Our Environment",
+  "chapter_id": "ch13",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity_13_1",
+      "Activity_13_2",
+      "Activity_13_3",
+      "Activity_13_4",
+      "Activity_13_5",
+      "Activity_13_6",
+      "Activity_13_7",
+      "Activity_13_8",
+      "Activity_13_9"
+    ],
+    "Concepts": [
+      "Eco_System",
+      "Food_Chains_and_Webs",
+      "How_do_our_activities_affects",
+      "Managing_the_Garbage_we_Produce",
+      "overview",
+      "Ozone_Layer_and_How_it_is_Getting_Delpleted",
+      "Think_it_over"
+    ]
+  }
+}

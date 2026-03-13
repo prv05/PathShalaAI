@@ -1,0 +1,27 @@
+{
+  "class": "10",
+  "subject": "Science",
+  "lesson_name": "Control and Coordination",
+  "chapter_id": "ch6",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity_6_1",
+      "Activity_6_2",
+      "Activity_6_3"
+    ],
+    "Concepts": [
+      "Animals_Nervous_System",
+      "Coordination_in_Plants",
+      "Do_You_Know",
+      "Hormones_in_Animals",
+      "How_are_these_Tissues_protected",
+      "How_does_the_Nervous_Tissue_cause_Action",
+      "Human_Brain",
+      "Immediate_Response_to_Stimulus",
+      "Movement_Due_to_Growth",
+      "Overview",
+      "What_happens_in_Reflex_Actions"
+    ]
+  }
+}

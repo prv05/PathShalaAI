@@ -1,0 +1,73 @@
+Representation of Images Formed by Spherical
+Mirrors Using Ray Diagrams
+
+We can also study the formation of images by spherical mirrors by
+drawing ray diagrams. Consider an extended object, of finite size, placed
+in front of a spherical mirror. Each small portion of the extended object
+acts like a point source. An infinite number of rays originate from each
+of these points. To construct the ray diagrams, in order to locate the
+image of an object, an arbitrarily large number of rays emanating from a
+point could be considered. However, it is more convenient to consider
+only two rays, for the sake of clarity of the ray diagram. These rays are
+so chosen that it is easy to know their directions after reflection from the
+mirror.
+The intersection of at least two reflected rays give the position of image
+of the point object. Any two of the following rays can be considered for
+locating the image.
+
+(i) A ray parallel to the principal
+axis, after reflection, will pass
+through the principal focus
+in case of a concave mirror
+or appear to diverge from
+the principal focus in
+case of a convex mirror.
+This is illustrated in Fig.9.3
+(a) and (b). 
+
+(ii) A ray passing through the
+principal focus of a concave
+mirror or a ray which is
+directed towards the
+principal focus of a convex
+mirror, after reflection, will
+emerge parallel to the
+principal axis. This is
+illustrated in Fig.9.4 (a)
+and (b).
+(iii) A ray passing through the
+centre of curvature of a
+concave mirror or directed
+in the direction of the centre
+of curvature of a convex
+mirror, after reflection, is
+reflected back along the
+same path. This is
+illustrated in Fig.9.5 (a) and
+(b). The light rays come back
+along the same path
+because the incident rays
+fall on the mirror along the
+normal to the reflecting
+surface
+
+(iv) A ray incident obliquely to
+the principal axis, towards
+a point P (pole of the mirror),
+on the concave mirror
+[Fig. 9.6 (a)] or a convex
+mirror [Fig. 9.6 (b)], is
+reflected obliquely. The
+incident and reflected rays
+follow the laws of reflection
+at the point of incidence
+(point P), making equal
+angles with the principal axis.
+(a) (b)
+Figure 9.4
+Remember that in all the above cases the laws of reflection are followed.
+At the point of incidence, the incident ray is reflected in such a way that
+the angle of reflection equals the angle of incidence.
+
+
+

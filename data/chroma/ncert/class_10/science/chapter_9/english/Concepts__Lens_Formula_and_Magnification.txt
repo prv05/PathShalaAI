@@ -1,0 +1,19 @@
+Lens Formula and Magnification
+As we have a formula for spherical mirrors, we also have formula for
+spherical lenses. This formula gives the relationship between objectdistance (u), image-distance (v) and the focal length (f ). The lens formula
+is expressed as
+1/v-1/u=1/f         (9.8)
+The lens formula given above is general and is valid in all situations
+for any spherical lens. Take proper care of the signs of different quantities,
+while putting numerical values for solving problems relating to lenses.
+
+Magnification
+The magnification produced by a lens, similar to that for spherical
+mirrors, is defined as the ratio of the height of the image and the height
+of the object. Magnification is represented by the letter m. If h is the
+height of the object and h′ is the height of the image given by a lens, then
+the magnification produced by the lens is given by,
+m =Height of the Image/Height of the object=h′/h   (9.9)
+Magnification produced by a lens is also related to the object-distance
+u, and the image-distance v. This relationship is given by
+Magnification (m ) = h′/h = v/u

@@ -1,0 +1,47 @@
+{
+  "class": "10",
+  "subject": "Science",
+  "lesson_name": "Light: Reflection and Refraction",
+  "chapter_id": "ch9",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity_9_1",
+      "Activity_9_2",
+      "Activity_9_3",
+      "Activity_9_4",
+      "Activity_9_5",
+      "Activity_9_6",
+      "Activity_9_7",
+      "Activity_9_8",
+      "Activity_9_9",
+      "Activity_9_10",
+      "Activity_9_11",
+      "Activity_9_12",
+      "Example_9_1",
+      "Example_9_2"
+    ],
+    "Concepts": [
+      "Image_Formation_by_Lenses",
+      "Image_Formation_by_Spherical_Mirror",
+      "Image_Formation_in_Lenses_Using_Ray",
+      "Image_formation",
+      "Lens_Formula_and_Magnification",
+      "Mirror_Formula_and_Magnification",
+      "More_to_know",
+      "More_to_know2",
+      "More_to_know3",
+      "Overview",
+      "Power_of_a_Lens",
+      "Reflection_of_light",
+      "Refraction_by_Spherical_Lenses",
+      "Refraction_of_light",
+      "Refraction_through_a_Rectangular_Glass",
+      "Representation_of_Images_Formed_by_Spherical_Mirrors",
+      "Sign_Convention_for_Reflection_by_Spherical_Mirrors",
+      "Sign_Convention_for_Spherical_Lense",
+      "Spherical_Mirrors",
+      "The_Refractive_Index"
+    ]
+  }
+}

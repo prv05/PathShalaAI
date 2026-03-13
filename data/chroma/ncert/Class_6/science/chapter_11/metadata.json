@@ -1,0 +1,18 @@
+{
+  "class": "6",
+  "subject": "Science",
+  "lesson_name": "Natures_Treasures",
+  "chapter_id": "ch11",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activities"
+    ],
+    "Concepts": [
+      "11_1_Introduction",
+      "11_2_Classification_of_Natural_Resources",
+      "11_3_Coal_and_Petroleum",
+      "11_4_Conservation_of_Natural_Resources"
+    ]
+  }
+}

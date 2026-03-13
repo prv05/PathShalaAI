@@ -1,0 +1,31 @@
+Activity 12.3
+
+Take a small compass and a bar magnet.
+ Place the magnet on a sheet of white paper fixed on a drawing
+board, using some adhesive material.
+ Mark the boundary of the magnet.
+ Place the compass near the north pole of the magnet. How does
+it behave? The south pole of the needle points towards the north
+pole of the magnet. The north pole of the compass is directed
+away from the north pole of the magnet.
+Mark the position of two ends of the needle.
+ Now move the needle to a new position
+such that its south pole occupies the
+position previously occupied by its north
+pole.
+In this way, proceed step by step till you
+reach the south pole of the magnet as
+shown in Fig. 12.3.
+ Join the points marked on the paper by a
+smooth curve. This curve represents
+a field line.
+ Repeat the above procedure and draw as
+many lines as you can. You will get a
+pattern shown in Fig. 12.4. These lines
+represent the magnetic field around the
+magnet. These are known as magnetic
+field lines.
+ Observe the deflection in the compass
+needle as you move it along a field line.
+The deflection increases as the needle is
+moved towards the poles.

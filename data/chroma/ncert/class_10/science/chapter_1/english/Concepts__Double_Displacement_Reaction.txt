@@ -1,0 +1,13 @@
+ Double Displacement Reaction
+You will observe that a white substance, which is an insoluble substance is formed which is known as a precipitate. 
+Any reaction that produces a precipitate can be called a precipitation reaction.
+
+Na2SO4(aq) + BaCl2(aq) → BaSO4(s) + 2NaCl(aq)      (1.27)
+(Sodium sulphate)      (Barium chloride)      (Barium sulphate)      (Sodium chloride)
+
+What causes this? The white precipitate of BaSO4 is formed by the 
+reaction of SO4^2− and Ba^2+. The other product formed is sodium chloride 
+which remains in the solution.
+
+Such reactions in which there is an exchange of ions between the 
+reactants are called double displacement reactions.

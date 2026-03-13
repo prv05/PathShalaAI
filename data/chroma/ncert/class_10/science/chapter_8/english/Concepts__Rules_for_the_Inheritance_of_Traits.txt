@@ -1,0 +1,61 @@
+Rules for the Inheritance of Traits –
+Mendel’s Contributions
+
+The rules for inheritance of such traits in human beings are related to
+the fact that both the father and the mother contribute practically equal
+amounts of genetic material to the child. This means that each trait can
+be influenced by both paternal and maternal DNA. Thus, for each trait
+there will be two versions in each child. What will, then, the trait seen in
+the child be? Mendel (see box) worked out the main rules of such
+inheritance, and it is interesting to look at some of his experiments from
+more than a century ago.
+Mendel used a number of contrasting visible characters of garden
+peas – round/wrinkled seeds, tall/short plants, white/violet flowers and
+so on. He took pea plants with different characteristics – a tall plant and
+a short plant, produced progeny by crossing them, and calculated the
+percentages of tall or short progeny.
+In the first place, there were no halfway characteristics in this firstgeneration, or F1 progeny – no ‘medium-height’ plants. All plants were
+tall. This meant that only one of the parental traits
+was seen, not some mixture of the two. So the next
+question was, were the tall plants in the F1
+generation exactly the same as the tall plants of the
+parent generation? Mendelian experiments test this
+by getting both the parental plants and these F1 tall
+plants to reproduce by self-pollination. The progeny
+of the parental plants are, of course, all tall. However,
+the second-generation, or F2, progeny of the F1 tall
+plants are not all tall. Instead, one quarter of them
+are short. This indicates that both the tallness and
+shortness traits were inherited in the F1 plants, but
+only the tallness trait was expressed. This led Mendel
+to propose that two copies of factor (now called genes)
+controlling traits are present in sexually reproducing
+organism. These two may be identical, or may be
+different, depending on the parentage. A pattern of
+inheritance can be worked out with this assumption,
+as shown in Fig. 8.3.
+
+In this explanation, both TT and Tt are tall plants, while only tt is a
+short plant. In other words, a single copy of ‘T’ is enough to make the
+plant tall, while both copies have to be ‘t’ for the plant to be short. Traits
+like ‘T’ are called dominant traits, while those that behave like ‘t’ are
+called recessive traits. Work out which trait would be considered
+dominant and which one recessive in Fig. 8.4.
+
+What happens when pea plants showing two different
+characteristics, rather than just one, are bred with each other?
+What do the progeny of a tall plant with round seeds and a short
+plant with wrinkled-seeds look like? They are all tall and have
+round seeds. Tallness and round seeds are thus dominant traits.
+But what happens when these F1 progeny are used to generate
+F2 progeny by self-pollination? A Mendelian experiment will find
+that some F2 progeny are tall plants with round seeds, and some
+were short plants with wrinkled seeds. However, there would also
+be some F2 progeny that showed new combinations. Some of them
+would be tall, but have wrinkled seeds, while others would be short,
+but have round seeds. You can see as to how new combinations of
+traits are formed in F2 offspring when factors controlling for seed
+shape and seed colour recombine to form zygote leading to form
+F2 offspring (Fig. 8.5). Thus, the tall/short trait and the round
+seed/wrinkled seed trait are independently inherited.
+

@@ -1,0 +1,18 @@
+Activity 9.10
+n Fix a sheet of white paper on a drawing board using drawing pins.
+n Place a rectangular glass slab over the sheet in the middle.
+n Draw the outline of the slab with a pencil. Let us name the outline
+as ABCD.
+n Take four identical pins.
+n Fix two pins, say E and F, vertically such that the line joining the
+pins is inclined to the edge AB.
+n Look for the images of the pins E and F through the opposite edge.
+Fix two other pins, say G and H, such that these pins and the
+images of E and F lie on a straight line.
+n Remove the pins and the slab.
+n Join the positions of tip of the pins E and F and produce the line
+up to AB. Let EF meet AB at O. Similarly, join the positions of tip
+of the pins G and H and produce it up to the edge CD. Let HG
+meet CD at O′.
+n Join O and O′. Also produce EF up to P, as shown by a dotted line
+in Fig. 9.10.

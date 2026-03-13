@@ -1,0 +1,19 @@
+{
+  "class": "6",
+  "subject": "Science",
+  "lesson_name": "Beyond_Earth",
+  "chapter_id": "ch12",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activities"
+    ],
+    "Concepts": [
+      "12_1_Introduction",
+      "12_2_What_are_Constellations",
+      "12_3_The_Pole_Star",
+      "12_4_The_Solar_System",
+      "12_5_The_Moon"
+    ]
+  }
+}

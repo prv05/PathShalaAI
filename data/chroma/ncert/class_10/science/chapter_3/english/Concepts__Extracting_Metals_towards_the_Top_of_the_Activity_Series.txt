@@ -1,0 +1,16 @@
+ Extracting Metals towards the Top of the
+Activity Series
+The metals high up in the reactivity series are very reactive. They cannot
+be obtained from their compounds by heating with carbon. For example,
+carbon cannot reduce the oxides of sodium, magnesium, calcium,
+aluminium, etc., to the respective metals. This is because these metals
+have more affinity for oxygen than carbon. These metals are obtained
+by electrolytic reduction. For example, sodium, magnesium and calcium
+are obtained by the electrolysis of their molten chlorides. The metals
+are deposited at the cathode (the negatively charged electrode), whereas,
+chlorine is liberated at the anode (the positively charged electrode). The
+reactions are –
+
+At cathode Na+ + e– → Na
+At anode 2Cl– → Cl2+ 2e–
+

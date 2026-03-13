@@ -1,0 +1,26 @@
+Activity 9.12
+n Take a convex lens. Find its approximate focal length in a way
+described in Activity 9.11.
+n Draw five parallel straight lines, using chalk, on a long Table such
+that the distance between the successive lines is equal to the
+focal length of the lens.
+n Place the lens on a lens stand. Place it on the central line such
+that the optical centre of the lens lies just over the line.
+n The two lines on either side of the lens correspond to F and 2F of
+the lens respectively. Mark them with appropriate letters such as
+2F1
+, F1
+, F2
+ and 2F2
+, respectively.
+n Place a burning candle, far beyond 2F1
+ to the left. Obtain a clear
+sharp image on a screen on the opposite side of the lens.
+n Note down the nature, position and relative size of the image.
+n Repeat this Activity by placing object just behind 2F1
+, between F1
+and 2F1
+ at F1
+, between F1
+ and O. Note down and tabulate your
+observations.

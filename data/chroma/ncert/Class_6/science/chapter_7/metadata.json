@@ -1,0 +1,18 @@
+{
+  "class": "6",
+  "subject": "Science",
+  "lesson_name": "Temperature and its Measurement",   
+  "chapter_id": "ch07",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activities"
+    ],
+    "Concepts": [
+  "7_1_How_do_we_Measure_Temperature",
+  "7_2_Measuring_Temperature",
+  "7_3_Digital_Thermometers"
+]
+  }
+}
+

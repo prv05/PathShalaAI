@@ -1,0 +1,26 @@
+{
+  "class": "10",
+  "subject": "Science",
+  "lesson_name": "The Human Eye and the Colourful World",
+  "chapter_id": "ch10",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity_10_1",
+      "Activity_10_2"
+    ],
+    "Concepts": [
+      "Atmospheric_Refraction",
+      "Defects_of_Vision_and_their_Correction",
+      "Dispersion_of_a_white_light_by_a_glass",
+      "Overview",
+      "Power_of_Accommodation",
+      "Refraction_of_a_light_through_a_prism",
+      "Scattering_of_light",
+      "The_human_eye",
+      "Think_it_over",
+      "Tyndall_Effect",
+      "Why_is_the_colour_of_the_clear_Sky"
+    ]
+  }
+}

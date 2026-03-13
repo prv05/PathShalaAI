@@ -1,0 +1,14 @@
+Activity 3.6
+n Set up an electric circuit as shown in Fig. 3.2.
+n Place the metal to be tested in the circuit
+between terminals A and B as shown.
+n Does the bulb glow? What does this indicate?
+
+You must have seen that the wires that carry current
+in your homes have a coating of polyvinylchloride (PVC)
+or a rubber-like material. Why are electric wires coated
+with such substances?
+What happens when metals strike a hard surface? Do they produce
+a sound? The metals that produce a sound on striking a hard surface
+are said to be sonorous. Can you now say why school bells are made of
+metals?

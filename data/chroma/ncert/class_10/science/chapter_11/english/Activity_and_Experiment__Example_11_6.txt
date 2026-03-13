@@ -1,0 +1,14 @@
+
+Example 11.6
+A wire of given material having length l and area of cross-section A
+has a resistance of 4 Ω. What would be the resistance of another wire
+of the same material having length l/2 and area of cross-section 2A?
+Solution
+For first wire
+R1= ρ*l/A= 4Ω
+Now for second wire
+R2=ρ*l/2/2A =1/4  ρ l/A
+
+R2 =1/4 R1
+R2 = 1Ω
+The resistance of the new wire is 1Ω.

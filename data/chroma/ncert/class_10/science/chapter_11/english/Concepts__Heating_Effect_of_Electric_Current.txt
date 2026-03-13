@@ -1,0 +1,47 @@
+HEATING EFFECT OF ELECTRIC CURRENT
+
+We know that a battery or a cell is a source of electrical energy. The
+chemical reaction within the cell generates the potential difference between
+its two terminals that sets the electrons in motion to flow the current
+through a resistor or a system of resistors connected to the battery. We
+have also seen, in Section 11.2, that to maintain the current, the source
+has to keep expending its energy. Where does this energy go? A part of
+the source energy in maintaining the current may be consumed into
+useful work (like in rotating the blades of an electric fan). Rest of the
+source energy may be expended in heat to raise the temperature of
+gadget. We often observe this in our everyday life. For example, an electric
+fan becomes warm if used continuously for longer time etc. On the other
+hand, if the electric circuit is purely resistive, that is, a configuration of
+resistors only connected to a battery; the source energy continually gets
+dissipated entirely in the form of heat. This is known as the heating
+effect of electric current. This effect is utilised in devices such as electric
+heater, electric iron etc.
+Consider a current I flowing through a resistor of resistance R. Let
+the potential difference across it be V (Fig. 11.13). Let t be the time during
+which a charge Q flows across. The work done in moving the charge Q
+through a potential difference V is VQ. Therefore, the source must supply
+energy equal to VQ in time t. Hence the power input to the circuit by the
+source is
+P=V*Q/t= VI(11.19)
+Or the energy supplied to the circuit by the source in time t is P × t,
+that is, VIt. What happens to this energy expended by the source? This
+energy gets dissipated in the resistor as heat. Thus for a steady
+current I, the amount of heat H produced in time t is
+H = VIt
+
+Applying Ohm’s law [Eq. (11.5)], we get
+H = I^Rt (11.21)
+This is known as Joule’s law of heating. The
+law implies that heat produced in a resistor is
+(i) directly proportional to the square of current
+for a given resistance, (ii) directly proportional to
+resistance for a given current, and (iii) directly
+proportional to the time for which the current flows
+through the resistor. In practical situations, when
+an electric appliance is connected to a known
+voltage source, Eq. (11.21) is used after
+calculating the current through it, using the
+relation I = V/R.
+
+
+

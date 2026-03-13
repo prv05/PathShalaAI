@@ -1,0 +1,47 @@
+Refraction through a Rectangular Glass Slab
+
+To understand the phenomenon of refraction of light through a glass
+slab, let us do an Activity.
+In this Activity, you will note, the light ray has changed its direction
+at points O and O′. Note that both the points O and O′ lie on surfaces
+separating two transparent media. Draw a perpendicular NN’ to AB at O
+and another perpendicular MM′ to CD at O′. The light ray at point O has
+entered from a rarer medium to a denser medium, that is, from air to
+glass. Note that the light ray has bent towards
+the normal. At O′, the light ray has entered
+from glass to air, that is, from a denser
+medium to a rarer medium. The light here
+has bent away from the normal. Compare the
+angle of incidence with the angle of refraction
+at both refracting surfaces AB and CD.
+In Fig. 9.10, a ray EO is obliquely
+incident on surface AB, called incident ray.
+OO′ is the refracted ray and O′ H is the
+emergent ray. You may observe that the
+emergent ray is parallel to the direction of
+the incident ray. Why does it happen so? The
+extent of bending of the ray of light at the
+opposite parallel faces AB (air-glass interface)
+and CD (glass-air interface) of the rectangular
+glass slab is equal and opposite. This is why
+the ray emerges parallel to the incident ray.
+However, the light ray is shifted sideward
+slightly. What happens when a light ray is
+incident normally to the interface of two
+media? Try and find out.
+Now you are familiar with the refraction of light. Refraction is due to
+change in the speed of light as it enters from one transparent medium to
+another. Experiments show that refraction of light occurs according to
+certain laws.The following are the laws of refraction of light.
+ (i) The incident ray, the refracted ray and the normal to the interface
+of two transparent media at the point of incidence, all lie in the
+same plane.
+(ii) The ratio of sine of angle of incidence to the sine of angle of
+refraction is a constant, for the light of a given colour and for
+the given pair of media. This law is also known as Snell’s law of
+refraction. (This is true for angle 0 < i < 90o
+)
+If i is the angle of incidence and r is the angle of refraction, then,
+sin i/sin r = constant (9.4)
+This constant value is called the refractive index of the second medium
+with respect to the first. Let us study about refractive index in some detail.

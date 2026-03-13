@@ -1,0 +1,43 @@
+ Image Formation in Lenses Using Ray Diagrams
+We can represent image formation by lenses using ray diagrams. Ray
+diagrams will also help us to study the nature, position and relative size
+of the image formed by lenses. For drawing ray diagrams in lenses, alike
+of spherical mirrors, we consider any two of the following rays –
+(i) A ray of light from the object, parallel to the principal axis, after
+refraction from a convex lens, passes through the principal focus
+on the other side of the lens, as shown in Fig. 9.13 (a). In case of
+a concave lens,
+the ray appears
+to diverge from
+the principal
+focus located
+on the same
+side of the lens,
+as shown in
+Fig. 9.13 (b).(ii) A ray of light passing
+through a principal
+focus, after refraction
+from a convex lens, will
+emerge parallel to the
+principal axis. This is
+shown in Fig. 9.14 (a). A
+ray of light appearing to
+meet at the principal
+focus of a concave lens,
+after refraction, will
+emerge parallel to the
+principal axis. This is
+shown in Fig.9.14 (b).
+(iii) A ray of light passing
+through the optical
+centre of a lens will
+emerge without any
+deviation. This is
+illustrated in Fig.9.15(a)
+and Fig.9.15 (b).
+(a) (b)
+(a) (b)
+The ray diagrams for the image formation in a convex lens for a few
+positions of the object are shown in Fig. 9.16. The ray diagrams
+representing the image formation in a concave lens for various positions
+of the object are shown in Fig. 9.17

@@ -1,0 +1,8 @@
+Right-Hand Thumb Rule
+
+A convenient way of finding the direction of magnetic field associated
+with a current-carrying conductor.Imagine that you are holding a current-carrying straight
+conductor in your right hand such that the thumb points towards
+the direction of current. Then your fingers will wrap around the
+conductor in the direction of the field lines of the magnetic field, as
+shown in Fig. 12.7. This is known as the right-hand thumb rule.

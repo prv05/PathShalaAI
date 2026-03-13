@@ -1,0 +1,20 @@
+{
+  "class": "6",
+  "subject": "Science",
+  "lesson_name": "Materials_Around_Us",
+  "chapter_id": "ch06",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activities"
+    ],
+    "Concepts": [
+      "6_1_Observing_Objects_Around_Us",
+      "6_2_What_are_Objects_Made_of",
+      "6_3_Properties_of_Materials",
+      "6_4_Soluble_or_Insoluble",
+      "6_5_Objects_May_Float_or_Sink_in_Water",
+      "6_6_Transparency"
+    ]
+  }
+}

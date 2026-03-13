@@ -1,0 +1,10 @@
+Example 11.13
+An electric refrigerator rated 400 W operates 8 hour/day. What is
+the cost of the energy to operate it for 30 days at Rs 3.00 per kW h?
+
+Solution
+The total energy consumed by the refrigerator in 30 days would be
+400 W × 8.0 hour/day × 30 days = 96000 W h
+= 96 kW h
+Thus the cost of energy to operate the refrigerator for 30 days is
+96 kW h × Rs 3.00 per kW h = Rs 288.00

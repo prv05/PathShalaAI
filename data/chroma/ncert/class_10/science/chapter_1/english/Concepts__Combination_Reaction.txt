@@ -1,0 +1,57 @@
+TYPES OF CHEMICAL REACTIONS
+We have learnt in Class IX that during a chemical reaction atoms of one
+element do not change into those of another element. Nor do atoms
+disappear from the mixture or appear from elsewhere. Actually, chemical
+reactions involve the breaking and making of bonds between atoms to
+produce new substances. You will study about types of bonds formed
+between atoms in Chapters 3 and 4.
+
+Combination Reaction
+
+Calcium oxide reacts vigorously with water to produce slaked lime
+(calcium hydroxide) releasing a large amount of heat.
+
+CaO(s) + H2O(l) → Ca(OH)2(aq) + Heat      (1.13)
+
+(Quick lime)      (Slaked lime)
+
+In this reaction, calcium oxide and water combine to form a single
+product, calcium hydroxide. Such a reaction in which a single product
+is formed from two or more reactants is known as a combination reaction.
+A solution of slaked lime produced by the reaction 1.13 is used for whitewashing
+walls. Calcium hydroxide reacts slowly with the carbon dioxide in air to form a thin
+layer of calcium carbonate on the walls. Calcium carbonate is formed after two to
+three days of whitewashing and gives a shiny finish to the walls. It is interesting to note
+that the chemical formula for marble is also CaCO3.
+Ca(OH)2(aq) + CO2(g) → CaCO3(s) + H2O(l)      (1.14)
+
+(Calcium hydroxide)      (Calcium carbonate)
+
+In simple language we can say that when two or more substances
+(elements or compounds) combine to form a single product, the reactions
+are called combination reactions.
+In Activity 1.4, we also observed that a large amount of heat is evolved.
+This makes the reaction mixture warm. Reactions in which heat is
+released along with the formation of products are called exothermic
+chemical reactions.
+Other examples of exothermic reactions are –
+(i) Burning of natural gas
+
+CH4(g) + 2O2(g) → CO2(g) + 2H2O(g)
+
+(ii) Do you know that respiration is an exothermic process?
+We all know that we need energy to stay alive. We get this energy
+from the food we eat. During digestion, food is broken down into simpler
+substances. For example, rice, potatoes and bread contain
+carbohydrates. These carbohydrates are broken down to form glucose.
+This glucose combines with oxygen in the cells of our body and provides
+energy. The special name of this reaction is respiration, the process of
+which you will study in Chapter 6.
+C6H12O6(aq) + 6O2(aq) → 6CO2(aq) + 6H2O(l) + Energy      (1.18)
+
+(Glucose)
+(iii) The decomposition of vegetable matter into compost is also an
+example of an exothermic reaction.
+Identify the type of the reaction taking place in Activity 1.1, where
+heat is given out along with the formation of a single product.
+

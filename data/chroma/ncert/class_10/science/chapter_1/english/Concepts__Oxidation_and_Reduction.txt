@@ -1,0 +1,30 @@
+Oxidation and Reduction
+
+The surface of copper powder becomes coated with black copper(II) oxide. 
+Why has this black substance formed?
+
+This is because oxygen is added to copper and copper oxide is formed.
+
+2Cu + O2 --Heat--> 2CuO      (1.28)
+
+If hydrogen gas is passed over this heated material (CuO), the black 
+coating on the surface turns brown as the reverse reaction takes place 
+and copper is obtained.
+
+CuO + H2 --Heat--> Cu + H2O      (1.29)
+
+If a substance gains oxygen during a reaction, it is said to be oxidised. 
+If a substance loses oxygen during a reaction, it is said to be reduced.
+
+During reaction (1.29), the copper(II) oxide is losing oxygen and is being 
+reduced. The hydrogen is gaining oxygen and is being oxidised.
+
+In other words, one reactant gets oxidised while the other gets reduced 
+during a reaction. Such reactions are called oxidation-reduction reactions 
+or redox reactions.      (1.30)
+
+Some other examples of redox reactions are:
+
+ZnO + C → Zn + CO      (1.31)
+
+MnO2 + 4HCl → MnCl2 + 2H2O + Cl2      (1.32)

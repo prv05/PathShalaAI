@@ -1,0 +1,17 @@
+Tyndall Effect
+The earth’s atmosphere is a heterogeneous mixture of minute particles.
+These particles include smoke, tiny water droplets, suspended particles
+of dust and molecules of air. When a beam of light strikes such fine
+particles, the path of the beam becomes visible. The light reaches us,
+after being reflected diffusely by these particles. The phenomenon of
+scattering of light by the colloidal particles gives rise to Tyndall effect
+which you have studied in Class IX. This phenomenon is seen when a
+fine beam of sunlight enters a smoke-filled room through a small hole.
+Thus, scattering of light makes the particles visible. Tyndall effect can
+also be observed when sunlight passes through a canopy of a dense
+forest. Here, tiny water droplets in the mist scatter light.
+The colour of the scattered light depends on the size of the scattering
+particles. Very fine particles scatter mainly blue light while particles of
+larger size scatter light of longer wavelengths. If the size of the scattering
+particles is large enough, then, the scattered light may even appear
+white.

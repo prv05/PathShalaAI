@@ -1,0 +1,47 @@
+{
+  "class": "10",
+  "subject": "Science",
+  "lesson_name": "Carbon and its Compounds",
+  "chapter_id": "ch4",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity_4_1",
+      "Activity_4_2",
+      "Activity_4_3",
+      "Activity_4_4",
+      "Activity_4_5",
+      "Activity_4_6",
+      "Activity_4_7",
+      "Activity_4_8",
+      "Activity_4_9",
+      "Activity_4_10",
+      "Activity_4_11",
+      "Activity_4_12"
+    ],
+    "Concepts": [
+      "Addition_Reaction",
+      "Alcohol_as_a_fuel",
+      "Allotropes_of_carbon",
+      "Bonding_in_carbon",
+      "Chains_Branches_and_Rings",
+      "Combustion",
+      "Do_u_know",
+      "Do_u_know2",
+      "Homologous_Series",
+      "How_do_alcohols_affect_living_beings",
+      "Micelles",
+      "Nomenclature_of_Carbon_Compounds",
+      "Organic_compounds",
+      "Overview",
+      "Oxidation",
+      "Properties_of_Ethanoic_Acid",
+      "Properties_of_Ethanol",
+      "Saturated_and_Unsaturated_Carbon",
+      "Soaps_and_Detergents",
+      "Substitution_Reaction",
+      "Versatile_nature_of_carbon",
+      "Will_you_be_my_Friend"
+    ]
+  }
+}

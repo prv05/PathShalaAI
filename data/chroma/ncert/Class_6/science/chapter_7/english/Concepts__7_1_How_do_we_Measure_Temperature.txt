@@ -1,0 +1,6 @@
+7.1 How do we Measure Temperature?
+We use many terms in our daily life to describe how we feel, such as ‘it is a cold morning’ or ‘this is a hot cup of tea’. How do we know how hot or cold an object is?. We often use our sense of touch to find out. But is our sense of touch always reliable?.
+
+To understand this, let us consider an experiment. Take three mugs and label them as A, B, and C. Put cold water in mug A, hot water (not too hot!) in mug B, and lukewarm water in mug C. Dip your left hand in mug A and your right hand in mug B for about a minute. Now, put both hands simultaneously in mug C. Do both the hands get the same feeling?. The left hand feels the water in mug C is hot, while the right hand feels it is cold. This shows that we cannot always rely on our sense of touch to decide whether an object is hot or cold.
+
+A reliable measure of the hotness of an object is its temperature. Temperature is measured by a device called a thermometer.

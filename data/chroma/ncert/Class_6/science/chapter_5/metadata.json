@@ -1,0 +1,20 @@
+{
+  "class": "6",
+  "subject": "Science",
+  "lesson_name": "Measurement_of_Length_and_Motion",
+  "chapter_id": "ch05",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activities"
+    ],
+    "Concepts": [
+      "5_1_How_do_we_Measure",
+      "5_2_Standard_Units_of_Measure",
+      "5_3_Correct_Measurement_of_Length",
+      "5_4_Measuring_the_Length",
+      "5_5_Objects_in_Motion",
+      "5_6_Types_of_Motion"
+    ]
+  }
+}

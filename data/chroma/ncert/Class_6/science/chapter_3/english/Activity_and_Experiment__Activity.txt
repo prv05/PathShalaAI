@@ -1,0 +1,11 @@
+Activity 3.5: Let us find out and group
+Based on the food they eat, animals are grouped as follows:
+
+
+Herbivores: Animals which eat only plants or plant products.
+
+
+Carnivores: Animals which eat other animals.
+
+
+Omnivores: Animals which eat both plants and animals.

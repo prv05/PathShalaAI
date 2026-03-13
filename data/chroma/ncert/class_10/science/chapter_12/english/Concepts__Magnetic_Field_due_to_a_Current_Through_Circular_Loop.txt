@@ -1,0 +1,28 @@
+Magnetic Field due to a Current through a
+Circular Loop
+
+We have so far observed the pattern of the magnetic field lines
+produced around a current-carrying straight wire. Suppose
+this straight wire is bent in the form of a circular loop and a
+current is passed through it. How would the magnetic field
+lines look like? We know that the magnetic field produced
+by a current-carrying straight wire depends inversely on the
+distance from it. Similarly at every point of a current-carrying
+circular loop, the concentric circles representing the magnetic
+field around it would become larger and larger as we move
+away from the wire (Fig. 12.8). By the time we reach at the
+centre of the circular loop, the arcs of these big circles would
+appear as straight lines. Every point on the wire carrying
+current would give rise to the magnetic field appearing as
+straight lines at the center of the loop. By applying the right
+hand rule, it is easy to check that every section of the wire
+contributes to the magnetic field lines in the same direction
+within the loop. This rule is also called Maxwell’s corkscrew rule. If we consider ourselves driving a
+corkscrew in the direction of the current, then the direction of the rotation of
+corkscrew is the direction of the magnetic field.
+We know that the magnetic field produced by a current-carrying
+wire at a given point depends directly on the current passing through it.
+Therefore, if there is a circular coil having n turns, the field produced is
+n times as large as that produced by a single turn. This is because the
+current in each circular turn has the same direction, and the field due to
+each turn then just adds up.

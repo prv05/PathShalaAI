@@ -1,0 +1,22 @@
+ Sign Convention for Reflection by Spherical Mirrors
+
+While dealing with the reflection of light by spherical mirrors, we shall
+follow a set of sign conventions called the New Cartesian Sign
+Convention. In this convention, the pole (P) of the mirror is taken as the
+origin (Fig. 9.9). The principal axis of the mirror is taken as the x-axis
+(X’X) of the coordinate system. The conventions are as follows –
+(i) The object is always placed to the left of the mirror. This implies
+that the light from the object falls on the mirror from the left-hand
+side.
+(ii) All distances parallel to the principal axis are measured from the
+pole of the mirror.
+(iii) All the distances measured to the right of the origin (along
++ x-axis) are taken as positive while those measured to the left of
+the origin (along – x-axis) are taken as negative.
+(iv) Distances measured perpendicular to and above the principal axis
+(along + y-axis) are taken as positive.
+(v) Distances measured perpendicular to and below the principal axis
+(along –y-axis) are taken as negative.
+The New Cartesian Sign Convention described above is illustrated in
+Fig.9.9 for your reference. These sign conventions are applied to obtain
+the mirror formula and solve related numerical problems.

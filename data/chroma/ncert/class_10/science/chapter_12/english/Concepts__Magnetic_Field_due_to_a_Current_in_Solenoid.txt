@@ -1,0 +1,19 @@
+ Magnetic Field due to a Current in a Solenoid
+
+
+A coil of many circular turns of insulated copper wire wrapped
+closely in the shape of a cylinder is called a solenoid. The pattern
+of the magnetic field lines around a current-carrying solenoid is
+shown in Fig. 12.10. Compare the pattern of the field with the
+magnetic field around a bar magnet (Fig. 12.4). Do they look
+similar? Yes, they are similar. In fact, one end of the solenoid
+behaves as a magnetic north pole, while the other behaves as the
+south pole. The field lines inside the solenoid are in the form of
+parallel straight lines. This indicates that the magnetic field is
+the same at all points inside the solenoid. That is, the field is
+uniform inside the solenoid.
+A strong magnetic field produced inside a solenoid can be
+used to magnetise a piece of magnetic material, like soft iron,
+when placed inside the coil (Fig. 12.11). The magnet so formed is
+called an electromagnet.
+

@@ -1,0 +1,11 @@
+Activity 11.4
+
+n Join three resistors of different values in series. Connect them
+with a battery, an ammeter and a plug key, as shown in Fig. 11.6.
+You may use the resistors of values like 1 Ω, 2 Ω, 3 Ω etc., and a
+battery of 6 V for performing this Activity.
+n Plug the key. Note the ammeter reading.
+n Change the position of ammeter to anywhere in between the
+resistors. Note the ammeter reading each time.
+n Do you find any change in the value of current through the
+ammeter?

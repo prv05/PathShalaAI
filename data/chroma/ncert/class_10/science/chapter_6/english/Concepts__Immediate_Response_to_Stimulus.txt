@@ -1,0 +1,17 @@
+Immediate Response to Stimulus
+Let us think about the first kind of movement, such as that of the sensitive
+plant. Since no growth is involved, the plant must actually move its leaves
+in response to touch. But there is no nervous tissue, nor any muscle
+tissue. How does the plant detect the touch, and how do the leaves move
+in response?
+If we think about where exactly the plant is touched, and what part
+of the plant actually moves, it is apparent that movement happens at a
+point different from the point of touch. So, information that a touch has
+occurred must be communicated. The plants also use electrical-chemical
+means to convey this information from cell to cell, but unlike in animals,
+there is no specialised tissue in plants for the conduction of information.
+Finally, again as in animals, some cells must change shape in order for
+movement to happen. Instead of the specialised proteins found in animal
+muscle cells, plant cells change shape by changing the amount of water
+in them, resulting in swelling or shrinking, and therefore in changing
+shapes (Fig. 6.4).

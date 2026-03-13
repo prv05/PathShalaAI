@@ -1,0 +1,10 @@
+Activity 5.6
+n Observe fish in an aquarium. They open and close their mouths
+and the gill-slits (or the operculum which covers the gill-slits)
+behind their eyes also open and close. Are the timings of the
+opening and closing of the mouth and gill-slits coordinated in some
+manner?
+n Count the number of times the fish opens and closes its mouth in
+a minute.
+n Compare this to the number of times you breathe in and out in a
+minute

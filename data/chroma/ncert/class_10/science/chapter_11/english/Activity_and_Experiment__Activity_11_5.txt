@@ -1,0 +1,15 @@
+Activity 11.5
+n In Activity 11.4, insert a voltmeter across the ends X and Y of the
+series combination of three resistors, as shown in Fig. 11.6.
+n Plug the key in the circuit and note the voltmeter reading. It
+gives the potential difference across the series combination of
+resistors. Let it be V. Now measure the potential difference across
+the two terminals of the battery. Compare the two values.
+n Take out the plug key and disconnect the voltmeter. Now insert
+the voltmeter across the ends X and P of the first resistor, as
+shown in Fig. 11.8.
+n Plug the key and measure the potential difference across the first
+resistor. Let it be V1.
+n Similarly, measure the potential difference across the other two
+resistors, separately. Let these values be V2and V3,respectively.
+n Deduce a relationship between V, V1, V2 and V3.

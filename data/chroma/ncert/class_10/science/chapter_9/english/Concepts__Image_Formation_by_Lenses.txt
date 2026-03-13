@@ -1,0 +1,9 @@
+Image Formation by Lenses
+
+Lenses form images by refracting light. How do lenses form images?
+What is their nature? Let us study this for a convex lens first.
+The nature, position and relative size of the image formed by convex
+lens for various positions of the object is summarised in Table 9.4.
+What conclusion can you draw from this Activity? A concave lens
+will always give a virtual, erect and diminished image, irrespective of the
+position of the object.

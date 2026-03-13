@@ -1,0 +1,7 @@
+Enrichment of Ores
+Ores mined from the earth are usually contaminated with large amounts
+of impurities such as soil, sand, etc., called gangue. The impurities must
+be removed from the ore prior to the extraction of the metal. The processes
+used for removing the gangue from the ore are based on the differences
+between the physical or chemical properties of the gangue and the ore.
+Different separation techniques are accordingly employed.

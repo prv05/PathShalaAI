@@ -1,0 +1,50 @@
+ The Refractive Index
+
+You have already studied that a ray of light that travels obliquely from
+one transparent medium into another will change its direction in the
+second medium. The extent of the change in direction that takes place
+in a given pair of media may be expressed in terms of the refractive index,
+the “constant” appearing on the right-hand side of Eq.(9.4).
+The refractive index can be linked to an important physical quantity,
+the relative speed of propagation of light in different media. It turns
+out that light propagates with different speeds in different media. Light
+travels fastest in vacuum with speed of 3×108
+ m s–1. In air, the speed of
+light is only marginally less, compared to that in vacuum. It reduces
+considerably in glass or water. The value of the refractive index for a
+given pair of media depends upon the speed of light in the two media, as
+given below.
+Consider a ray of light travelling from medium 1 into medium 2, as
+shown in Fig.9.11. Let v1
+ be the speed of light in medium 1 and v2
+ be the
+speed of light in medium 2. The refractive index of medium 2 with respect
+to medium 1 is given by the ratio of the speed of light in medium 1 and
+the speed of light in medium 2. This is usually represented by the symbol
+n21. This can be expressed in an equation form as
+n21=Speed of light in medium 1/Speed of light in medium 2=v1/v2
+
+(9.5)
+By the same argument, the refractive index of medium
+1 with respect to medium 2 is represented as n12.It is given
+by
+n12=Speed of light in medium 2/Speed of light in medium 1=v2/v1
+
+(9.6)
+If medium 1 is vacuum or air, then the refractive index of medium 2
+is considered with respect to vacuum. This is called the absolute refractive
+index of the medium. It is simply represented as n2
+. If c is the speed of light in air and v is the speed of light in the medium, then, the refractive
+index of the medium nm
+ is given by
+nm=Speed of light in air/Speed of light in the medium=c/v
+(9.7)
+The absolute refractive index of a medium is simply called its refractive
+index. The refractive index of several media is given in Table 9.3. From
+the Table you can know that the refractive index of water, nw
+ = 1.33.
+This means that the ratio of the speed of light in air and the speed of
+light in water is equal to 1.33. Similarly, the refractive index of crown
+glass, ng
+ =1.52. Such data are helpful in many places. However, you
+need not memorise the data.

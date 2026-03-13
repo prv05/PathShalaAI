@@ -1,0 +1,24 @@
+Artificial kidney (Hemodialysis)
+Kidneys are vital organs for survival. Several factors like infections, injury or restricted
+blood flow to kidneys reduce the activity of kidneys. This leads to accumulation of
+poisonous wastes in the body, which can even lead to death. In case of kidney
+failure, an artificial kidney can be used. An artificial kidney is a device to remove
+nitrogenous waste products from the blood through dialysis.
+Artificial kidneys contain a number of tubes with a semi-permeable lining, suspended
+in a tank filled with dialysing fluid.
+This fluid has the same osmotic
+pressure as blood, except that it is
+devoid of nitrogenous wastes. The
+patient’s blood is passed through
+these tubes. During this passage,
+the waste products from the blood
+pass into dialysing fluid by diffusion.
+The purified blood is pumped back
+into the patient. This is similar to the
+function of the kidney, but it is
+different since there is no reabsorption involved. Normally, in a
+healthy adult, the initial filtrate in the
+kidneys is about 180 L daily.
+However, the volume actually
+excreted is only a litre or two a day,
+because the remaining filtrate is reabsorbed in the kidney tubules.

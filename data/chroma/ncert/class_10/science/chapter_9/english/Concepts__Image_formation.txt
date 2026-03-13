@@ -1,0 +1,38 @@
+(a) Image formation by Concave Mirror
+Figure 9.7 illustrates the ray diagrams for the formation of image
+by a concave mirror for various positions of the object.
+
+Uses of concave mirrors
+Concave mirrors are commonly used in torches, search-lights and
+vehicles headlights to get powerful parallel beams of light. They are
+often used as shaving mirrors to see a larger image of the face. The
+dentists use concave mirrors to see large images of the teeth of patients.
+Large concave mirrors are used to concentrate sunlight to produce
+heat in solar furnaces.
+
+(b) Image formation by a Convex Mirror
+We studied the image formation by a concave mirror. Now we shall
+study the formation of image by a convex mirror.
+We consider two positions of the object for studying the image formed
+by a convex mirror. First is when the object is at infinity and the second
+position is when the object is at a finite distance from the mirror. The ray
+diagrams for the formation of image by a convex mirror for these two
+positions of the object are shown in Fig.9.8 (a) and (b), respectively. The
+results are summarised in Table 9.2.
+
+You have so far studied the image formation by a plane mirror, a
+concave mirror and a convex mirror. Which of these mirrors will give the
+full image of a large object? Let us explore through an Activity.
+You can see a full-length image of a tall building/tree in a small
+convex mirror. One such mirror is fitted in a wall of Agra Fort facing Taj
+Mahal. If you visit the Agra Fort, try to observe the full image of Taj
+Mahal. To view distinctly, you should stand suitably at the terrace
+adjoining the wall.
+Uses of convex mirrors
+Convex mirrors are commonly used as rear-view (wing) mirrors in
+vehicles. These mirrors are fitted on the sides of the vehicle, enabling the
+driver to see traffic behind him/her to facilitate safe driving. Convex
+mirrors are preferred because they always give an erect, though
+diminished, image. Also, they have a wider field of view as they are curved
+outwards. Thus, convex mirrors enable the driver to view much larger
+area than would be possible with a plane mirror.

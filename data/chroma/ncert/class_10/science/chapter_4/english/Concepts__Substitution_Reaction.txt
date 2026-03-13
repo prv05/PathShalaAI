@@ -1,0 +1,8 @@
+Substitution Reaction
+Saturated hydrocarbons are fairly unreactive and are inert in the presence
+of most reagents. However, in the presence of sunlight, chlorine is added
+to hydrocarbons in a very fast reaction. Chlorine can replace the hydrogen
+atoms one by one. It is called a substitution reaction because one type
+of atom or a group of atoms takes the place of another. A number of
+products are usually formed with the higher homologues of alkanes.
+CH4 + Cl2 → CH3Cl + HCl (in the presence of sunlight)

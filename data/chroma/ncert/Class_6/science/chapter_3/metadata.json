@@ -1,0 +1,21 @@
+{
+  "class": "6",
+  "subject": "Science",
+  "lesson_name": "Mindful_Eating_A_Path_to_a_Healthy_Body",
+  "chapter_id": "ch03",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity"
+    ],
+    "Concepts": [
+      "3_1_What_Do_We_Eat",
+      "3_2_Ingredients_of_Food",
+      "3_3_What_Parts_of_Plants",
+      "3_4_What_Do_Animals_Eat",
+      "3_5_Components_of_Food",
+      "3_6_A_Balanced_Diet",
+      "3_7_How_to_Test_for_Nutrients"
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+Decomposition Reaction
+
+Have you noticed that the green colour of the ferrous sulphate crystals has changed? 
+You can also smell the characteristic odour of burning sulphur.
+
+2FeSO4(s) --Heat--> Fe2O3(s) + SO2(g) + SO3(g)
+
+In this reaction you can observe that a single reactant breaks down to give simpler products. 
+This is a decomposition reaction. Ferrous sulphate crystals (FeSO4·7H2O) 
+lose water when heated and the colour of the crystals changes. It then 
+decomposes to ferric oxide (Fe2O3), sulphur dioxide (SO2) and sulphur 
+trioxide (SO3). Ferric oxide is a solid, while SO2 and SO3 are gases.
+
+Decomposition of calcium carbonate to calcium oxide and carbon 
+dioxide on heating is an important decomposition reaction used in 
+various industries. Calcium oxide is called lime or quick lime. It has 
+many uses – one is in the manufacture of cement. When a decomposition 
+reaction is carried out by heating, it is called thermal decomposition.
+
+CaCO3(s) --Heat--> CaO(s) + CO2(g)      (1.20)
+(Limestone)      (Quick lime)
+
+Another example of a thermal decomposition reaction is given in Activity 1.6.
+You will observe the emission of brown fumes.
+These fumes are of nitrogen dioxide (NO2
+). The
+reaction that takes place is –
+2Pb(NO3)2(s) --Heat--> 2PbO(s) + 4NO2(g) + O2(g)      (1.21)
+
+(Lead nitrate)      (Lead oxide)      (Nitrogen dioxide)      (Oxygen)
+
+You will see that white silver chloride turns grey in sunlight. This is 
+due to the decomposition of silver chloride into silver and chlorine by 
+light.
+
+2AgCl(s) --Sunlight--> 2Ag(s) + Cl2(g)
+
+Silver bromide also behaves in the same way.
+
+2AgBr(s) --Sunlight--> 2Ag(s) + Br2(g)      (1.23)
+
+The above reactions are used in black and white photography.
+
+What form of energy is causing these decomposition reactions?
+
+We have seen that decomposition reactions require energy either 
+in the form of heat, light or electricity for breaking down the reactants. 
+Reactions in which energy is absorbed are known as endothermic reactions.
+
+
+
+

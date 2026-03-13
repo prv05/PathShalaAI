@@ -1,0 +1,23 @@
+ REFLECTION OF LIGHT
+
+A highly polished surface, such as a mirror, reflects most of the light
+falling on it. You are already familiar with the laws of reflection of light.
+Let us recall these laws –
+(i) The angle of incidence is equal to the angle of reflection, and
+(ii) The incident ray, the normal to the mirror at the point of incidence
+and the reflected ray, all lie in the same plane.
+These laws of reflection are applicable to all types of reflecting surfaces
+including spherical surfaces. You are familiar with the formation of image
+by a plane mirror. What are the properties of the image? Image formed
+by a plane mirror is always virtual and erect. The size of the image is
+equal to that of the object. The image formed is as far behind the mirror
+as the object is in front of it. Further, the image is laterally inverted.
+How would the images be when the reflecting surfaces are curved? Let
+us explore.
+The curved surface of a shining spoon could be considered as a curved
+mirror. The most commonly used type of curved mirror is the spherical
+mirror. The reflecting surface of such mirrors can be considered to form
+a part of the surface of a sphere. Such mirrors, whose reflecting surfaces
+are spherical, are called spherical mirrors. We shall now study about
+spherical mirrors in some detail.
+

@@ -1,0 +1,66 @@
+Example 11.8
+In the circuit diagram given in Fig. 11.10, suppose the resistors R1,R2 and R3
+have the values 5 Ω, 10 Ω, 30 Ω, respectively, which have
+been connected to a battery of 12 V. Calculate (a) the current through
+each resistor, (b) the total current in the circuit, and (c) the total circuit
+resistance.
+Solution
+R1= 5 Ω, R2= 10 Ω, and R3 = 30 Ω.
+Potential difference across the battery, V = 12 V.
+This is also the potential difference across each of the individual
+resistor; therefore, to calculate the current in the resistors, we use
+Ohm’s law.
+The current I
+1, through R1= V/ R1
+I1= 12 V/5 Ω = 2.4 A.
+
+The current I2, through R2
+= V/ R2
+I2= 12 V/10 Ω = 1.2 A.
+The current I3, through R3= V/R3
+I3= 12 V/30 Ω = 0.4 A.
+The total current in the circuit,
+I = I1+ I2+ I3
+= (2.4 + 1.2 + 0.4) A
+= 4 A
+The total resistance Rp
+, is given by [Eq. (11.18)]
+1/Rp = 1/5+ 1/10+ 1/30=1/3
+
+Thus, Rp= 3 Ω.
+
+Example 11.9
+If in Fig. 11.12, R1= 10 Ω, R2= 40 Ω, R3= 30 Ω, R4= 20 Ω, R5= 60 Ω,
+and a 12 V battery is connected to the arrangement. Calculate
+(a) the total resistance in the circuit, and (b) the total current flowing
+in the circuit.
+
+Solution
+Suppose we replace the parallel resistors R1and R2by an
+equivalent resistor of resistance, R′. Similarly we replace
+the parallel resistors R3, R4 and R5
+ by an equivalent single
+resistor of resistance R″. Then using Eq. (11.18), we have
+1/ R′ = 1/10 + 1/40 = 5/40; that is R′ = 8 Ω.
+Similarly, 1/ R″ = 1/30 + 1/20 + 1/60 = 6/60;
+that is, R″ = 10 Ω.
+Thus, the total resistance, R = R′ + R″ = 18 Ω.
+To calculate the current, we use Ohm’s law, and get
+ I = V/R = 12 V/18 Ω = 0.67 A.
+
+
+We have seen that in a series circuit the current is constant
+throughout the electric circuit. Thus it is obviously impracticable to
+connect an electric bulb and an electric heater in series, because they
+need currents of widely different values to operate properly (see Example
+11.3). Another major disadvantage of a series circuit is that when one
+component fails the circuit is broken and none of the components works.
+If you have used ‘fairy lights’ to decorate buildings on festivals, on
+marriage celebrations etc., you might have seen the electrician spending
+lot of time in trouble-locating and replacing the ‘dead’ bulb – each has
+to be tested to find which has fused or gone. On the other hand, a parallel
+circuit divides the current through the electrical gadgets. The total
+resistance in a parallel circuit is decreased as per Eq. (11.18). This is
+helpful particularly when each gadget has different resistance and
+requires different current to operate properly.
+

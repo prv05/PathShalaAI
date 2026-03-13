@@ -1,0 +1,41 @@
+ FORCE ON A CURRENT-CARRYING CONDUCTOR
+IN A MAGNETIC FIELD
+
+We have learnt that an electric current flowing through a conductor
+produces a magnetic field. The field so produced exerts a force on a
+magnet placed in the vicinity of the conductor. French scientist Andre
+Marie Ampere (1775–1836) suggested that the magnet must also exert
+an equal and opposite force on the current-carrying conductor. The force
+due to a magnetic field acting on a current-carrying conductor can be
+demonstrated through the following activity.
+
+The displacement of the rod in the above activity suggests that a
+force is exerted on the current-carrying aluminium rod when it is placed
+in a magnetic field. It also suggests that the direction of force is also
+reversed when the direction of current through the conductor is reversed.
+Now change the direction of field to vertically downwards by
+interchanging the two poles of the magnet. It is once again observed that
+the direction of force acting on the current-carrying rod gets reversed. It
+shows that the direction of the force on the conductor depends upon the
+direction of current and the direction of the magnetic field. Experiments
+have shown that the displacement of the rod is largest (or the magnitude
+of the force is the highest) when the direction of current is at right angles
+to the direction of the magnetic field. In such a condition we can use a
+simple rule to find the direction of the force on the conductor.
+In Activity 12.7, we considered the
+direction of the current and that of the magnetic
+field perpendicular to each other and found
+that the force is perpendicular to both of them.
+The three directions can be illustrated through
+a simple rule, called Fleming’s left-hand rule.
+According to this rule, stretch the thumb,
+forefinger and middle finger of your left hand
+such that they are mutually perpendicular
+(Fig. 12.13). If the first finger points in the
+direction of magnetic field and the second
+finger in the direction of current, then the
+thumb will point in the direction of motion or
+the force acting on the conductor.
+Devices that use current-carrying conductors and magnetic fields
+include electric motor, electric generator, loudspeakers, microphones
+and measuring instruments.

@@ -1,0 +1,8 @@
+Example 11.12
+An electric bulb is connected to a 220 V generator. The current is
+0.50 A. What is the power of the bulb?
+Solution
+P = VI
+= 220 V × 0.50 A
+= 110 J/s
+= 110 W.

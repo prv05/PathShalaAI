@@ -1,0 +1,29 @@
+{
+  "class": "10",
+  "subject": "Science",
+  "lesson_name": "Magnetic Effects of Electric Current",
+  "chapter_id": "ch12",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity_12_1",
+      "Activity_12_2",
+      "Activity_12_3",
+      "Activity_12_4",
+      "Activity_12_5",
+      "Activity_12_6",
+      "Activity_12_7"
+    ],
+    "Concepts": [
+      "Domestic_Electric_Circuits",
+      "Force_on_a_current_carrying_conductor",
+      "Hans_Christian_Oersted",
+      "Magnetic_field_and_field_lines",
+      "Magnetic_Field_due_to_a_Current_in_Solenoid",
+      "Magnetic_Field_due_to_a_Current_Through_Circular_Loop",
+      "Magnetism_in_medicine",
+      "Overview",
+      "Right_Hand_Thumb_Rule"
+    ]
+  }
+}

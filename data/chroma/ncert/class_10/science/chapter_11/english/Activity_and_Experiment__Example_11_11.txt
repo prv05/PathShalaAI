@@ -1,0 +1,13 @@
+Example 11.11
+100 J of heat is produced each second in a 4 Ω resistance. Find the
+potential difference across the resistor.
+Solution
+H = 100 J, R = 4 Ω, t = 1 s, V = ?
+From Eq. (11.21) we have the current through the resistor as
+I = √(H/Rt)
+= √[100 J/(4 Ω × 1 s)]
+= 5 A
+Thus the potential difference across the resistor, V [from Eq. (11.5)] is
+V = IR
+= 5 A × 4 Ω
+= 20 V.

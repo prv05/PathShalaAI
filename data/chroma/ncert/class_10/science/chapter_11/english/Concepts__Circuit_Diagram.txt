@@ -1,0 +1,8 @@
+CIRCUIT DIAGRAM
+
+We know that an electric circuit, as shown in Fig. 11.1, comprises a cell
+(or a battery), a plug key, electrical component(s), and connecting wires.
+It is often convenient to draw a schematic diagram, in which different
+components of the circuit are represented by the symbols conveniently
+used. Conventional symbols used to represent some of the most
+commonly used electrical components are given in Table 11.1.

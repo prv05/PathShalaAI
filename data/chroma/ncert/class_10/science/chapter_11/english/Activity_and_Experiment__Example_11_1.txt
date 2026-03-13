@@ -1,0 +1,10 @@
+Example 11.1
+A current of 0.5 A is drawn by a filament of an electric bulb for 10
+minutes. Find the amount of electric charge that flows through the
+circuit.
+Solution
+We are given, I = 0.5 A; t = 10 min = 600 s.
+From Eq. (11.1), we have
+Q = It
+= 0.5 A × 600 s
+= 300 C

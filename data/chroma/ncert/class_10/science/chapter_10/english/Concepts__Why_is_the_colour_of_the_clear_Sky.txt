@@ -1,0 +1,15 @@
+Why is the colour of the clear Sky Blue?
+The molecules of air and other fine particles in the atmosphere have size
+smaller than the wavelength of visible light. These are more effective in
+scattering light of shorter wavelengths at the blue end than light of longer
+wavelengths at the red end. The red light has a wavelength about 1.8
+times greater than blue light. Thus, when sunlight passes through the
+atmosphere, the fine particles in air scatter the blue colour (shorter
+wavelengths) more strongly than red. The scattered blue light enters
+our eyes. If the earth had no atmosphere, there would not have been
+any scattering. Then, the sky would have looked dark. The sky appears
+dark to passengers flying at very high altitudes, as scattering is not
+prominent at such heights.
+You might have observed that ‘danger’ signal lights are red in colour.
+Do you know why? The red is least scattered by fog or smoke. Therefore,
+it can be seen in the same colour at a distance.

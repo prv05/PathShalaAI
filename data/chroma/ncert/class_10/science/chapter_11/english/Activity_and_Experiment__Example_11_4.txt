@@ -1,0 +1,29 @@
+Example 11.4
+
+The potential difference between the terminals of an electric heater
+is 60 V when it draws a current of 4 A from the source.
+What current will the heater draw if the potential difference
+is increased to 120 V?
+
+Solution:
+
+Given:
+Potential difference, V = 60 V
+Current, I = 4 A
+
+According to Ohm’s law,
+V = IR
+
+So,
+R = V / I
+R = 60 / 4
+R = 15 ohm
+
+When the potential difference is increased to 120 V,
+the current is given by:
+
+I = V / R
+I = 120 / 15
+I = 8 A
+
+Therefore, the current through the heater becomes 8 A.

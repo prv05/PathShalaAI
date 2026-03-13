@@ -1,0 +1,32 @@
+REFRACTION OF LIGHT
+
+Light seems to travel along straight-line paths in a transparent medium.
+What happens when light enters from one transparent medium to
+another? Does it still move along a straight-line path or change its
+direction? We shall recall some of our day-to-day experiences.
+You might have observed that the bottom of a tank or a pond
+containing water appears to be raised. Similarly, when a thick glass slab
+is placed over some printed matter, the letters appear raised when viewed
+through the glass slab. Why does it happen? Have you seen a pencil
+partly immersed in water in a glass tumbler? It appears to be displaced
+at the interface of air and water. You might have observed that a lemon
+kept in water in a glass tumbler appears to be bigger than its actual
+size, when viewed from the sides. How can you account for such
+experiences?
+Let us consider the case of the apparent displacement of a pencil,
+partly immersed in water. The light reaching you from the portion of the
+pencil inside water seems to come from a different direction, compared
+to the part above water. This makes the pencil appear to be displaced at
+the interface. For similar reasons, the letters appear to be raised, when
+seen through a glass slab placed over it.
+Does a pencil appear to be displaced to the same extent, if instead of
+water, we use liquids like kerosene or turpentine? Will the letters appear
+to rise to the same height if we replace a glass slab with a transparent
+plastic slab? You will find that the extent of the effect is different for
+different pair of media. These observations indicate that light does not travel in the same direction in all media. It appears that when travelling
+obliquely from one medium to another, the direction of propagation of
+light in the second medium changes. This phenomenon is known as
+refraction of light. Let us understand this phenomenon further by doing
+a few activities.The coin becomes visible again on pouring water into the bowl. The
+coin appears slightly raised above its actual position due to refraction of
+light.

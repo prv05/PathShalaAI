@@ -1,0 +1,66 @@
+ What Happens to an Acid or a Base in a Water Solution?
+
+Activity 2.9
+
+Take about 1g solid NaCl in a clean and
+dry test tube and set up the apparatus as
+shown in Fig. 2.4.
+n Add some concentrated sulphuric acid to
+the test tube.
+n What do you observe? Is there a gas coming
+out of the delivery tube?
+n Test the gas evolved successively with dry
+and wet blue litmus paper.
+n In which case does the litmus paper change
+colour?
+n On the basis of the above Activity, what do
+you infer about the acidic character of:
+(i) dry HCl gas
+(ii) HCl solution?
+
+This experiment suggests that hydrogen ions in HCl are produced 
+in the presence of water. The separation of H+ ion from HCl molecules 
+cannot occur in the absence of water.
+
+HCl + H2O → H3O+ + Cl–
+
+Hydrogen ions cannot exist alone, but they exist after combining 
+with water molecules. Thus hydrogen ions must always be shown as 
+H+(aq) or hydronium ion (H3O+).
+
+H+ + H2O → H3O+
+
+We have seen that acids give H3O+ or H+(aq) ion in water. Let us see 
+what happens when a base is dissolved in water.
+
+NaOH(s) --H2O--> Na+(aq) + OH–(aq)
+
+KOH(s) --H2O--> K+(aq) + OH–(aq)
+
+Mg(OH)2(s) --H2O--> Mg2+(aq) + 2OH–(aq)
+
+Bases generate hydroxide (OH–) ions in water. Bases which are soluble 
+in water are called alkalis.
+
+Now as we have identified that all acids generate H+(aq) and all 
+bases generate OH–(aq), we can view the neutralisation reaction as 
+follows –
+
+Acid + Base → Salt + Water
+
+HX + MOH → MX + HOH
+
+H+(aq) + OH–(aq) → H2O(l)
+
+The process of dissolving an acid or a base in water is a highly
+exothermic one. Care must be taken while mixing concentrated nitric
+acid or sulphuric acid with water. The acid must always be added slowly
+to water with constant stirring. If water is added to a concentrated acid,
+the heat generated may cause the mixture to splash out and cause burns.
+The glass container may also break due to excessive local heating. Look
+out for the warning sign (shown in Fig. 2.5) on the can of concentrated
+sulphuric acid and on the bottle of sodium hydroxide pellets.
+Mixing an acid or base with water results in decrease in the
+concentration of ions (H3O+/OH–
+) per unit volume. Such a process is
+called dilution and the acid or the base is said to be diluted.

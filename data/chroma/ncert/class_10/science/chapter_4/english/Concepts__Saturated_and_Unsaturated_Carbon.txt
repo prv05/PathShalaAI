@@ -1,0 +1,38 @@
+Saturated and Unsaturated Carbon Compounds
+We have already seen the structure of methane. Another compound
+formed between carbon and hydrogen is ethane with a formula of C2H6
+.
+In order to arrive at the structure of simple carbon
+compounds, the first step is to link the carbon atoms
+together with a single bond (Fig. 4.6a) and then use the
+hydrogen atoms to satisfy the remaining valencies of carbon
+(Fig. 4.6b). For example, the structure of ethane is arrived
+in the following steps –
+C—C              Step 1
+
+Three valencies of each carbon atom remain unsatisfied,
+so each is bonded to three hydrogen atoms giving:
+The electron dot structure of ethane is shown in Fig. 4.6(c).
+Can you draw the structure of propane, which has the molecular
+formula C3H8 in a similar manner? You will see that the valencies of all
+the atoms are satisfied by single bonds between them. Such carbon
+compounds are called saturated compounds. These compounds are
+normally not very reactive.
+However, another compound of carbon and hydrogen has the formula
+C2H4
+ and is called ethene. How can this molecule be depicted? We follow
+the same step-wise approach as above.
+Carbon-carbon atoms linked together with a single bond (Step 1).
+We see that one valency per carbon atom remains unsatisfied
+(Step 2). This can be satisfied only if there is a double bond between the
+two carbons (Step 3).
+The electron dot structure for ethene is given in Fig. 4.7.
+Yet another compound of hydrogen and carbon has the formula
+C2H2
+ and is called ethyne. Can you draw the electron dot
+structure for ethyne? How many bonds are necessary between
+the two carbon atoms in order to satisfy their valencies? Such
+compounds of carbon having double or triple bonds between
+the carbon atoms are known as unsaturated carbon compounds
+and they are more reactive than the saturated carbon
+compounds.

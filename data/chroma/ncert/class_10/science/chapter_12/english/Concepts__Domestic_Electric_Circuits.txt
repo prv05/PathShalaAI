@@ -1,0 +1,42 @@
+DOMESTIC ELECTRIC CIRCUITS
+
+In our homes, we receive supply of electric power through a main supply
+(also called mains), either supported through overhead electric poles or
+by underground cables. One of the wires in this supply, usually with
+red insulation cover, is called live wire (or positive). Another wire, with
+black insulation, is called neutral wire (or negative). In our country, the
+potential difference between the two is 220 V.
+At the meter-board in the house, these wires pass into an electricity
+meter through a main fuse. Through the main switch they are connected
+to the line wires in the house. These wires supply electricity to separate
+circuits within the house. Often, two separate circuits are used, one of
+15 A current rating for appliances with higher power ratings such as
+geysers, air coolers, etc. The other circuit is of 5 A current rating for
+bulbs, fans, etc. The earth wire, which has insulation of green colour, is
+usually connected to a metal plate deep in the earth near the house.
+This is used as a safety measure, especially for those appliances that
+have a metallic body, for example, electric press, toaster, table fan,
+refrigerator, etc. The metallic body is connected to the earth wire, which
+provides a low-resistance conducting path for the current. Thus, it
+ensures that any leakage of current to the metallic body of the appliance
+keeps its potential to that of the earth, and the user may not get a severe
+electric shock.Figure 12.15 gives a schematic diagram of one of the common
+domestic circuits. In each separate circuit, different appliances can be
+connected across the live and neutral wires. Each appliance has a
+separate switch to ‘ON’/‘OFF’ the flow of current through it. In order
+that each appliance has equal potential difference, they are connected
+parallel to each other.
+Electric fuse is an important component of all domestic circuits. We
+have already studied the principle and working of a fuse in the previous
+chapter (see Section 11.7). A fuse in a circuit prevents damage to the
+appliances and the circuit due to overloading. Overloading can occur
+when the live wire and the neutral wire come into direct contact. (This
+occurs when the insulation of wires is damaged or there is a fault in the
+appliance.) In such a situation, the current in the circuit abruptly
+increases. This is called short-circuiting. The use of an electric fuse
+prevents the electric circuit and the appliance from a possible damage
+by stopping the flow of unduly high electric current. The Joule heating
+that takes place in the fuse melts it to break the electric circuit.
+Overloading can also occur due to an accidental hike in the supply
+voltage. Sometimes overloading is caused by connecting too many
+appliances to a single socket.

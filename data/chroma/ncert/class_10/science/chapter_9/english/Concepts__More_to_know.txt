@@ -1,0 +1,12 @@
+More to know
+
+If an opaque object on the path of light becomes very small, light has a tendency to
+bend around it and not walk in a straight line – an effect known as the diffraction of
+light. Then the straight-line treatment of optics using rays fails. To explain phenomena
+such as diffraction, light is thought of as a wave, the details of which you will study
+in higher classes. Again, at the beginning of the 20th century, it became known that
+the wave theory of light often becomes inadequate for treatment of the interaction of
+light with matter, and light often behaves somewhat like a stream of particles. This
+confusion about the true nature of light continued for some years till a modern
+quantum theory of light emerged in which light is neither a ‘wave’ nor a ‘particle’ –
+the new theory reconciles the particle properties of light with the wave nature.

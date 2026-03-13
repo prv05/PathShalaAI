@@ -1,0 +1,15 @@
+Writing a Chemical Equation
+
+Is there any other shorter way for representing chemical equations?
+Chemical equations can be made more concise and useful if we use
+chemical formulae instead of words. A chemical equation represents a
+chemical reaction. If you recall formulae of magnesium, oxygen and
+magnesium oxide, the above word-equation can be written as –
+Mg + O2 → MgO (1.2)
+Count and compare the number of atoms of each element on the
+LHS and RHS of the arrow. Is the number of atoms of each element the
+same on both the sides? If yes, then the equation is balanced. If not,
+then the equation is unbalanced because the mass is not the same on
+both sides of the equation. Such a chemical equation is a skeletal
+chemical equation for a reaction. Equation (1.2) is a skeletal chemical
+equation for the burning of magnesium in air.

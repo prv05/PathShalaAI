@@ -1,0 +1,46 @@
+Example 11.9
+
+If in Fig. 11.12,
+R1 = 10 ohm, R2 = 40 ohm, R3 = 30 ohm,
+R4 = 20 ohm, R5 = 60 ohm,
+and a 12 V battery is connected to the arrangement.
+
+Calculate:
+(a) the total resistance in the circuit, and
+(b) the total current flowing in the circuit.
+
+Solution:
+
+Suppose we replace the parallel resistors R1 and R2
+by an equivalent resistor of resistance R′.
+
+Similarly, we replace the parallel resistors R3, R4 and R5
+by an equivalent single resistor of resistance R″.
+
+Using the formula for resistors in parallel:
+
+1/R′ = 1/10 + 1/40
+     = 5/40
+
+Therefore,
+R′ = 8 ohm
+
+Similarly,
+
+1/R″ = 1/30 + 1/20 + 1/60
+     = 6/60
+
+Therefore,
+R″ = 10 ohm
+
+Thus, the total resistance in the circuit is:
+
+R = R′ + R″
+R = 8 + 10
+R = 18 ohm
+
+To calculate the current, we use Ohm’s law:
+
+I = V / R
+I = 12 / 18
+I = 0.67 A

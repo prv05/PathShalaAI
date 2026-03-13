@@ -1,0 +1,19 @@
+{
+  "class": "6",
+  "subject": "Science",
+  "lesson_name": "Living_Creatures_Exploring_their_Characteristics",
+  "chapter_id": "ch10",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activities"
+    ],
+    "Concepts": [
+      "10_1_Introduction",
+      "10_2_What_is_Environment",
+      "10_3_Human_Impact_on_the_Environment",
+      "10_4_Waste_Management",
+      "10_5_Living_Sustainably"
+    ]
+  }
+}

@@ -1,0 +1,5 @@
+The Reactivity Series
+The reactivity series is a list of metals arranged in the order of their
+decreasing activities. After performing displacement experiments
+(Activities 1.9 and 3.12), the following series, (Table 3.2) known as the
+reactivity or activity series has been developed.

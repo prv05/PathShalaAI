@@ -1,0 +1,44 @@
+{
+  "class": "10",
+  "subject": "Science",
+  "lesson_name": "Acids, Bases and Salts",
+  "chapter_id": "ch2",
+  "language": "en",
+  "topics": {
+    "Activity_and_Experiment": [
+      "Activity_3_1",
+      "Activity_3_2",
+      "Activity_3_3",
+      "Activity_3_4",
+      "Activity_3_5",
+      "Activity_3_6",
+      "Activity_3_7",
+      "Activity_3_8",
+      "Activity_3_10",
+      "Activity_3_11",
+      "Activity_3_12",
+      "Activity_3_13",
+      "Activity_3_14"
+    ],
+    "Concepts": [
+      "Corrosion",
+      "Do_u_know",
+      "Do_you_know",
+      "Enrichment_of_Ores",
+      "Extracting_Metals_in_the_Middle_of_the_Activity_Series",
+      "Extracting_Metals_Low_in_the_Activity_Series",
+      "Extracting_Metals_towards_the_Top_of_the_Activity_Series",
+      "Extraction_of_Metals",
+      "How_do_metals_and_non_metals_react",
+      "How_do_Metals_react_with_Solutions",
+      "Physical_Properties",
+      "Prevention_of_Corrosion",
+      "Properties_of_Ionic_Compounds",
+      "Refining_of_Metals",
+      "The_Reactivity_Series",
+      "What_happens_when_Metals_are_burnt_in_Air",
+      "What_happens_when_Metals_react_with_Acids",
+      "What_happens_when_Metals_react_with_water"
+    ]
+  }
+}

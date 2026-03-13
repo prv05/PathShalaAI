@@ -1,0 +1,15 @@
+Image Formation by Spherical Mirrors
+
+You have studied about the image formation by plane mirrors. You also
+know the nature, position and relative size of the images formed by them.
+How about the images formed by spherical mirrors? How can we locate
+the image formed by a concave mirror for different positions of the object?
+Are the images real or virtual? Are they enlarged, diminished or have
+the same size? We shall explore this with an Activity.
+ou will see in the above Activity that the nature, position and size of
+the image formed by a concave mirror depends on the position of the
+object in relation to points P, F and C. The image formed is real for some
+positions of the object. It is found to be a virtual image for a certain other
+position. The image is either magnified, reduced or has the same size,
+depending on the position of the object. A summary of these observations
+is given for your reference in Table 9.1.

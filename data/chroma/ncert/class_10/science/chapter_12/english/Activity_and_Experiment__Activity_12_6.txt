@@ -1,0 +1,12 @@
+Activity 12.6
+
+n Take a rectangular cardboard having two holes.
+Insert a circular coil having large number of turns
+through them, normal to the plane of the cardboard.
+n Connect the ends of the coil in series with a battery,
+a key and a rheostat, as shown in Fig. 12.9.
+n Sprinkle iron filings uniformly on the cardboard.
+n Plug the key.
+n Tap the cardboard gently a few times. Note the
+pattern of the iron filings that emerges on the
+cardboard.

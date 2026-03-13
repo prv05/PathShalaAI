@@ -1,0 +1,12 @@
+Activity 12.1
+
+ Take a straight thick copper wire and place it
+between the points X and Y in an electric circuit,
+as shown in Fig. 12.1. The wire XY is kept
+perpendicular to the plane of paper.
+ Horizontally place a small compass near to this
+copper wire. See the position of its needle.
+ Pass the current through the circuit by
+inserting the key into the plug.
+ Observe the change in the position of the
+compass needle.
