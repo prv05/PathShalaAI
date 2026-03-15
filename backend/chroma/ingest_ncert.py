@@ -1,15 +1,32 @@
 import json
+import os
 from pathlib import Path
 import chromadb
 from chromadb.utils import embedding_functions
+from dotenv import load_dotenv
+
+BASE_DIR = Path(__file__).resolve().parents[1]
+load_dotenv(BASE_DIR / ".env")
 
 # ---------- PATHS ----------
-BASE = Path("data/chroma/ncert/class_10/science/chapter_1")
-TEXT_DIR = BASE / "english"
+INGEST_CLASS_DIR = os.getenv("INGEST_CLASS_DIR", "class_10")
+INGEST_SUBJECT = os.getenv("INGEST_SUBJECT", "science")
+INGEST_CHAPTER = os.getenv("INGEST_CHAPTER", "chapter_1")
+INGEST_LANGUAGE = os.getenv("INGEST_LANGUAGE", "english")
+
+DATA_ROOT = Path(__file__).resolve().parents[2] / "data" / "chroma" / "ncert"
+BASE = DATA_ROOT / INGEST_CLASS_DIR / INGEST_SUBJECT / INGEST_CHAPTER
+TEXT_DIR = BASE / INGEST_LANGUAGE
 META_FILE = BASE / "metadata.json"
-CHROMA_PERSIST = Path(__file__).parent.parent / "chroma" / "data"
+CHROMA_PERSIST = Path(os.getenv("CHROMA_PERSIST_DIR", str(BASE_DIR / "chroma" / "data")))
 
 # ---------- LOAD METADATA ----------
+if not META_FILE.exists():
+    raise FileNotFoundError(f"Metadata file not found: {META_FILE}")
+
+if not TEXT_DIR.exists():
+    raise FileNotFoundError(f"Text directory not found: {TEXT_DIR}")
+
 metadata_master = json.loads(META_FILE.read_text(encoding="utf-8"))
 
 # ---------- EMBEDDING FUNCTION ----------
@@ -22,7 +39,10 @@ client = chromadb.PersistentClient(
     path=str(CHROMA_PERSIST)
 )
 
-COLLECTION_NAME = "ncert_class10_science"
+COLLECTION_NAME = os.getenv(
+    "INGEST_COLLECTION_NAME",
+    f"ncert_class{str(metadata_master.get('class', '10')).strip()}_{str(metadata_master.get('subject', 'science')).strip().lower()}"
+)
 
 collection = client.get_or_create_collection(
     name=COLLECTION_NAME,
@@ -65,7 +85,11 @@ for file in TEXT_DIR.glob("*.txt"):
         "source": "NCERT"
     }
 
-    doc_id = f"10_science_ch1_{topic}_{subtopic}_en_{index:03d}"
+    cls = str(metadata_master.get("class", "")).strip().replace(" ", "")
+    subj = str(metadata_master.get("subject", "science")).strip().lower().replace(" ", "_")
+    chapter_id = str(metadata_master.get("chapter_id", "ch")).strip().lower().replace(" ", "_")
+    lang = str(metadata_master.get("language", "en")).strip().lower().replace(" ", "_")
+    doc_id = f"{cls}_{subj}_{chapter_id}_{topic}_{subtopic}_{lang}_{index:03d}"
 
     collection.add(
         documents=[text],
@@ -75,4 +99,6 @@ for file in TEXT_DIR.glob("*.txt"):
 
     index += 1
 
-print(f"✅ Ingestion completed. Total chunks ingested: {index - 1}")
+print(f"Ingestion completed. Total chunks ingested: {index - 1}")
+print(f"Collection: {COLLECTION_NAME}")
+print(f"Source: {BASE}")

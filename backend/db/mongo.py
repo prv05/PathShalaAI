@@ -1,89 +1,143 @@
-"""MongoDB connector and simple smoke test.
-
-Run directly to insert and fetch from the three collections.
 """
-import json
-import os
-import time
-from typing import Any, Dict
-
+MongoDB connection and helper functions.
+Manages connections to MongoDB Atlas for dynamic AI data and logs.
+"""
 from pymongo import MongoClient
-
-MONGO_URI = os.getenv("MONGO_URI")
-if not MONGO_URI:
-    raise RuntimeError("MONGO_URI is required for MongoDB Atlas connectivity")
-MONGO_DB_NAME = os.getenv("MONGO_DB_NAME", "pathshala")
+from pymongo.errors import ServerSelectionTimeoutError
+from config import MONGO_URI, MONGO_DB_NAME
+from datetime import datetime
 
 
-COLLECTIONS = {
-    "lesson_sessions": "lesson_sessions",
-    "doubts_asked": "doubts_asked",
-    "ai_interactions": "ai_interactions",
-}
+def get_mongo_client():
+    """
+    Get a MongoDB client instance.
+    """
+    if not MONGO_URI:
+        raise ValueError("MONGO_URI environment variable is not set")
+    
+    return MongoClient(MONGO_URI, serverSelectionTimeoutMS=5000)
 
 
-def get_client(uri: str | None = None) -> MongoClient:
-    return MongoClient(uri or MONGO_URI, uuidRepresentation="standard")
+def get_db():
+    """
+    Get the MongoDB database instance.
+    """
+    client = get_mongo_client()
+    return client[MONGO_DB_NAME]
 
 
-def get_db(client: MongoClient | None = None, name: str | None = None):
-    cli = client or get_client()
-    return cli[name or MONGO_DB_NAME]
-
-
-def init_collections(db) -> Dict[str, Any]:
-    for coll_name in COLLECTIONS.values():
-        db[coll_name].create_index("created_at")
-    return {k: db[v].name for k, v in COLLECTIONS.items()}
-
-
-def test_insert_and_fetch(db=None) -> Dict[str, Any]:
-    database = db or get_db()
-    init_collections(database)
-    ts = int(time.time())
-
-    lesson_doc = {
-        "lesson_id": "lesson-1",
-        "user_id": "user-1",
-        "status": "started",
-        "created_at": ts,
-    }
-    doubt_doc = {
-        "question": "What is photosynthesis?",
-        "user_id": "user-1",
-        "created_at": ts,
-    }
-    ai_doc = {
-        "interaction_type": "insight",
-        "user_id": "user-1",
-        "prompt": "Summarize chapter 1",
-        "created_at": ts,
-    }
-
-    database[COLLECTIONS["lesson_sessions"]].insert_one(lesson_doc)
-    database[COLLECTIONS["doubts_asked"]].insert_one(doubt_doc)
-    database[COLLECTIONS["ai_interactions"]].insert_one(ai_doc)
-
-    last_lesson = database[COLLECTIONS["lesson_sessions"]].find_one(sort=[("_id", -1)])
-    last_doubt = database[COLLECTIONS["doubts_asked"]].find_one(sort=[("_id", -1)])
-    last_ai = database[COLLECTIONS["ai_interactions"]].find_one(sort=[("_id", -1)])
-
-    return {
-        "lesson_sessions": _stringify_ids(last_lesson),
-        "doubts_asked": _stringify_ids(last_doubt),
-        "ai_interactions": _stringify_ids(last_ai),
-    }
-
-
-def _stringify_ids(document: Dict[str, Any] | None) -> Dict[str, Any] | None:
-    if document is None:
+def log_interaction(question, retrieved_chunks, answer, model, latency, user_id=None, class_level=None):
+    """
+    Log an AI interaction to MongoDB.
+    
+    Args:
+        question: The question asked
+        retrieved_chunks: List of retrieved context chunks
+        answer: The LLM-generated answer
+        model: The model used
+        latency: Response time in seconds
+        user_id: Optional user ID
+        class_level: Optional class level
+    """
+    try:
+        db = get_db()
+        collection = db["interaction_logs"]
+        
+        log_entry = {
+            "question": question,
+            "retrieved_chunks": retrieved_chunks,
+            "answer": answer,
+            "model": model,
+            "latency": latency,
+            "user_id": user_id,
+            "class_level": class_level,
+            "timestamp": datetime.utcnow()
+        }
+        
+        result = collection.insert_one(log_entry)
+        return str(result.inserted_id)
+    except ServerSelectionTimeoutError:
+        print("✗ MongoDB connection failed - interaction not logged")
         return None
-    doc_copy = dict(document)
-    if "_id" in doc_copy:
-        doc_copy["_id"] = str(doc_copy["_id"])
-    return doc_copy
 
 
-if __name__ == "__main__":
-    result = test_insert_and_fetch()
-    print(json.dumps(result, indent=2))
+def log_teaching_interaction(user_id, class_level, subject, chapter, action, metadata=None):
+    """
+    Log teaching/learning interactions for analytics.
+    
+    Args:
+        user_id: User ID
+        class_level: Class level
+        subject: Subject name
+        chapter: Chapter name
+        action: Action type (e.g., "chapter_started", "quiz_completed", "doubt_raised")
+        metadata: Additional metadata dictionary
+    """
+    try:
+        db = get_db()
+        collection = db["teaching_logs"]
+        
+        log_entry = {
+            "user_id": user_id,
+            "class_level": class_level,
+            "subject": subject,
+            "chapter": chapter,
+            "action": action,
+            "metadata": metadata or {},
+            "timestamp": datetime.utcnow()
+        }
+        
+        result = collection.insert_one(log_entry)
+        return str(result.inserted_id)
+    except Exception as e:
+        print(f"✗ Error logging teaching interaction: {e}")
+        return None
+
+
+def get_interaction_logs(user_id=None, limit=50):
+    """
+    Retrieve interaction logs with optional filtering.
+    """
+    try:
+        db = get_db()
+        collection = db["interaction_logs"]
+        
+        query = {}
+        if user_id:
+            query["user_id"] = user_id
+        
+        logs = list(collection.find(query).sort("timestamp", -1).limit(limit))
+        
+        # Convert ObjectId to string for JSON serialization
+        for log in logs:
+            log["_id"] = str(log["_id"])
+        
+        return logs
+    except Exception as e:
+        print(f"✗ Error retrieving logs: {e}")
+        return []
+
+
+def init_mongo():
+    """
+    Initialize MongoDB collections and indexes.
+    """
+    try:
+        db = get_db()
+        
+        # Create interaction_logs collection with index
+        if "interaction_logs" not in db.list_collection_names():
+            db.create_collection("interaction_logs")
+        db["interaction_logs"].create_index("timestamp")
+        db["interaction_logs"].create_index("user_id")
+        
+        # Create teaching_logs collection with index
+        if "teaching_logs" not in db.list_collection_names():
+            db.create_collection("teaching_logs")
+        db["teaching_logs"].create_index("timestamp")
+        db["teaching_logs"].create_index("user_id")
+        db["teaching_logs"].create_index([("class_level", 1), ("subject", 1)])
+        
+        print("✓ MongoDB collections initialized successfully")
+    except Exception as e:
+        print(f"✗ Error initializing MongoDB: {e}")

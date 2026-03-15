@@ -1,127 +1,131 @@
-"""PostgreSQL connector and lightweight schema helpers.
-
-Run this file directly to perform a smoke test (create tables, insert rows, fetch one row).
 """
-import json
+PostgreSQL connection and helper functions.
+Manages connections to Railway PostgreSQL database.
+"""
 import os
-import uuid
-from typing import Any, Dict
-
-from sqlalchemy import Column, DateTime, ForeignKey, MetaData, String, Table, create_engine, func, select
-from sqlalchemy.engine import Engine
-
-DATABASE_URL = os.getenv("DATABASE_URL")
-if not DATABASE_URL:
-    raise RuntimeError("DATABASE_URL is required for cloud PostgreSQL connectivity")
-
-metadata = MetaData()
-
-users = Table(
-    "users",
-    metadata,
-    Column("id", String(36), primary_key=True),
-    Column("email", String(255), unique=True, nullable=False),
-    Column("name", String(120), nullable=False),
-    Column("class_level", String(20), nullable=True),
-    Column("created_at", DateTime(timezone=True), server_default=func.now()),
-)
-
-subjects = Table(
-    "subjects",
-    metadata,
-    Column("id", String(36), primary_key=True),
-    Column("name", String(120), nullable=False),
-    Column("class_level", String(20), nullable=True),
-    Column("created_at", DateTime(timezone=True), server_default=func.now()),
-)
-
-chapters = Table(
-    "chapters",
-    metadata,
-    Column("id", String(36), primary_key=True),
-    Column("subject_id", String(36), ForeignKey("subjects.id", ondelete="CASCADE"), nullable=False),
-    Column("title", String(200), nullable=False),
-    Column("created_at", DateTime(timezone=True), server_default=func.now()),
-)
-
-topics = Table(
-    "topics",
-    metadata,
-    Column("id", String(36), primary_key=True),
-    Column("chapter_id", String(36), ForeignKey("chapters.id", ondelete="CASCADE"), nullable=False),
-    Column("title", String(200), nullable=False),
-    Column("description", String(500), nullable=True),
-    Column("created_at", DateTime(timezone=True), server_default=func.now()),
-)
+import psycopg2
+from psycopg2.extras import RealDictCursor
+from config import DATABASE_URL
 
 
-def get_engine(url: str | None = None) -> Engine:
-    return create_engine(url or DATABASE_URL, pool_pre_ping=True)
+def get_conn():
+    """
+    Get a new PostgreSQL connection.
+    """
+    if not DATABASE_URL:
+        raise ValueError("DATABASE_URL environment variable is not set")
+    
+    return psycopg2.connect(DATABASE_URL, sslmode="require")
 
 
-def init_postgres(engine: Engine | None = None) -> Engine:
-    eng = engine or get_engine()
-    metadata.create_all(eng)
-    return eng
+def execute_query(query, params=None, fetch_one=False, fetch_all=False):
+    """
+    Execute a query and optionally fetch results.
+    
+    Args:
+        query: SQL query string
+        params: Tuple of parameters for the query
+        fetch_one: If True, return one row
+        fetch_all: If True, return all rows
+    
+    Returns:
+        Query result or None
+    """
+    conn = get_conn()
+    try:
+        cur = conn.cursor(cursor_factory=RealDictCursor)
+        cur.execute(query, params or ())
+        
+        if fetch_one:
+            result = cur.fetchone()
+        elif fetch_all:
+            result = cur.fetchall()
+        else:
+            result = None
+        
+        conn.commit()
+        return result
+    finally:
+        cur.close()
+        conn.close()
 
 
-def _random_email() -> str:
-    return f"student+{uuid.uuid4().hex[:8]}@example.com"
-
-
-def test_insert_and_fetch(engine: Engine | None = None) -> Dict[str, Any]:
-    eng = engine or get_engine()
-    init_postgres(eng)
-
-    with eng.begin() as conn:
-        user_id = str(uuid.uuid4())
-        subject_id = str(uuid.uuid4())
-        chapter_id = str(uuid.uuid4())
-        topic_id = str(uuid.uuid4())
-
-        conn.execute(
-            users.insert().values(
-                id=user_id,
-                email=_random_email(),
-                name="Test User",
-                class_level="10",
-            )
-        )
-
-        conn.execute(
-            subjects.insert().values(
-                id=subject_id,
-                name="Mathematics",
-                class_level="10",
-            )
-        )
-
-        conn.execute(
-            chapters.insert().values(
-                id=chapter_id,
-                subject_id=subject_id,
-                title="Algebra",
-            )
-        )
-
-        conn.execute(
-            topics.insert().values(
-                id=topic_id,
-                chapter_id=chapter_id,
-                title="Linear Equations",
-                description="Testing topic insert",
-            )
-        )
-
-        fetched_user = conn.execute(select(users).limit(1)).mappings().first()
-        fetched_topic = conn.execute(select(topics).limit(1)).mappings().first()
-
-    return {
-        "user": dict(fetched_user) if fetched_user else None,
-        "topic": dict(fetched_topic) if fetched_topic else None,
-    }
-
-
-if __name__ == "__main__":
-    result = test_insert_and_fetch()
-    print(json.dumps(result, indent=2, default=str))
+def init_db():
+    """
+    Initialize database tables. Run this once to set up the schema.
+    """
+    conn = get_conn()
+    cur = conn.cursor()
+    
+    try:
+        # Create users table
+        cur.execute("""
+            CREATE TABLE IF NOT EXISTS users (
+                id SERIAL PRIMARY KEY,
+                role VARCHAR(20) NOT NULL CHECK (role IN ('student', 'parent')),
+                full_name VARCHAR(120) NOT NULL,
+                email VARCHAR(150) UNIQUE NOT NULL,
+                password_hash TEXT NOT NULL,
+                created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            );
+        """)
+        
+        # Create student_profiles table
+        cur.execute("""
+            CREATE TABLE IF NOT EXISTS student_profiles (
+                user_id INT PRIMARY KEY REFERENCES users(id) ON DELETE CASCADE,
+                gender VARCHAR(20),
+                class_level INT,
+                board VARCHAR(50),
+                last_exam_marks INT,
+                parent_email VARCHAR(150)
+            );
+        """)
+        
+        # Create lesson_progress table
+        cur.execute("""
+            CREATE TABLE IF NOT EXISTS lesson_progress (
+                id SERIAL PRIMARY KEY,
+                user_id INT NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+                class VARCHAR(10) NOT NULL,
+                subject VARCHAR(50) NOT NULL,
+                chapter VARCHAR(50) NOT NULL,
+                topic VARCHAR(100),
+                completed BOOLEAN DEFAULT FALSE,
+                last_accessed TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            );
+        """)
+        
+        # Create quiz_attempts table
+        cur.execute("""
+            CREATE TABLE IF NOT EXISTS quiz_attempts (
+                id SERIAL PRIMARY KEY,
+                user_id INT NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+                class VARCHAR(10) NOT NULL,
+                subject VARCHAR(50) NOT NULL,
+                chapter VARCHAR(50) NOT NULL,
+                score INT,
+                total_questions INT,
+                attempted_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            );
+        """)
+        
+        # Create sessions table
+        cur.execute("""
+            CREATE TABLE IF NOT EXISTS sessions (
+                id SERIAL PRIMARY KEY,
+                user_id INT NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+                token TEXT UNIQUE NOT NULL,
+                expires_at TIMESTAMP NOT NULL,
+                created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+            );
+        """)
+        
+        conn.commit()
+        print("✓ Database tables initialized successfully")
+    except Exception as e:
+        print(f"✗ Error initializing database: {e}")
+        conn.rollback()
+    finally:
+        cur.close()
+        conn.close()
